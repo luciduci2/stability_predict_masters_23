@@ -6,7 +6,7 @@ This is still under construction. Last updated October 5th 2023
 In this repo you can find:
   - Environment yml-file.
   - Raw databases and the used preprocessing scripts.
-  - The training - validation - test separation of the databases.
+  - The training, validation and test sets separation of the databases.
   - Scripts used for training and validation.
   - The models and dataloaders used for training.
 
