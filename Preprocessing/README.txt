@@ -1,1 +1,0 @@
-The scripts have to be run in a specific order.
