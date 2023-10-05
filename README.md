@@ -11,4 +11,4 @@ In this repo you can find:
   - The models and dataloaders used for training.
 
 This is NOT included in the repo:
-  - The developed models. The files were too large and are instead stored by Ingemar André.
+  - The developed models. The files were too large to uplad here and are instead stored by Ingemar André.
