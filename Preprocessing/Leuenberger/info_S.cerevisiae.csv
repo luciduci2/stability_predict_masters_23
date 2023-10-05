@@ -1,0 +1,707 @@
+tm,stability,entry,proteinname
+41.92515004,Unstable,Q08972,[NU+] prion formation protein 1
+51.43864621,Medium,P38631,"1,3-beta-glucan synthase component FKS1 (EC 2.4.1.34) (1,3-beta-D-glucan-UDP glucosyltransferase) (Calcineurin dependent protein 1) (Calcofluor white hypersensitivity protein 53) (Echinocandin target gene protein 1) (FK506 sensitivity protein 1) (Glucan synthase of cerevisiae protein 1) (Papulacandin B resistance protein 1)"
+48.53238976,Medium,P22146,"1,3-beta-glucanosyltransferase GAS1 (EC 2.4.1.-) (Glycolipid-anchored surface protein 1) (Glycoprotein GP115)"
+49.53127123,Medium,P22943,12 kDa heat shock protein (Glucose and lipid-regulated protein)
+50.96415608,Medium,Q12166,"2-isopropylmalate synthase 2, mitochondrial (EC 2.3.3.13) (Alpha-IPM synthase 2) (Alpha-isopropylmalate synthase 2) (Alpha-isopropylmalate synthase II)"
+44.01093568,Medium,P20967,"2-oxoglutarate dehydrogenase, mitochondrial (EC 1.2.4.2) (2-oxoglutarate dehydrogenase complex component E1) (OGDC-E1) (Alpha-ketoglutarate dehydrogenase)"
+53.48623917,Medium,P33299,26S protease regulatory subunit 7 homolog (Protein CIM5) (Tat-binding homolog 3)
+53.0008433,Medium,Q01939,26S protease regulatory subunit 8 homolog (Protein CIM3) (Protein SUG1) (Tat-binding protein TBY1)
+44.43695241,Medium,P38764,26S proteasome regulatory subunit RPN1 (HMG-CoA reductase degradation protein 2) (Proteasome non-ATPase subunit 1)
+54.04922427,Medium,P38886,26S proteasome regulatory subunit RPN10
+46.00027883,Medium,P32496,26S proteasome regulatory subunit RPN12 (Nuclear integrity protein 1)
+48.05931942,Medium,O13563,26S proteasome regulatory subunit RPN13 (Proteasome non-ATPase subunit 13)
+47.57227725,Medium,P32565,26S proteasome regulatory subunit RPN2
+51.60771043,Medium,P40016,26S proteasome regulatory subunit RPN3
+45.76553267,Medium,Q12250,26S proteasome regulatory subunit RPN5 (Proteasome non-ATPase subunit 5)
+44.22381147,Medium,Q06103,26S proteasome regulatory subunit RPN7
+44.53563781,Medium,Q08723,26S proteasome regulatory subunit RPN8
+56.34809977,Medium,Q04062,26S proteasome regulatory subunit RPN9 (Proteasome non-ATPase subunit 7)
+54.0305618,Medium,P47096,"3-hydroxyanthranilate 3,4-dioxygenase (EC 1.13.11.6) (3-hydroxyanthranilate oxygenase) (3-HAO) (3-hydroxyanthranilic acid dioxygenase) (HAD) (Biosynthesis of nicotinic acid protein 1)"
+42.6206773,Unstable,Q12452,3-keto-steroid reductase (EC 1.1.1.270)
+63.7762786,Stable,P38342,3-ketodihydrosphingosine reductase TSC10 (EC 1.1.1.102) (3-dehydrosphinganine reductase) (KDS reductase) (Temperature-sensitive CSG2 suppressor protein 10)
+56.21263888,Medium,P06776,"3',5'-cyclic-nucleotide phosphodiesterase 2 (PDEase 2) (EC 3.1.4.53) (High-affinity cAMP phosphodiesterase)"
+52.33562043,Medium,P32179,"3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7) (3'(2'),5-bisphosphonucleoside 3'(2')-phosphohydrolase) (DPNPase) (Halotolerance protein HAL2) (Methionine-requiring protein 22)"
+47.40459698,Medium,P10662,"37S ribosomal protein MRP1, mitochondrial"
+54.18407131,Medium,P53733,"37S ribosomal protein S19, mitochondrial"
+44.16320161,Medium,P17649,4-aminobutyrate aminotransferase (EC 2.6.1.19) (GABA aminotransferase) (GABA-AT) (Gamma-amino-N-butyrate transaminase) (GABA transaminase)
+58.05591508,Medium,P19881,4-nitrophenylphosphatase (PNPPase) (EC 3.1.3.41)
+52.08358604,Medium,P32905,40S ribosomal protein S0-A (Nucleic acid-binding protein NAB1A)
+48.1245002,Medium,P23248,40S ribosomal protein S1-B (RP10B)
+41.52134271,Unstable,P46784,40S ribosomal protein S10-B
+53.90598586,Medium,P0CX47,40S ribosomal protein S11-A (RP41) (S18) (YS12)
+56.58248159,Medium,P48589,40S ribosomal protein S12
+54.11580135,Medium,P39516,40S ribosomal protein S14-B (RP59B)
+54.1948087,Medium,Q01855,40S ribosomal protein S15 (RIG protein) (RP52) (S21) (YS21)
+53.0042749,Medium,P0CX51,40S ribosomal protein S16-A (RP61R)
+49.21203029,Medium,P02407,40S ribosomal protein S17-A (RP51A)
+51.28928004,Medium,P0CX55,40S ribosomal protein S18-A
+51.18768532,Medium,P07281,40S ribosomal protein S19-B (RP55B) (S16a) (YS16B)
+49.90188729,Medium,P25443,40S ribosomal protein S2 (Omnipotent suppressor protein SUP44) (RP12) (S4) (YS5)
+51.84761704,Medium,P38701,40S ribosomal protein S20
+49.128949,Medium,P0C0V8,40S ribosomal protein S21-A (S26) (YS25)
+50.21400173,Medium,Q3E754,40S ribosomal protein S21-B (S26) (YS25)
+51.28142766,Medium,P0C0W1,40S ribosomal protein S22-A (RP50) (S24) (YP58) (YS22)
+55.62670397,Medium,P0CX29,40S ribosomal protein S23-A (RP37) (S28) (YS14)
+52.84988057,Medium,P0CX31,40S ribosomal protein S24-A (RP50)
+42.97702872,Unstable,P0C0T4,40S ribosomal protein S25-B (RP45) (S31) (YS23)
+50.62876427,Medium,P39938,40S ribosomal protein S26-A
+53.69781322,Medium,P38711,40S ribosomal protein S27-B (RP61) (YS20)
+50.98041648,Medium,Q3E7X9,40S ribosomal protein S28-A (S33) (YS27)
+53.0857027,Medium,P41057,40S ribosomal protein S29-A (S36) (YS29)
+53.2615519,Medium,P41058,40S ribosomal protein S29-B (S36) (YS29)
+49.96034321,Medium,P05750,40S ribosomal protein S3 (RP13) (YS3)
+49.47277717,Medium,P0CX33,40S ribosomal protein S30-A
+50.22456028,Medium,P0CX35,40S ribosomal protein S4-A (RP5) (S7) (YS6)
+50.69782798,Medium,P26783,40S ribosomal protein S5 (RP14) (S2) (YS8)
+51.89158469,Medium,P0CX37,40S ribosomal protein S6-A (RP9) (S10) (YS4)
+51.12931683,Medium,P26786,40S ribosomal protein S7-A (RP30) (RP40)
+52.20936685,Medium,P48164,40S ribosomal protein S7-B
+49.71397584,Medium,P0CX39,40S ribosomal protein S8-A (RP19) (S14) (YS9)
+42.44430479,Unstable,O13516,40S ribosomal protein S9-A (RP21) (S13) (YP28) (YS11)
+43.15063028,Unstable,P09950,"5-aminolevulinate synthase, mitochondrial (EC 2.3.1.37) (5-aminolevulinic acid synthase) (Delta-ALA synthase) (Delta-aminolevulinate synthase)"
+67.70790703,Stable,P05694,"5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14) (Cobalamin-independent methionine synthase) (Delta-P8 protein) (Methionine synthase, vitamin-B12 independent isozyme)"
+52.66712278,Medium,P28273,5-oxoprolinase (EC 3.5.2.9) (5-oxo-L-prolinase) (5-OPase) (Pyroglutamase)
+50.84831208,Medium,P53163,"54S ribosomal protein L12, mitochondrial (Mitochondrial-nucleoid protein 1)"
+44.21029012,Medium,P38720,"6-phosphogluconate dehydrogenase, decarboxylating 1 (EC 1.1.1.44)"
+50.78422676,Medium,P38858,6-phosphogluconolactonase 3 (6PGL) (EC 3.1.1.31)
+49.79549422,Medium,P50861,"6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)"
+46.93574478,Medium,P05318,60S acidic ribosomal protein P1-alpha (P1A) (A1) (L12EIIA) (YP1alpha)
+68.10508117,Stable,P10622,60S acidic ribosomal protein P1-beta (P1B) (Ax) (L12EIIB) (L44') (YP1beta)
+48.15913927,Medium,P05319,60S acidic ribosomal protein P2-alpha (P2A) (A2) (L12EIB) (L44) (YP2alpha)
+50.63682462,Medium,P02400,60S acidic ribosomal protein P2-beta (P2B) (L12EIA) (L45) (YL44C) (YP2beta) (YPA1)
+62.17939575,Stable,P38861,60S ribosomal export protein NMD3 (Nonsense-mediated mRNA decay protein 3)
+54.10197284,Medium,P0CX43,60S ribosomal protein L1-A (L10a)
+51.50262828,Medium,P41805,60S ribosomal protein L10 (L9) (Ubiquinol-cytochrome C reductase complex subunit VI-requiring protein)
+56.49620842,Medium,P0C0W9,60S ribosomal protein L11-A (L16) (RP39) (YL22)
+51.40644677,Medium,P0CX53,60S ribosomal protein L12-A (L15) (YL23)
+55.55872331,Medium,Q12690,60S ribosomal protein L13-A
+49.42023916,Medium,P05748,60S ribosomal protein L15-A (L13) (RP15R) (YL10) (YP18)
+54.30583615,Medium,P26784,60S ribosomal protein L16-A (L13a) (L21) (RP22) (YL15)
+56.93695463,Medium,P26785,60S ribosomal protein L16-B (L21) (RP23) (YL15)
+56.14741452,Medium,P05740,60S ribosomal protein L17-A (L20A) (YL17)
+57.0384691,Medium,P46990,60S ribosomal protein L17-B (L20) (YL17)
+56.8396782,Medium,P0CX49,60S ribosomal protein L18-A (RP28)
+54.92180348,Medium,P0CX82,60S ribosomal protein L19-A (L23) (RP15L) (RP33) (YL14)
+54.13132402,Medium,P0CX45,60S ribosomal protein L2-A (L5) (RP8) (YL6)
+45.00755292,Medium,P0CX23,60S ribosomal protein L20-A (L18a)
+51.86054148,Medium,Q02753,60S ribosomal protein L21-A
+54.86623928,Medium,P05749,60S ribosomal protein L22-A (L1c) (RP4) (YL31)
+54.54669305,Medium,P0CX41,60S ribosomal protein L23-A (L17a) (YL32)
+53.74132152,Medium,P04449,60S ribosomal protein L24-A (L30) (RP29) (YL21)
+51.73777938,Medium,P04456,60S ribosomal protein L25 (RP16L) (YL25) (YP42')
+56.79791025,Medium,P05743,60S ribosomal protein L26-A (L33) (YL33)
+56.33243398,Medium,P53221,60S ribosomal protein L26-B (L33) (YL33)
+55.98351618,Medium,P0C2H6,60S ribosomal protein L27-A
+53.24076398,Medium,P02406,60S ribosomal protein L28 (L27a) (L29) (RP44) (RP62) (YL24)
+49.42111091,Medium,P14126,60S ribosomal protein L3 (Maintenance of killer protein 8) (RP1) (Trichodermin resistance protein) (YL1)
+56.97884994,Medium,P14120,60S ribosomal protein L30 (L32) (RP73) (YL38)
+59.76787117,Stable,P38061,60S ribosomal protein L32
+57.03574986,Medium,P87262,60S ribosomal protein L34-A
+54.44950916,Medium,P0CX84,60S ribosomal protein L35-A
+51.57262201,Medium,P05745,60S ribosomal protein L36-A (L39) (YL39)
+51.68321649,Medium,P51402,60S ribosomal protein L37-B (L43) (YL35) (YP55)
+56.82445012,Medium,P49167,60S ribosomal protein L38
+52.22125978,Medium,P04650,60S ribosomal protein L39 (L46) (YL40)
+55.87654817,Medium,P10664,60S ribosomal protein L4-A (L2) (RP2) (YL2)
+55.88928626,Medium,P0CX27,60S ribosomal protein L42-A (L41) (YL27) (YP44)
+55.2023861,Medium,P0CX25,60S ribosomal protein L43-A (L37a) (YL35)
+56.71580191,Medium,P26321,60S ribosomal protein L5 (L1) (L1a) (Ribosomal 5S RNA-binding protein) (YL3)
+55.77645912,Medium,Q02326,60S ribosomal protein L6-A (L17) (RP18) (YL16)
+54.27286226,Medium,P05739,60S ribosomal protein L6-B (L17) (RP18) (YL16)
+55.80329678,Medium,P05737,60S ribosomal protein L7-A (L6) (RP11) (YL8)
+51.88990876,Medium,P17076,60S ribosomal protein L8-A (L4) (L4-2) (L7a-1) (Maintenance of killer protein 7) (RP6) (YL5)
+51.48778737,Medium,P29453,60S ribosomal protein L8-B (L4) (L4-1) (RP6) (YL5)
+55.89390032,Medium,P05738,60S ribosomal protein L9-A (L8) (RP24) (YL11)
+55.77325261,Medium,P51401,60S ribosomal protein L9-B (L8) (RP24) (YL11)
+47.21655746,Medium,P16474,78 kDa glucose-regulated protein homolog (GRP-78) (Immunoglobulin heavy chain-binding protein homolog) (BiP)
+43.87862721,Unstable,Q00955,Acetyl-CoA carboxylase (ACC) (EC 6.4.1.2) (Fatty acid synthetase 3) (mRNA transport-defective protein 7) [Includes: Biotin carboxylase (EC 6.3.4.14)]
+51.24036305,Medium,P32316,Acetyl-CoA hydrolase (EC 3.1.2.1) (Acetyl-CoA deacylase) (Acetyl-CoA acylase)
+52.10026103,Medium,P52910,Acetyl-coenzyme A synthetase 2 (EC 6.2.1.1) (Acetate--CoA ligase 2) (Acyl-activating enzyme 2)
+50.40737394,Medium,P19414,"Aconitate hydratase, mitochondrial (Aconitase) (EC 4.2.1.3) (Citrate hydro-lyase)"
+51.87451042,Medium,P60010,Actin
+55.7944732,Medium,P46680,Actin-interacting protein 1
+50.56808035,Medium,P38328,Actin-related protein 2/3 complex subunit 1 (Arp2/3 complex 41 kDa subunit) (p41-ARC)
+52.37424467,Medium,P53731,Actin-related protein 2/3 complex subunit 2 (Arp2/3 complex 34 kDa subunit) (p34-ARC)
+46.71547592,Medium,P33204,Actin-related protein 2/3 complex subunit 4 (Arp2/3 complex 20 kDa) (p20-ARC)
+45.7665143,Medium,Q12406,Actin-related protein 7 (Actin-like protein ARP7) (Chromatin structure-remodeling complex protein ARP7) (SWI/SNF complex component ARP7)
+46.18728543,Medium,P31787,Acyl-CoA-binding protein (ACBP)
+54.61935427,Medium,P47143,Adenosine kinase (EC 2.7.1.20)
+44.51109711,Medium,P39954,Adenosylhomocysteinase (AdoHcyase) (EC 3.3.1.1) (S-adenosyl-L-homocysteine hydrolase)
+41.891178,Unstable,P07170,Adenylate kinase (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate kinase cytosolic and mitochondrial) (Adenylate monophosphate kinase)
+49.25247837,Medium,Q12055,Adenylate kinase isoenzyme 6 homolog FAP7 (AK6) (EC 2.7.4.3) (Dual activity adenylate kinase/ATPase) (AK/ATPase) (POS9-activating factor 7)
+53.16887943,Medium,Q05911,Adenylosuccinate lyase (ASL) (EC 4.3.2.2) (Adenylosuccinase) (ASase)
+52.17614374,Medium,P80210,Adenylosuccinate synthetase (AMPSase) (AS-synthetase) (AdSS) (EC 6.3.4.4) (IMP--aspartate ligase)
+51.31588073,Medium,P17555,Adenylyl cyclase-associated protein (CAP)
+47.92478313,Medium,P11076,ADP-ribosylation factor 1
+46.28026611,Medium,P35197,ADP-ribosylation factor GTPase-activating protein GCS1 (ARF GAP GCS1)
+47.75045182,Medium,Q06336,"ADP-ribosylation factor-binding protein GGA1 (Golgi-localized, gamma ear-containing, ARF-binding protein 1)"
+57.33698797,Medium,P38817,"ADP-ribosylation factor-binding protein GGA2 (Golgi-localized, gamma ear-containing, ARF-binding protein 2)"
+60.86920628,Stable,Q12184,"Adrenodoxin homolog, mitochondrial (Mitochondrial ferredoxin)"
+42.68714744,Unstable,P40825,"Alanine--tRNA ligase, mitochondrial (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS)"
+51.59207336,Medium,P37898,Alanine/arginine aminopeptidase (EC 3.4.11.-)
+41.31786312,Unstable,P00330,Alcohol dehydrogenase 1 (EC 1.1.1.1) (Alcohol dehydrogenase I) (YADH-1)
+61.63048456,Stable,P07246,"Alcohol dehydrogenase 3, mitochondrial (EC 1.1.1.1) (Alcohol dehydrogenase III) (YADH-3)"
+50.38441145,Medium,P10127,Alcohol dehydrogenase 4 (EC 1.1.1.1) (Alcohol dehydrogenase IV) (ADHIV)
+48.678059,Medium,P54114,Aldehyde dehydrogenase [NAD(P)+] 2 (EC 1.2.1.3)
+56.47587161,Medium,P40047,"Aldehyde dehydrogenase 5, mitochondrial (EC 1.2.1.5)"
+56.09257235,Medium,P27810,"Alpha-1,2 mannosyltransferase KTR1 (EC 2.4.1.-)"
+46.31132886,Medium,P38069,"Alpha-1,2-mannosyltransferase MNN2 (EC 2.4.1.-) (Calcium resistance and vanadate sensitivity protein 4) (Mannan synthesis protein MNN2)"
+51.40968672,Medium,Q00764,"Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 56 kDa subunit (EC 2.4.1.15) (General glucose sensor subunit 1) (Glycogen metabolism control protein GLC6) (Trehalose synthase complex catalytic subunit TPS1) (Trehalose-6-phosphate synthase) (UDP-glucose-glucosephosphate glucosyltransferase)"
+47.44482357,Medium,P38885,"Altered inheritance of mitochondria protein 46, mitochondrial (Found in mitochondrial proteome protein 34)"
+52.63982297,Medium,Q07716,Altered inheritance of mitochondria protein 6
+60.06975535,Stable,P40053,"Altered inheritance of mitochondria protein 9, mitochondrial (Found in mitochondrial proteome protein 29)"
+47.04718146,Medium,P48015,"Aminomethyltransferase, mitochondrial (EC 2.1.2.10) (Glycine cleavage system T protein) (GCVT) (Glycine decarboxylase complex subunit T)"
+54.27753668,Medium,P32454,"Aminopeptidase 2, mitochondrial (AP-II) (Aminopeptidase II) (EC 3.4.11.-) (YscII)"
+47.33408279,Medium,P37302,Aminopeptidase Y (EC 3.4.11.15)
+48.20798773,Medium,P00899,Anthranilate synthase component 1 (EC 4.1.3.27) (Anthranilate synthase component I)
+52.68782229,Medium,P00812,Arginase (EC 3.5.3.1)
+58.33070097,Medium,Q04728,"Arginine biosynthesis bifunctional protein ArgJ, mitochondrial (Extracellular mutant protein 40) [Cleaved into: Arginine biosynthesis bifunctional protein ArgJ alpha chain; Arginine biosynthesis bifunctional protein ArgJ beta chain] [Includes: Glutamate N-acetyltransferase (GAT) (EC 2.3.1.35) (Ornithine acetyltransferase) (OATase) (Ornithine transacetylase); Amino-acid acetyltransferase (EC 2.3.1.1) (N-acetylglutamate synthase) (AGS)]"
+49.64892242,Medium,Q05506,"Arginine--tRNA ligase, cytoplasmic (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS)"
+59.24312344,Stable,P38714,"Arginine--tRNA ligase, mitochondrial (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS)"
+49.71070385,Medium,P04076,Argininosuccinate lyase (ASAL) (EC 4.3.2.1) (Arginosuccinase)
+43.35589864,Unstable,P22768,Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate ligase)
+53.38051429,Medium,P38840,Aromatic amino acid aminotransferase 2 (EC 2.6.1.57) (Aromatic amino acid aminotransferase II) (Aromatic amino acid-requiring protein 9) (Kynurenine aminotransferase I) (KAT I) (EC 2.6.1.7)
+63.81454571,Stable,P53090,Aromatic/aminoadipate aminotransferase 1 (2-aminoadipate aminotransferase) (EC 2.6.1.39) (2-aminoadipate transaminase) (Alpha-aminoadipate aminotransferase) (AadAT) (Aromatic amino acid aminotransferase 1) (EC 2.6.1.57) (Aromatic amino acid aminotransferase I) (Aromatic amino acid-requiring protein 8)
+46.12947003,Medium,P49089,Asparagine synthetase [glutamine-hydrolyzing] 1 (EC 6.3.5.4) (Glutamine-dependent asparagine synthetase 1)
+48.53551618,Medium,P49090,Asparagine synthetase [glutamine-hydrolyzing] 2 (EC 6.3.5.4) (Glutamine-dependent asparagine synthetase 2)
+46.28910098,Medium,P38707,"Asparagine--tRNA ligase, cytoplasmic (EC 6.1.1.22) (Asparaginyl-tRNA synthetase) (AsnRS)"
+63.11162331,Stable,P23542,"Aspartate aminotransferase, cytoplasmic (EC 2.6.1.1) (Transaminase A)"
+46.19682292,Medium,P04802,"Aspartate--tRNA ligase, cytoplasmic (EC 6.1.1.12) (Aspartyl-tRNA synthetase) (AspRS)"
+44.92920593,Medium,P13663,Aspartate-semialdehyde dehydrogenase (ASA dehydrogenase) (ASADH) (EC 1.2.1.11) (Aspartate-beta-semialdehyde dehydrogenase)
+48.07709238,Medium,P37267,Assembly factor CBP4 (Cytochrome b mRNA-processing protein 4)
+55.21035697,Medium,P00498,ATP phosphoribosyltransferase (ATP-PRT) (ATP-PRTase) (EC 2.4.2.17)
+50.71293309,Medium,P09457,"ATP synthase subunit 5, mitochondrial (ATP synthase chain 5) (Oligomycin sensitivity conferral protein) (OSCP)"
+43.79550924,Unstable,P07251,"ATP synthase subunit alpha, mitochondrial"
+53.23386449,Medium,P00830,"ATP synthase subunit beta, mitochondrial (EC 3.6.3.14)"
+49.0417065,Medium,P30902,"ATP synthase subunit d, mitochondrial"
+52.80864418,Medium,P38077,"ATP synthase subunit gamma, mitochondrial (F-ATPase gamma subunit)"
+54.13436748,Medium,P36059,ATP-dependent (S)-NAD(P)H-hydrate dehydratase (EC 4.2.1.93) (ATP-dependent NAD(P)HX dehydratase)
+53.25635506,Medium,P16861,ATP-dependent 6-phosphofructokinase subunit alpha (EC 2.7.1.11) (ATP-dependent 6-phosphofructokinase) (ATP-PFK) (Phosphofructokinase 1) (Phosphohexokinase)
+45.36622099,Medium,P32386,ATP-dependent bile acid permease
+45.06700384,Medium,P15108,ATP-dependent molecular chaperone HSC82 (82 kDa heat shock cognate protein) (Heat shock protein Hsp90 constitutive isoform)
+47.77089839,Medium,P02829,ATP-dependent molecular chaperone HSP82 (82 kDa heat shock protein) (Heat shock protein Hsp90 heat-inducible isoform)
+42.94998147,Unstable,P06634,ATP-dependent RNA helicase DED1 (EC 3.6.4.13) (DEAD box protein 1)
+60.58087314,Stable,P47047,ATP-dependent RNA helicase DOB1 (EC 3.6.4.13) (mRNA transport regulator MTR4)
+50.28716957,Medium,P10081,ATP-dependent RNA helicase eIF4A (EC 3.6.4.13) (Eukaryotic initiation factor 4A) (eIF-4A) (Stimulator factor I 37 kDa component) (Translation initiation factor 1/2) (p37)
+66.57598037,Stable,P32794,ATPase family gene 2 protein
+45.11866761,Medium,Q12154,ATPase GET3 (EC 3.6.-.-) (Arsenical pump-driving ATPase) (Arsenite-stimulated ATPase) (Golgi to ER traffic protein 3) (Guided entry of tail-anchored proteins 3)
+59.90011989,Stable,P54113,Bifunctional purine biosynthesis protein ADE16 [Includes: Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) (5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase) (AICAR transformylase); IMP cyclohydrolase (EC 3.5.4.10) (ATIC) (IMP synthase) (Inosinicase)]
+61.57355119,Stable,P38009,Bifunctional purine biosynthesis protein ADE17 [Includes: Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3) (5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase) (AICAR transformylase); IMP cyclohydrolase (EC 3.5.4.10) (ATIC) (IMP synthase) (Inosinicase)]
+52.31313827,Medium,P07244,"Bifunctional purine biosynthetic protein ADE5,7 [Includes: Phosphoribosylamine--glycine ligase (EC 6.3.4.13) (Glycinamide ribonucleotide synthetase) (GARS) (Phosphoribosylglycinamide synthetase); Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIR synthase) (AIRS) (Phosphoribosyl-aminoimidazole synthetase)]"
+41.45369924,Unstable,P48445,Biotin--protein ligase (EC 6.3.4.-) (Biotin apo-protein ligase) [Includes: Biotin--[methylmalonyl-CoA-carboxytransferase] ligase (EC 6.3.4.9); Biotin--[propionyl-CoA-carboxylase [ATP-hydrolyzing]] ligase (EC 6.3.4.10) (Holocarboxylase synthetase) (HCS); Biotin--[methylcrotonoyl-CoA-carboxylase] ligase (EC 6.3.4.11); Biotin--[acetyl-CoA-carboxylase] ligase (EC 6.3.4.15)]
+43.02086494,Unstable,P47176,"Branched-chain-amino-acid aminotransferase, cytosolic (BCAT) (EC 2.6.1.42) (Protein TWT2)"
+47.63039502,Medium,Q12040,Broad-specificity phosphatase YOR283W (EC 3.1.3.-)
+46.0776551,Medium,P07245,"C-1-tetrahydrofolate synthase, cytoplasmic (C1-THF synthase) [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9); Formyltetrahydrofolate synthetase (EC 6.3.4.3)]"
+47.09463651,Medium,P09440,"C-1-tetrahydrofolate synthase, mitochondrial (C1-THF synthase) [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9); Formyltetrahydrofolate synthetase (EC 6.3.4.3)]"
+40.27744964,Unstable,P06787,Calmodulin (CaM)
+47.85692403,Medium,P03965,"Carbamoyl-phosphate synthase arginine-specific large chain (EC 6.3.5.5) (Arginine-specific carbamoyl-phosphate synthetase, ammonia chain)"
+53.08280142,Medium,P27614,Carboxypeptidase S (EC 3.4.17.4) (GLY-X carboxypeptidase) (YSCS)
+60.95983695,Stable,P00729,Carboxypeptidase Y (cpY) (EC 3.4.16.5) (Carboxypeptidase YSCY)
+51.12110834,Medium,P14306,Carboxypeptidase Y inhibitor (CPY inhibitor) (CDC25 suppressor 1) (I(C)) (Ic) (Protein DKA1) (Protein NSP1)
+51.61544516,Medium,P06115,Catalase T (EC 1.11.1.6)
+42.7861639,Unstable,P25342,Cell division control protein 10
+50.14668964,Medium,P32457,Cell division control protein 3
+57.04966863,Medium,P47001,Cell wall mannoprotein CIS3 (Covalently-linked cell wall protein 5/11) (Protein with internal repeats 4) (Soluble cell wall protein 8)
+52.32724847,Medium,P38248,Cell wall protein ECM33 (Extracellular mutant protein 33)
+48.77229623,Medium,P46992,Cell wall protein YJL171C
+55.46205247,Medium,P09232,Cerevisin (EC 3.4.21.48) (Proteinase YSCB) (Vacuolar protease B) (PrB)
+52.21505725,Medium,Q12114,Chitin biosynthesis protein CHS5 (Protein CAL3)
+47.98893998,Medium,P28777,Chorismate synthase (EC 4.2.3.5) (5-enolpyruvylshikimate-3-phosphate phospholyase)
+49.83334586,Medium,P00890,"Citrate synthase, mitochondrial (EC 2.3.3.1)"
+53.88575294,Medium,P38856,Clathrin coat assembly protein AP180A
+44.01004067,Medium,P22137,Clathrin heavy chain
+56.63407432,Medium,P17891,Clathrin light chain (CLC)
+54.5480937,Medium,P28707,Co-chaperone protein SBA1
+52.53182873,Medium,P53622,Coatomer subunit alpha (Alpha-coat protein) (Alpha-COP) (Retrieval from endoplasmic reticulum protein 1) (Secretory protein 22) (Suppressor of osmo-sensitivity 1)
+51.22571332,Medium,P41810,Coatomer subunit beta (Beta-coat protein) (Beta-COP)
+66.93964192,Stable,P41811,Coatomer subunit beta' (Beta'-coat protein) (Beta'-COP)
+48.11838486,Medium,P40509,Coatomer subunit epsilon (Epsilon-coat protein) (Epsilon-COP)
+43.20443171,Unstable,P32074,Coatomer subunit gamma (Gamma-coat protein) (Gamma-COP)
+62.41560346,Stable,Q03048,Cofilin (Actin-depolymerizing factor 1)
+46.31080775,Medium,O13547,Covalently-linked cell wall protein 14 (Inner cell wall protein)
+53.99082279,Medium,P38845,Cruciform DNA-recognizing protein 1 [Cleaved into: CRP1 short N-terminal subpeptide; CRP1 short C-terminal subpeptide]
+49.66723782,Medium,P38627,CTP synthase 2 (EC 6.3.4.2) (CTP synthetase 2) (UTP--ammonia ligase 2)
+52.9522636,Medium,P43616,Cys-Gly metallodipeptidase DUG1 (EC 3.4.13.-) (Deficient in utilization of glutathione protein 1) (GSH degradosomal complex subunit DUG1)
+53.89578775,Medium,P53101,Cystathionine beta-lyase (CBL) (EC 4.4.1.8) (Beta-cystathionase) (Cysteine lyase) (Sulfur transfer protein 3)
+50.67114997,Medium,P32582,Cystathionine beta-synthase (EC 4.2.1.22) (Beta-thionase) (Serine sulfhydrase) (Sulfur transfer protein 4)
+67.03858415,Stable,P31373,Cystathionine gamma-lyase (EC 4.4.1.1) (Gamma-cystathionase) (Sulfur transfer protein 1)
+46.56721428,Medium,Q01532,"Cysteine proteinase 1, mitochondrial (EC 3.4.22.40) (Bleomycin hydrolase) (BLM hydrolase) (Homocysteine-thiolactonase) (HTLase) (Hcy-thiolactonase) (Leucine aminopeptidase 3) (Y3)"
+52.69192959,Medium,P53852,Cysteine--tRNA ligase (EC 6.1.1.16) (Cysteinyl-tRNA synthetase) (CysRS)
+57.94036128,Medium,P07256,"Cytochrome b-c1 complex subunit 1, mitochondrial (Complex III subunit 1) (Core protein I) (Ubiquinol-cytochrome-c reductase complex core protein 1)"
+52.36673357,Medium,P37299,Cytochrome b-c1 complex subunit 10 (Complex III subunit 10) (Complex III subunit XI) (Ubiquinol-cytochrome c reductase complex 8.5 kDa protein)
+48.66778021,Medium,P00044,Cytochrome c iso-1
+54.41641674,Medium,P00427,"Cytochrome c oxidase subunit 6, mitochondrial (EC 1.9.3.1) (Cytochrome c oxidase polypeptide VI)"
+43.18319167,Unstable,P32799,"Cytochrome c oxidase subunit 6A, mitochondrial (EC 1.9.3.1) (Cytochrome c oxidase polypeptide VIa)"
+50.28029872,Medium,P38115,D-arabinose dehydrogenase [NAD(P)+] heavy chain (EC 1.1.1.117) (AKR3C)
+51.14718887,Medium,P32891,"D-lactate dehydrogenase [cytochrome] 1, mitochondrial (EC 1.1.2.4) (D-lactate ferricytochrome C oxidoreductase) (D-LCR)"
+56.51798739,Medium,P46681,"D-lactate dehydrogenase [cytochrome] 2, mitochondrial (EC 1.1.2.4) (Actin-interacting protein 2) (D-lactate ferricytochrome C oxidoreductase) (D-LCR)"
+50.43775391,Medium,P39976,D-lactate dehydrogenase [cytochrome] 3 (EC 1.1.2.4) (D-lactate ferricytochrome C oxidoreductase) (D-LCR)
+53.87170797,Medium,P07275,"Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial (P5C dehydrogenase) (EC 1.2.1.88) (L-glutamate gamma-semialdehyde dehydrogenase)"
+53.24931026,Medium,P05373,Delta-aminolevulinic acid dehydratase (ALADH) (EC 4.2.1.24) (Porphobilinogen synthase)
+55.62292121,Medium,P25340,Delta(24(24(1)))-sterol reductase (EC 1.3.1.71) (C-24(28) sterol reductase) (Sterol Delta(24(28))-reductase)
+42.152432,Unstable,P38791,Deoxyhypusine synthase (DHS) (EC 2.5.1.46)
+54.32895636,Medium,P33317,Deoxyuridine 5'-triphosphate nucleotidohydrolase (dUTPase) (EC 3.6.1.23) (dUTP pyrophosphatase)
+53.93800128,Medium,P12695,"Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial (EC 2.3.1.12) (Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex) (Pyruvate dehydrogenase complex component E2) (PDC-E2) (PDCE2)"
+55.10664744,Medium,P19262,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex component E2) (OGDC-E2) (Dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex)"
+55.73664928,Medium,P20051,Dihydroorotase (DHOase) (EC 3.5.2.3)
+49.30181298,Medium,P28272,Dihydroorotate dehydrogenase (fumarate) (DHOD) (DHODase) (DHOdehase) (EC 1.3.98.1) (Dihydroorotate oxidase)
+48.74372104,Medium,P39522,"Dihydroxy-acid dehydratase, mitochondrial (DAD) (EC 4.2.1.9) (2,3-dihydroxy acid hydrolyase)"
+54.57681432,Medium,P54838,Dihydroxyacetone kinase 1 (DHA kinase 1) (EC 2.7.1.28) (EC 2.7.1.29) (Glycerone kinase 1) (Triokinase 1) (Triose kinase 1)
+55.21613912,Medium,P32377,Diphosphomevalonate decarboxylase (EC 4.1.1.33) (Ergosterol biosynthesis protein 19) (Mevalonate pyrophosphate decarboxylase) (Mevalonate-5-diphosphate decarboxylase) (MDD) (MDDase)
+62.79047214,Stable,Q01454,DNA polymerase alpha-binding protein (Chromosome replication protein CHL15) (Chromosome transmission fidelity protein 4) (Protein POB1)
+46.25599148,Medium,P06786,DNA topoisomerase 2 (EC 5.99.1.3) (DNA topoisomerase II)
+67.50713002,Stable,P22936,DNA-(apurinic or apyrimidinic site) lyase 1 (EC 4.2.99.18) (Apurinic-apyrimidinic endonuclease 1) (AP endonuclease 1)
+49.9004394,Medium,P11938,DNA-binding protein RAP1 (Repressor/activator site-binding protein) (SBF-E) (TUF)
+49.30965916,Medium,P22138,DNA-directed RNA polymerase I subunit RPA135 (EC 2.7.7.6) (DNA-directed RNA polymerase I 135 kDa polypeptide) (A135) (DNA-directed RNA polymerase I polypeptide 2) (RNA polymerase I subunit 2)
+48.80219247,Medium,P46669,DNA-directed RNA polymerase I subunit RPA43 (A43) (DNA-directed DNA-dependent RNA polymerase 36 kDa polypeptide)
+55.02256385,Medium,Q01080,DNA-directed RNA polymerase I subunit RPA49 (A49) (DNA-directed RNA polymerase I 49 kDa polypeptide)
+51.94808044,Medium,P04050,DNA-directed RNA polymerase II subunit RPB1 (RNA polymerase II subunit 1) (RNA polymerase II subunit B1) (EC 2.7.7.6) (DNA-directed RNA polymerase III largest subunit) (RNA polymerase II subunit B220)
+51.81847156,Medium,P08518,DNA-directed RNA polymerase II subunit RPB2 (RNA polymerase II subunit 2) (EC 2.7.7.6) (B150) (DNA-directed RNA polymerase II 140 kDa polypeptide)
+55.84453388,Medium,P16370,DNA-directed RNA polymerase II subunit RPB3 (RNA polymerase II subunit 3) (RNA polymerase II subunit B3) (B44.5) (DNA-directed RNA polymerase II 45 kDa polypeptide)
+53.83105084,Medium,P20433,DNA-directed RNA polymerase II subunit RPB4 (RNA polymerase II subunit B4) (B32) (DNA-directed RNA polymerase II 32 kDa polypeptide)
+43.84084313,Unstable,P27999,DNA-directed RNA polymerase II subunit RPB9 (RNA polymerase II subunit B9) (B12.6) (DNA-directed RNA polymerase II 14.2 kDa polypeptide) (DNA-directed RNA polymerase II subunit 9)
+53.09930551,Medium,P07703,DNA-directed RNA polymerases I and III subunit RPAC1 (RNA polymerases I and III subunit AC1) (C37) (DNA-directed RNA polymerases I and III 40 kDa polypeptide) (AC40) (C40)
+51.66256285,Medium,P40422,"DNA-directed RNA polymerases I, II, and III subunit RPABC4 (RNA polymerases I, II, and III subunit ABC4) (ABC10-alpha)"
+54.10326535,Medium,P14020,Dolichol-phosphate mannosyltransferase (EC 2.4.1.83) (Dolichol-phosphate mannose synthase) (DPM synthase) (Dolichyl-phosphate beta-D-mannosyltransferase) (Mannose-P-dolichol synthase) (MPD synthase)
+46.60325052,Medium,P33775,Dolichyl-phosphate-mannose--protein mannosyltransferase 1 (EC 2.4.1.109)
+58.21237193,Medium,P46971,Dolichyl-phosphate-mannose--protein mannosyltransferase 4 (EC 2.4.1.109)
+46.34862481,Medium,P39940,E3 ubiquitin-protein ligase RSP5 (EC 6.3.2.-) (Reverses SPT-phenotype protein 5)
+51.20413474,Medium,P19812,E3 ubiquitin-protein ligase UBR1 (EC 6.3.2.-) (N-end-recognizing protein) (N-recognin-1)
+51.82353224,Medium,P34216,EH domain-containing and endocytosis protein 1 (Bud site selection protein 15)
+40.99812739,Unstable,P46984,EKC/KEOPS complex subunit GON7 (Low-dye-binding protein 6) (Polarized growth chromatin-associated controller 2)
+40.11225974,Unstable,P02994,Elongation factor 1-alpha (EF-1-alpha) (Eukaryotic elongation factor 1A) (eEF1A) (Translation elongation factor 1A)
+45.04627065,Medium,P32471,Elongation factor 1-beta (EF-1-beta) (Eukaryotic elongation factor 1Balpha) (eEF1Balpha) (Translation elongation factor 1B alpha)
+44.00577268,Medium,P29547,Elongation factor 1-gamma 1 (EF-1-gamma 1) (Calcium and membrane-binding protein 1) (Calcium phospholipid-binding protein) (CPBP) (Eukaryotic elongation factor 1Bgamma 1) (eEF1Bgamma 1) (Translation elongation factor 1B gamma 1)
+56.92957481,Medium,P32324,Elongation factor 2 (EF-2) (Eukaryotic elongation factor 2) (eEF2) (Ribosomal translocase) (Translation elongation factor 2)
+41.24524335,Unstable,P16521,Elongation factor 3A (EF-3) (EF-3A) (Eukaryotic elongation factor 3) (eEF3) (Translation elongation factor 3A) (Yeast elongation factor 3)
+49.08888868,Medium,P25039,"Elongation factor G, mitochondrial (EF-Gmt) (Elongation factor G 1, mitochondrial) (mEF-G 1) (Elongation factor G1)"
+53.27619538,Medium,P02992,"Elongation factor Tu, mitochondrial (tufM)"
+60.73438219,Stable,Q06706,Elongator complex protein 1 (Gamma-toxin target 1) (Protein IKI3)
+51.26420576,Medium,P42935,Elongator complex protein 2 (Gamma-toxin target 2)
+53.15067304,Medium,Q02908,Elongator complex protein 3 (EC 2.3.1.48) (Gamma-toxin target 3)
+46.52346972,Medium,P29029,Endochitinase (EC 3.2.1.14) (Soluble cell wall protein 2)
+51.95665817,Medium,P32803,Endosomal protein P24B (24 kDa endomembrane protein) (Basic 24 kDa late endocytic intermediate component)
+53.92996212,Medium,P00924,Enolase 1 (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase 1) (2-phosphoglycerate dehydratase 1)
+48.97488044,Medium,P00925,Enolase 2 (EC 4.2.1.11) (2-phospho-D-glycerate hydro-lyase 2) (2-phosphoglycerate dehydratase 2)
+54.01266043,Medium,P47160,Epsin-3
+54.69129449,Medium,P18414,ER lumen protein-retaining receptor (HDEL receptor)
+62.59914821,Stable,P53337,ER-derived vesicles protein ERV29
+49.48918997,Medium,P40318,ERAD-associated E3 ubiquitin-protein ligase DOA10 (EC 6.3.2.-)
+58.14926601,Medium,P05453,Eukaryotic peptide chain release factor GTP-binding subunit (ERF-3) (ERF3) (ERF2) (G1 to S phase transition protein 1) (Omnipotent suppressor protein 2) (PSI no more protein 2) (Polypeptide release factor 3) (Translation release factor 3)
+53.95333553,Medium,P09064,Eukaryotic translation initiation factor 2 subunit beta (eIF-2-beta)
+46.52363927,Medium,P38249,"Eukaryotic translation initiation factor 3 subunit A (eIF3a) (Eukaryotic translation initiation factor 3 110 kDa subunit homolog) (eIF3 p110) (Translation initiation factor eIF3, p110 subunit homolog)"
+54.96701292,Medium,P32497,"Eukaryotic translation initiation factor 3 subunit C (eIF3c) (Eukaryotic translation initiation factor 3 93 kDa subunit) (eIF3 p93) (Nuclear transport protein NIP1) (Translation initiation factor eIF3, p93 subunit)"
+53.50710837,Medium,P23301,Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (Hypusine-containing protein HP2) (eIF-4D)
+57.27786794,Medium,Q12522,Eukaryotic translation initiation factor 6 (eIF-6)
+49.19439181,Medium,P38792,Exosome complex component RRP4 (Ribosomal RNA-processing protein 4)
+51.50588024,Medium,Q05636,Exosome complex component RRP45 (Ribosomal RNA-processing protein 45)
+50.98375337,Medium,P30822,Exportin-1 (Chromosome region maintenance protein 1) (Karyopherin-124)
+43.10672378,Unstable,P33418,Exportin-T (Exportin(tRNA)) (Karyopherin-beta) (tRNA exportin)
+49.744974,Medium,Q04636,FACT complex subunit POB3 (Facilitates chromatin transcription complex subunit POB3)
+53.47441974,Medium,P32558,FACT complex subunit SPT16 (Cell division control protein 68) (Facilitates chromatin transcription complex subunit SPT16) (Suppressor of Ty protein 16)
+60.01703003,Stable,Q05040,Factor arrest protein 8
+55.52925196,Medium,P38777,Family of serine hydrolases 1 (EC 3.1.-.-)
+46.23275308,Medium,P08524,"Farnesyl pyrophosphate synthase (FPP synthase) (FPS) (EC 2.5.1.10) ((2E,6E)-farnesyl diphosphate synthase) (Dimethylallyltranstransferase) (EC 2.5.1.1) (Farnesyl diphosphate synthase) (Geranyltranstransferase)"
+49.33491512,Medium,P19097,Fatty acid synthase subunit alpha (EC 2.3.1.86) [Includes: Acyl carrier; 3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100) (Beta-ketoacyl reductase); 3-oxoacyl-[acyl-carrier-protein] synthase (EC 2.3.1.41) (Beta-ketoacyl synthase)]
+46.12870046,Medium,P07149,Fatty acid synthase subunit beta (EC 2.3.1.86) [Includes: 3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.59); Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9); [Acyl-carrier-protein] acetyltransferase (EC 2.3.1.38); [Acyl-carrier-protein] malonyltransferase (EC 2.3.1.39); S-acyl fatty acid synthase thioesterase (EC 3.1.2.14)]
+47.15986029,Medium,P32599,Fimbrin (ABP67)
+51.15330863,Medium,P20081,FK506-binding protein 1 (FKBP) (Peptidyl-prolyl cis-trans isomerase) (PPIase) (EC 5.2.1.8) (Rapamycin-binding protein)
+49.91090848,Medium,P39676,Flavohemoprotein (EC 1.14.12.17) (Flavohemoglobin) (Hemoglobin-like protein) (Nitric oxide dioxygenase) (NO oxygenase) (NOD)
+58.40073284,Medium,P25349,Flavoprotein-like protein YCP4
+51.48199694,Medium,Q08645,Folylpolyglutamate synthase (EC 6.3.2.17) (Folylpoly-gamma-glutamate synthetase) (FPGS) (Tetrahydrofolylpolyglutamate synthase) (Tetrahydrofolate synthase)
+42.77918131,Unstable,P14540,"Fructose-bisphosphate aldolase (FBP aldolase) (FBPA) (EC 4.1.2.13) (Fructose-1,6-bisphosphate aldolase)"
+53.26351494,Medium,P32614,"Fumarate reductase 1 (FRDS1) (EC 1.3.1.6) (FAD-dependent oxidoreductase) (NADH-dependent fumarate reductase) (Soluble fumarate reductase, cytoplasmic isozyme)"
+47.09535829,Medium,P54885,Gamma-glutamyl phosphate reductase (GPR) (EC 1.2.1.41) (Glutamate-5-semialdehyde dehydrogenase) (GSA dehydrogenase) (Glutamyl-gamma-semialdehyde dehydrogenase)
+62.34371099,Stable,P16649,General transcriptional corepressor TUP1 (Flocculation suppressor protein) (Glucose repression regulatory protein TUP1) (Repressor AER2)
+59.72711531,Stable,P15703,"Glucan 1,3-beta-glucosidase (EC 3.2.1.58) (Exo-1,3-beta-glucanase) (GP29) (Soluble cell wall protein 9)"
+59.25825101,Stable,P43577,Glucosamine 6-phosphate N-acetyltransferase (EC 2.3.1.4) (Phosphoglucosamine acetylase) (Phosphoglucosamine transacetylase)
+47.25446228,Medium,P11412,Glucose-6-phosphate 1-dehydrogenase (G6PD) (EC 1.1.1.49)
+45.83190241,Medium,Q03161,Glucose-6-phosphate 1-epimerase (EC 5.1.3.15) (D-hexose-6-phosphate mutarotase)
+54.30944536,Medium,P12709,Glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI)
+48.25089124,Medium,P32264,Glutamate 5-kinase (GK) (EC 2.7.2.11) (Gamma-glutamyl kinase)
+52.43829134,Medium,Q04792,Glutamate decarboxylase (GAD) (EC 4.1.1.15)
+44.39264935,Medium,P46655,"Glutamate--tRNA ligase, cytoplasmic (EC 6.1.1.17) (Glutamyl-tRNA synthetase) ((c)ERS) (GluRS) (P85)"
+42.28097857,Unstable,P32288,Glutamine synthetase (GS) (EC 6.3.1.2) (Glutamate--ammonia ligase)
+43.26384191,Unstable,P13188,Glutamine--tRNA ligase (EC 6.1.1.18) (Glutaminyl-tRNA synthetase) (GlnRS)
+50.23908249,Medium,P38795,Glutamine-dependent NAD(+) synthetase (EC 6.3.5.1) (NAD(+) synthase [glutamine-hydrolyzing])
+43.30360209,Unstable,P17695,"Glutaredoxin-2, mitochondrial (Glutathione-dependent oxidoreductase 2) (Thioltransferase)"
+51.19591515,Medium,P41921,Glutathione reductase (GR) (GRase) (EC 1.8.1.7)
+61.88621194,Stable,P36156,Glutathione S-transferase omega-like 2 (EC 2.5.1.18) (Extracellular mutant protein 4) (Glutathione-dependent dehydroascorbate reductase) (EC 1.8.5.1)
+55.24250463,Medium,Q08220,Glutathione synthetase (GSH synthetase) (GSH-S) (EC 6.3.2.3) (Glutathione synthase)
+43.17891502,Unstable,Q04432,Glutathione-independent glyoxalase HSP31 (EC 4.2.1.130) (Glyoxalase 3 homolog 1) (Heat shock protein 31)
+52.46200473,Medium,P00360,Glyceraldehyde-3-phosphate dehydrogenase 1 (GAPDH 1) (EC 1.2.1.12)
+60.49051525,Stable,P00359,Glyceraldehyde-3-phosphate dehydrogenase 3 (GAPDH 3) (EC 1.2.1.12)
+57.5866129,Medium,P14065,Glycerol 2-dehydrogenase (NADP(+)) (EC 1.1.1.156) (Galactose-inducible crystallin-like protein 1)
+48.84270657,Medium,P41277,Glycerol-1-phosphate phosphohydrolase 1 (EC 3.1.3.21) ((DL)-glycerol-3-phosphatase 1) (Related to HOR2 protein 2)
+51.54170026,Medium,P40106,Glycerol-1-phosphate phosphohydrolase 2 (EC 3.1.3.21) ((DL)-glycerol-3-phosphatase 2) (Hyperosmolarity-responsive protein 2)
+48.13073083,Medium,P41911,"Glycerol-3-phosphate dehydrogenase [NAD(+)] 2, mitochondrial (EC 1.1.1.8)"
+53.14813694,Medium,P32191,"Glycerol-3-phosphate dehydrogenase, mitochondrial (GPD-M) (GPDH-M) (EC 1.1.5.3)"
+49.32154786,Medium,P39726,"Glycine cleavage system H protein, mitochondrial (Glycine decarboxylase complex subunit H)"
+61.24440589,Stable,P49095,"Glycine dehydrogenase (decarboxylating), mitochondrial (EC 1.4.4.2) (Glycine cleavage system P protein) (Glycine decarboxylase) (Glycine decarboxylase complex subunit P) (Glycine dehydrogenase (aminomethyl-transferring))"
+41.93107657,Unstable,Q06625,"Glycogen debranching enzyme (Glycogen debrancher) [Includes: 4-alpha-glucanotransferase (EC 2.4.1.25) (Oligo-1,4-1,4-glucantransferase); Amylo-alpha-1,6-glucosidase (Amylo-1,6-glucosidase) (EC 3.2.1.33) (Dextrin 6-alpha-D-glucosidase)]"
+49.84737546,Medium,P06738,Glycogen phosphorylase (EC 2.4.1.1)
+48.78044086,Medium,P53839,Glyoxylate reductase 1 (EC 1.1.1.26)
+43.83528527,Unstable,P38625,GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (GMP synthetase) (Glutamine amidotransferase)
+45.18093172,Medium,P38875,GPI transamidase component GPI16
+51.82520746,Medium,Q04410,GRASP65 homolog protein 1
+54.35850297,Medium,P32836,GTP-binding nuclear protein GSP2/CNR2
+43.59815593,Unstable,P06780,GTP-binding protein RHO1 (Rho-type GTPase 1)
+43.28493021,Unstable,P01123,GTP-binding protein YPT1 (Protein YP2) (Rab GTPase YPT1) (Transport GTPase YPT1)
+44.47002106,Medium,P38555,GTP-binding protein YPT31/YPT8 (Rab GTPase YPT31)
+49.51721898,Medium,P21827,Guanine nucleotide exchange factor SRM1 (Pheromone response pathway component SRM1) (Pre-mRNA-processing protein 20) (Regulator of chromosome condensation) (Suppressor of receptor mutations 1) (mRNA transport protein 1)
+61.33236304,Stable,P38011,Guanine nucleotide-binding protein subunit beta-like protein (Receptor for activated C kinase) (Receptor of activated protein kinase C 1) (RACK1)
+44.798464,Medium,P33322,H/ACA ribonucleoprotein complex subunit 4 (EC 5.4.99.-) (Centromere-binding factor 5) (Centromere/microtubule-binding protein CBF5) (H/ACA snoRNP protein CBF5) (Small nucleolar RNP protein CBF5) (p64')
+51.30586273,Medium,P31539,Heat shock protein 104 (Protein aggregation-remodeling factor HSP104)
+41.58191844,Unstable,P15992,Heat shock protein 26 (26 kDa heat shock protein)
+50.35421805,Medium,P19882,"Heat shock protein 60, mitochondrial (CPN60) (P66) (Stimulator factor I 66 kDa component)"
+46.07907451,Medium,P10591,Heat shock protein SSA1 (Heat shock protein YG100)
+43.29112296,Unstable,P10592,Heat shock protein SSA2
+45.32171844,Medium,P22202,Heat shock protein SSA4
+42.94397405,Unstable,P11484,Heat shock protein SSB1 (Cold-inducible protein YG101)
+42.77369101,Unstable,P40150,Heat shock protein SSB2
+51.1634301,Medium,P15705,Heat shock protein STI1
+43.04484911,Unstable,P04807,Hexokinase-2 (EC 2.7.1.1) (Hexokinase PII) (Hexokinase-B)
+43.56574974,Unstable,P48813,High-affinity glutamine permease
+51.6273715,Medium,P39003,High-affinity hexose transporter HXT6
+48.68105247,Medium,P00815,Histidine biosynthesis trifunctional protein [Includes: Phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19); Phosphoribosyl-ATP pyrophosphohydrolase (EC 3.6.1.31); Histidinol dehydrogenase (HDH) (EC 1.1.1.23)]
+68.30363427,Stable,P04911,Histone H2A.1
+66.2993863,Stable,P02294,Histone H2B.2
+58.07965761,Medium,P02309,Histone H4
+52.75820749,Medium,Q04344,Hit family protein 1 (EC 3.-.-.-) (Adenosine 5'-monophosphoramidase)
+54.184677,Medium,P48570,"Homocitrate synthase, cytosolic isozyme (EC 2.3.3.14)"
+43.77623319,Unstable,Q12122,"Homocitrate synthase, mitochondrial (EC 2.3.3.14)"
+54.63879935,Medium,Q08985,Homocysteine S-methyltransferase 2 (EC 2.1.1.10) (S-adenosylmethionine metabolism protein 4) (S-methylmethionine:homocysteine methyltransferase 2) (SMM:Hcy S-methyltransferase 2)
+56.42268416,Medium,P40495,"Homoisocitrate dehydrogenase, mitochondrial (HIcDH) (EC 1.1.1.87)"
+56.39178863,Medium,P31116,Homoserine dehydrogenase (HDH) (EC 1.1.1.3)
+47.82917044,Medium,P38260,Hsp70 nucleotide exchange factor FES1 (Factor exchange for SSA1 protein 1)
+44.37510954,Medium,P06101,Hsp90 co-chaperone Cdc37 (Cell division control protein 37) (Hsp90 chaperone protein kinase-targeting subunit)
+46.65357384,Medium,Q05584,"Hydroxyacylglutathione hydrolase, cytoplasmic isozyme (EC 3.1.2.6) (Glyoxalase II) (Glx II)"
+53.99691762,Medium,P54839,Hydroxymethylglutaryl-CoA synthase (HMG-CoA synthase) (EC 2.3.3.10) (3-hydroxy-3-methylglutaryl coenzyme A synthase)
+46.16713665,Medium,P33734,Imidazole glycerol phosphate synthase hisHF (IGP synthase) (IGPS) (ImGP synthase) [Includes: Glutamine amidotransferase (EC 2.4.2.-); Cyclase (EC 4.1.3.-)]
+54.25985885,Medium,Q04175,Importin beta SMX1 (Suppressor of mRNA export mutant protein 1) (karyopherin-108)
+55.4829565,Medium,P38250,Increased sodium tolerance protein 2
+56.62489879,Medium,P00817,Inorganic pyrophosphatase (EC 3.6.1.1) (Pyrophosphate phospho-hydrolase) (PPase)
+52.42338074,Medium,P38697,Inosine-5'-monophosphate dehydrogenase 2 (IMP dehydrogenase 2) (IMPD 2) (IMPDH 2) (EC 1.1.1.205)
+53.3765964,Medium,P50095,Inosine-5'-monophosphate dehydrogenase 3 (IMP dehydrogenase 3) (IMPD 3) (IMPDH 3) (EC 1.1.1.205)
+52.17040842,Medium,P50094,Inosine-5'-monophosphate dehydrogenase 4 (IMP dehydrogenase 4) (IMPD 4) (IMPDH 4) (EC 1.1.1.205)
+44.45600445,Medium,Q06685,Inositol hexakisphosphate and diphosphoinositol-pentakisphosphate kinase (EC 2.7.4.21) (EC 2.7.4.24) (InsP6 and PP-IP5 kinase)
+51.09412875,Medium,P11986,Inositol-3-phosphate synthase (MIP synthase) (EC 5.5.1.4) (Myo-inositol 1-phosphate synthase) (IPS) (MI-1-P synthase)
+50.83945034,Medium,P25386,Intracellular protein transport protein USO1 (Int-1)
+52.4787,Medium,P28834,"Isocitrate dehydrogenase [NAD] subunit 1, mitochondrial (EC 1.1.1.41) (Isocitric dehydrogenase) (NAD(+)-specific ICDH)"
+51.8242852,Medium,P21954,"Isocitrate dehydrogenase [NADP], mitochondrial (IDH) (EC 1.1.1.42) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)"
+49.31288936,Medium,P09436,"Isoleucine--tRNA ligase, cytoplasmic (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS)"
+47.10179181,Medium,P06168,"Ketol-acid reductoisomerase, mitochondrial (EC 1.1.1.86) (Acetohydroxy-acid reductoisomerase) (Alpha-keto-beta-hydroxylacyl reductoisomerase)"
+52.09291434,Medium,P07702,L-2-aminoadipate reductase (EC 1.2.1.31) (EC 1.2.1.95) (Alpha-aminoadipate reductase) (Alpha-AR) (L-aminoadipate-semialdehyde dehydrogenase)
+44.91074742,Medium,P53281,LAS seventeen-binding protein 1 (LAS17-binding protein 1)
+55.07831273,Medium,P43603,LAS seventeen-binding protein 3 (LAS17-binding protein 3)
+43.55967529,Unstable,P26637,"Leucine--tRNA ligase, cytoplasmic (EC 6.1.1.4) (Leucyl-tRNA synthetase) (LeuRS)"
+51.98199089,Medium,Q10740,Leukotriene A-4 hydrolase homolog (LTA-4 hydrolase) (EC 3.3.2.6) (Leucine aminopeptidase 2) (Leukotriene A(4) hydrolase)
+49.9331288,Medium,P30624,Long-chain-fatty-acid--CoA ligase 1 (EC 6.2.1.3) (Fatty acid activator 1) (Long-chain acyl-CoA synthetase 1)
+52.03261801,Medium,P47912,Long-chain-fatty-acid--CoA ligase 4 (EC 6.2.1.3) (Fatty acid activator 4) (Long-chain acyl-CoA synthetase 4)
+46.26826296,Medium,P37303,Low specificity L-threonine aldolase (Low specificity L-TA) (TA) (EC 4.1.2.48)
+42.49242417,Unstable,P15180,"Lysine--tRNA ligase, cytoplasmic (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS)"
+51.20162333,Medium,Q06151,m7GpppX diphosphatase (EC 3.6.1.59) (DCS-1) (Hint-related 7meGMP-directed hydrolase 1) (Protein Dcs1p) (Scavenger mRNA-decapping enzyme DcpS)
+50.81260377,Medium,P54115,"Magnesium-activated aldehyde dehydrogenase, cytosolic (EC 1.2.1.4) (Mg(2+)-activated acetaldehyde dehydrogenase) (Mg(2+)-ACDH)"
+43.90369955,Unstable,P47018,Maintenance of telomere capping protein 1
+51.38383087,Medium,P17505,"Malate dehydrogenase, mitochondrial (EC 1.1.1.37)"
+47.97266027,Medium,P32419,"Malate dehydrogenase, peroxisomal (EC 1.1.1.37)"
+52.70658706,Medium,P39986,Manganese-transporting ATPase 1 (EC 3.6.3.-)
+46.4697947,Medium,P41940,Mannose-1-phosphate guanyltransferase (EC 2.7.7.13) (ATP-mannose-1-phosphate guanylyltransferase) (GDP-mannose pyrophosphorylase) (NDP-hexose pyrophosphorylase)
+44.90094972,Medium,P29952,Mannose-6-phosphate isomerase (EC 5.3.1.8) (Phosphohexomutase) (Phosphomannose isomerase) (PMI)
+45.38026218,Medium,P54070,Mannosyltransferase KTR6 (EC 2.4.1.-) (Mannosylphosphate transferase MNN6)
+44.66944708,Medium,P38295,Medium-chain fatty acid ethyl ester synthase/esterase 2 (Alcohol O-acetyltransferase) (EC 2.3.1.84) (EC 3.1.1.-) (Ethanol hexanoyl transferase 1)
+50.06536091,Medium,Q03104,Meiotic sister chromatid recombination protein 1
+51.119871,Medium,P39109,Metal resistance protein YCF1 (Yeast cadmium factor 1)
+50.23502063,Medium,Q01662,Methionine aminopeptidase 1 (MAP 1) (MetAP 1) (EC 3.4.11.18) (Peptidase M 1)
+45.84273844,Medium,P00958,"Methionine--tRNA ligase, cytoplasmic (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS)"
+59.87480897,Stable,P47095,Methylthioribulose-1-phosphate dehydratase (MTRu-1-P dehydratase) (EC 4.2.1.109)
+59.54602146,Stable,P07277,Mevalonate kinase (MK) (MvK) (EC 2.7.1.36) (Ergosterol biosynthesis protein 12) (Regulation of autonomous replication protein 1)
+57.76660444,Medium,Q12019,Midasin (MIDAS-containing protein) (Ribosome export/assembly protein 1)
+46.90745241,Medium,P32787,Mitochondrial genome maintenance protein MGM101
+54.80259751,Medium,P38988,Mitochondrial GTP/GDP carrier protein 1
+55.46877384,Medium,P07213,Mitochondrial import receptor subunit TOM70 (70 kDa mitochondrial outer membrane protein) (Translocase of outer membrane 70 kDa subunit)
+68.02342936,Stable,P04840,Mitochondrial outer membrane protein porin 1 (Voltage-dependent anion-selective channel protein 1) (VDAC-1)
+54.39793993,Medium,P40478,Mitochondrial outer membrane protein porin 2 (Voltage-dependent anion-selective channel protein 2) (VDAC-2)
+57.39162432,Medium,P32898,Mitochondrial presequence protease (EC 3.4.24.-) (Cytosolic metalloprotease 1) (Metalloprotease of 112 kDa)
+51.73432968,Medium,P25491,Mitochondrial protein import protein MAS5 (Yeast dnaJ protein 1)
+47.51616421,Medium,Q03835,Monothiol glutaredoxin-3
+51.33581043,Medium,O13297,mRNA-capping enzyme subunit beta (EC 3.1.3.33) (Polynucleotide 5'-triphosphatase) (mRNA 5'-triphosphatase) (TPase)
+45.81293435,Medium,P53738,Multifunctional methyltransferase subunit TRM112 (eRF1 methyltransferase subunit TRM112) (eRF1 MTase subunit TRM112) (tRNA methyltransferase 112)
+41.60153372,Unstable,P00937,"Multifunctional tryptophan biosynthesis protein [Includes: Anthranilate synthase component 2 (AS) (EC 4.1.3.27) (Anthranilate synthase, glutamine amidotransferase component); Indole-3-glycerol phosphate synthase (EC 4.1.1.48) (PRAI)]"
+44.47427524,Medium,O14467,Multiprotein-bridging factor 1 (Suppressor of frameshift mutations protein 13)
+54.3978243,Medium,P38205,Multisite-specific tRNA:(cytosine-C(5))-methyltransferase (EC 2.1.1.202) (Multisite-specific tRNA:m5C-methyltransferase) (tRNA (cytosine-5-)-methyltransferase NCL1) (tRNA methyltransferase 4)
+48.65975229,Medium,Q08647,Multisubstrate pseudouridine synthase 7 (EC 5.4.99.27) (RNA pseudouridylate synthase 7) (RNA-uridine isomerase 7) (tRNA pseudouridine(13) synthase)
+55.42033133,Medium,P40965,MutS protein homolog 4
+44.36815346,Medium,P53141,Myosin light chain 1 (Calmodulin-like myosin light chain MLC1) (Myosin-2 light chain)
+40.56808143,Unstable,Q12387,N-terminal acetyltransferase B complex subunit MDM20 (NatB complex subunit MDM20) (Dislikes extra CIN8 protein 1) (Mitochondrial distribution and morphology protein 20)
+54.9265505,Medium,P33327,NAD-specific glutamate dehydrogenase (NAD-GDH) (EC 1.4.1.2)
+43.02479857,Unstable,P53164,NADH pyrophosphatase (EC 3.6.1.22)
+52.71829582,Medium,Q05016,NADP-dependent 3-hydroxy acid dehydrogenase (L-allo-threonine dehydrogenase) (EC 1.1.1.381)
+51.44454746,Medium,Q04894,NADP-dependent alcohol dehydrogenase 6 (EC 1.1.1.2) (NADP-dependent alcohol dehydrogenase VI) (ScADHVI)
+66.02799439,Stable,P07262,NADP-specific glutamate dehydrogenase 1 (NADP-GDH 1) (EC 1.4.1.4) (NADP-dependent glutamate dehydrogenase 1)
+47.65314328,Medium,Q03558,NADPH dehydrogenase 2 (EC 1.6.99.1) (Old yellow enzyme 2)
+52.73839216,Medium,P16603,NADPH--cytochrome P450 reductase (CPR) (P450R) (EC 1.6.2.4)
+53.14383244,Medium,Q07551,NADPH-dependent alpha-keto amide reductase (AKR-E) (EC 1.2.1.-) (YKAR)
+52.15545555,Medium,P38879,Nascent polypeptide-associated complex subunit alpha (NAC-alpha) (Alpha-NAC) (GAL4 DNA-binding enhancer protein 2)
+48.80228242,Medium,Q02642,Nascent polypeptide-associated complex subunit beta-1 (NAC-beta-1) (BTF3 homolog EGD1) (Beta-1-NAC) (GAL4 DNA-binding enhancer protein 1)
+53.06310082,Medium,P53184,Nicotinamidase (EC 3.5.1.19) (Nicotine deamidase) (NAMase)
+48.20467057,Medium,P39683,Nicotinate phosphoribosyltransferase (NAPRTase) (EC 6.3.4.21)
+51.13984474,Medium,Q12207,Non-classical export protein 2
+51.79005939,Medium,P46970,Nonsense-mediated mRNA decay protein 5 (Karyopherin-119)
+53.47875255,Medium,P33331,Nuclear transport factor 2 (NTF-2) (Nuclear transport factor P10)
+51.36714239,Medium,Q02892,Nucleolar GTP-binding protein 1
+49.5698991,Medium,Q01560,Nucleolar protein 3 (Mitochondrial targeting suppressor 1 protein) (Nuclear polyadenylated RNA-binding protein 1)
+47.83138328,Medium,Q12499,Nucleolar protein 58 (Nucleolar protein 5)
+67.76862926,Stable,P40066,Nucleoporin GLE2 (Nuclear pore protein GLE2) (poly(A) RNA export protein RAE1)
+57.77547011,Medium,P35729,Nucleoporin NUP120 (Nuclear pore protein NUP120)
+49.18765846,Medium,P39685,Nucleoporin POM152 (Nuclear pore protein POM152) (P150) (Pore membrane protein POM152)
+63.09708,Stable,P38219,Obg-like ATPase 1
+42.41237282,Unstable,P07991,Ornithine aminotransferase (EC 2.6.1.13) (Ornithine--oxo-acid aminotransferase)
+65.00479192,Stable,P05150,Ornithine carbamoyltransferase (EC 2.1.3.3) (Ornithine transcarbamylase) (OTCase)
+43.37407061,Unstable,P13298,Orotate phosphoribosyltransferase 1 (OPRT 1) (OPRTase 1) (EC 2.4.2.10)
+53.44208668,Medium,P11353,Oxygen-dependent coproporphyrinogen-III oxidase (COX) (Coprogen oxidase) (Coproporphyrinogenase) (EC 1.3.3.3)
+50.18723095,Medium,P35844,Oxysterol-binding protein homolog 4 (Protein KES1)
+55.14867959,Medium,P08566,Pentafunctional AROM polypeptide [Includes: 3-dehydroquinate synthase (DHQS) (EC 4.2.3.4); 3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS); Shikimate kinase (SK) (EC 2.7.1.71); 3-dehydroquinate dehydratase (3-dehydroquinase) (EC 4.2.1.10); Shikimate dehydrogenase (EC 1.1.1.25)]
+49.66808906,Medium,P14832,Peptidyl-prolyl cis-trans isomerase (PPIase) (EC 5.2.1.8) (Cyclophilin) (CPH) (Cyclosporin A-binding protein) (PPI-II) (Rotamase)
+49.02798456,Medium,P25719,"Peptidyl-prolyl cis-trans isomerase C, mitochondrial (PPIase C) (EC 5.2.1.8) (Cyclophilin C) (PPI-III) (Rotamase C)"
+48.98317958,Medium,P53691,Peptidyl-prolyl cis-trans isomerase CPR6 (PPIase CPR6) (EC 5.2.1.8) (Rotamase CPR6)
+55.5868218,Medium,P35176,Peptidyl-prolyl cis-trans isomerase D (PPIase D) (EC 5.2.1.8) (Cyclophilin D) (Rotamase D)
+51.17884067,Medium,P34760,Peroxiredoxin TSA1 (EC 1.11.1.15) (Cytoplasmic thiol peroxidase 1) (cTPx 1) (PRP) (Thiol-specific antioxidant protein 1) (Thioredoxin peroxidase)
+43.41735666,Unstable,P38013,Peroxiredoxin type-2 (EC 1.11.1.15) (AHPC1) (Cytoplasmic thiol peroxidase 3) (cTPx 3) (Peroxiredoxin type II) (Peroxisomal alkyl hydroperoxide reductase) (TPx type II) (Thiol-specific antioxidant II) (TSA II) (Thioredoxin peroxidase type II) (Thioredoxin reductase type II)
+47.43104849,Medium,P53261,Pescadillo homolog (Nucleolar protein 7) (Ribosomal RNA-processing protein 13)
+52.30637471,Medium,P15625,Phenylalanine--tRNA ligase alpha subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase alpha subunit) (PheRS)
+52.72330933,Medium,P15624,Phenylalanine--tRNA ligase beta subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS)
+60.33226108,Stable,P38221,Phosphatidate cytidylyltransferase (EC 2.7.7.41) (CDP-diacylglycerol synthase) (CDP-DAG synthase) (CDS) (CDP-diglyceride pyrophosphorylase) (CDP-diglyceride synthase) (CDP-DG synthase) (CTP:phosphatidate cytidylyltransferase)
+48.20023517,Medium,P37297,Phosphatidylinositol 4-kinase STT4 (PI4-kinase) (PtdIns-4-kinase) (EC 2.7.1.67)
+51.88965099,Medium,P53860,Phosphatidylinositol transfer protein PDR16 (PITP) (Pleiotropic drug resistance protein 16) (SEC14 homolog 3)
+55.30507511,Medium,P33401,Phosphoglucomutase 1 (PGM 1) (EC 5.4.2.2) (Glucose phosphomutase 1)
+50.77674207,Medium,P37012,"Phosphoglucomutase 2 (PGM 2) (EC 5.4.2.2) (D-glucose-1,6-diphosphate:D-glucose-1-phosphate phosphotransferase) (Glucose phosphomutase 2)"
+49.72077895,Medium,P00560,Phosphoglycerate kinase (EC 2.7.2.3)
+51.0742751,Medium,P00950,Phosphoglycerate mutase 1 (PGAM 1) (EC 5.4.2.11) (BPG-dependent PGAM 1) (MPGM 1) (Phosphoglyceromutase 1)
+63.80426736,Stable,P07283,Phosphomannomutase (PMM) (EC 5.4.2.8)
+51.57867441,Medium,P24521,Phosphomevalonate kinase (EC 2.7.4.2)
+57.30892169,Medium,P21264,Phosphoribosylaminoimidazole carboxylase (EC 4.1.1.21) (AIR carboxylase) (AIRC)
+49.5666573,Medium,P27616,Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase)
+56.25794759,Medium,P04161,Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2) (5'-phosphoribosylglycinamide transformylase) (GAR transformylase) (GART)
+42.41637503,Unstable,P33330,Phosphoserine aminotransferase (PSAT) (EC 2.6.1.52) (Phosphohydroxythreonine aminotransferase)
+45.69084246,Medium,P05030,Plasma membrane ATPase 1 (EC 3.6.3.6) (Proton pump 1)
+48.87790058,Medium,P29468,Poly(A) polymerase (PAP) (EC 2.7.7.19) (Polynucleotide adenylyltransferase)
+42.58255291,Unstable,P04147,"Polyadenylate-binding protein, cytoplasmic and nuclear (PABP) (Poly(A)-binding protein) (ARS consensus-binding protein ACBP-67) (Polyadenylate tail-binding protein)"
+53.88398892,Medium,Q12271,"Polyphosphatidylinositol phosphatase INP53 (Suppressor of PMA1 protein 2) (Synaptojanin-like protein 3) [Includes: SAC1-like phosphoinositide phosphatase (EC 3.1.3.-); Phosphatidylinositol 4,5-bisphosphate 5-phosphatase (EC 3.1.3.36)]"
+56.48771122,Medium,P46367,"Potassium-activated aldehyde dehydrogenase, mitochondrial (EC 1.2.1.5) (K(+)-activated acetaldehyde dehydrogenase) (K(+)-ACDH)"
+45.93673987,Medium,P53877,Pre-rRNA-processing protein IPI3 (Involved in processing IST2 protein 3)
+52.90713054,Medium,P38883,Pre-rRNA-processing protein RIX1 (Involved in processing IST2 protein 2) (Ribosomal export protein 1)
+54.96301308,Medium,Q04493,Prefoldin subunit 5 (Genes involved in microtubule biogenesis protein 5) (Gim complex subunit 5) (GimC subunit 5)
+45.34470739,Medium,Q03655,"Probable 1,3-beta-glucanosyltransferase GAS3 (EC 2.4.1.-) (Glycolipid-anchored surface protein 3)"
+53.49938081,Medium,P52893,"Probable alanine aminotransferase, mitochondrial (EC 2.6.1.2) (Glutamate pyruvate transaminase) (GPT) (Glutamic--alanine transaminase) (Glutamic--pyruvic transaminase)"
+54.75134851,Medium,P46985,"Probable alpha-1,6-mannosyltransferase MNN11 (EC 2.4.1.-) (Mannan polymerase II complex MNN11 subunit) (M-Pol II subunit MNN11)"
+46.27885368,Medium,P25371,Probable ATP-dependent permease
+55.64828384,Medium,Q08225,Probable dipeptidyl peptidase 3 (EC 3.4.14.4) (Dipeptidyl aminopeptidase III) (Dipeptidyl arylamidase III) (Dipeptidyl peptidase III) (DPP III)
+52.05465522,Medium,Q06644,Probable dolichyl-phosphate-mannose--protein mannosyltransferase 7 (EC 2.4.1.109)
+49.790176,Medium,P53334,Probable family 17 glucosidase SCW4 (EC 3.2.1.-) (Soluble cell wall protein 4)
+54.07938651,Medium,Q05790,Probable glycosidase CRR1 (EC 3.2.-.-) (CRH-related protein 1)
+54.12550804,Medium,P38130,Probable mannosyltransferase KTR3 (EC 2.4.1.-)
+54.90558805,Medium,P21242,Probable proteasome subunit alpha type-7 (EC 3.4.25.1) (Macropain subunit C1) (Multicatalytic endopeptidase complex subunit C1) (Proteasome component C1) (Proteinase YSCE subunit 1)
+52.0921797,Medium,P07274,Profilin
+42.58176039,Unstable,P21243,Proteasome subunit alpha type-1 (EC 3.4.25.1) (Macropain subunit C7-alpha) (Multicatalytic endopeptidase complex C7) (Proteasome component C7-alpha) (Proteasome component Y8) (Proteinase YSCE subunit 7) (SCL1 suppressor protein)
+64.80405761,Stable,P23638,Proteasome subunit alpha type-3 (EC 3.4.25.1) (Macropain subunit Y13) (Multicatalytic endopeptidase complex subunit Y13) (Proteasome component Y13) (Proteinase YSCE subunit 13)
+49.58107084,Medium,P40303,Proteasome subunit alpha type-4 (EC 3.4.25.1) (Macropain subunit PRE6) (Multicatalytic endopeptidase complex subunit PRE6) (Proteasome component PRE6) (Proteinase YSCE subunit PRE6)
+65.59263887,Stable,P38624,Proteasome subunit beta type-1 (EC 3.4.25.1) (Macropain subunit PRE3) (Multicatalytic endopeptidase complex subunit PRE3) (Proteasome component PRE3) (Proteinase YSCE subunit PRE3)
+64.07142306,Stable,P25043,Proteasome subunit beta type-2 (EC 3.4.25.1) (Macropain subunit PUP1) (Multicatalytic endopeptidase complex subunit PUP1) (Proteasome component PUP1) (Proteinase YSCE subunit PUP1)
+64.76355806,Stable,P30657,Proteasome subunit beta type-7 (EC 3.4.25.1) (Macropain subunit PRE4) (Multicatalytic endopeptidase complex subunit PRE4) (Proteasome component PRE4) (Proteinase YSCE subunit PRE4)
+42.45791671,Unstable,P16550,"Protein APA1 [Includes: Diadenosine 5',5'''-P1,P4-tetraphosphate phosphorylase 1 (Ap4A phosphorylase 1) (EC 2.7.7.53) (ADP-sulfurylase) (EC 2.7.7.5) (ATP adenylyltransferase) (Diadenosine tetraphosphate alpha,beta-phosphorylase (ADP-forming))]"
+49.53922096,Medium,Q01217,"Protein ARG5,6, mitochondrial [Cleaved into: N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38) (N-acetyl-glutamate semialdehyde dehydrogenase) (NAGSA dehydrogenase); Acetylglutamate kinase (EC 2.7.2.8) (N-acetyl-L-glutamate 5-phosphotransferase) (NAG kinase) (AGK)]"
+53.43359137,Medium,P38074,Protein arginine N-methyltransferase 1 (EC 2.1.1.-) (Major type I protein arginine N-methyltransferase) (Type I PRMT) (hnRNP arginine N-methyltransferase)
+51.58028216,Medium,Q12314,Protein arginine N-methyltransferase SFM1 (EC 2.1.1.-) (SPOUT family methyltransferase 1)
+53.22363723,Medium,P29311,Protein BMH1
+47.12348131,Medium,P34730,Protein BMH2
+43.82157243,Unstable,P17967,Protein disulfide-isomerase (PDI) (EC 5.3.4.1) (Thioredoxin-related glycoprotein 1)
+65.48325856,Stable,P36037,Protein DOA1
+43.53836749,Unstable,Q12450,Protein ERP4
+54.06681351,Medium,P40008,"Protein FMP52, mitochondrial (Found in mitochondrial proteome protein 52)"
+62.24011122,Stable,Q05905,Protein HRI1 (HRR25-interacting protein 1)
+45.81305617,Medium,P53009,Protein kinase-like protein SCY1
+55.51612804,Medium,P52918,Protein MSN5
+40.83473043,Unstable,P06105,Protein SCP160 (Protein HX)
+56.52475307,Medium,P25294,Protein SIS1
+50.67486665,Medium,P40040,Protein THO1
+48.57123143,Medium,P40462,Protein TMA108 (EC 3.4.11.-) (108 kDa translation machinery-associated protein)
+46.75539337,Medium,P38825,Protein TOM71 (71 kDa mitochondrial outer membrane protein)
+43.40920349,Unstable,P14906,Protein translocation protein SEC63 (Protein NPL1) (Sec62/63 complex 73 kDa subunit)
+45.51354812,Medium,Q04491,Protein transport protein SEC13
+45.98345039,Medium,P15303,Protein transport protein SEC23
+48.50088755,Medium,P40482,Protein transport protein SEC24 (Abnormal nuclear morphology 1)
+44.07672979,Medium,P38968,Protein transport protein SEC31 (Protein WEB1)
+45.46136574,Medium,P11075,Protein transport protein SEC7
+48.1872693,Medium,P07259,Protein URA2 [Includes: Glutamine-dependent carbamoyl-phosphate synthase (EC 6.3.5.5); Aspartate carbamoyltransferase (EC 2.1.3.2)]
+48.83470551,Medium,P38616,Protein YGP1 (GP38)
+51.22644407,Medium,Q08245,Protein ZEO1 (Zeocin resistance protein 1)
+46.20274286,Medium,Q12512,Protein ZPS1
+40.38206424,Unstable,Q12335,Protoplast secreted protein 2
+52.08970161,Medium,Q05788,Purine nucleoside phosphorylase (PNP) (EC 2.4.2.1) (Inosine phosphorylase) (Inosine-guanosine phosphorylase)
+42.73735463,Unstable,Q07505,Putative carboxymethylenebutenolidase (EC 3.1.1.45) (Dienelactone hydrolase) (DLH)
+67.41486887,Stable,P38836,Putative metallocarboxypeptidase ECM14 (EC 3.4.17.-) (Extracellular mutant protein 14)
+46.84886145,Medium,Q12458,Putative reductase 1 (EC 1.1.1.-)
+68.67585403,Stable,P38109,Putative serine carboxypeptidase YBR139W (EC 3.4.16.-)
+43.74761112,Unstable,P38075,Pyridoxamine 5'-phosphate oxidase (EC 1.4.3.5) (PNP/PMP oxidase) (PNPOx)
+52.0647253,Medium,P32263,Pyrroline-5-carboxylate reductase (P5C reductase) (P5CR) (EC 1.5.1.2)
+48.80379024,Medium,P11154,Pyruvate carboxylase 1 (EC 6.4.1.1) (Pyruvic carboxylase 1) (PCB 1)
+53.90190649,Medium,P32327,Pyruvate carboxylase 2 (EC 6.4.1.1) (Pyruvic carboxylase 2) (PCB 2)
+51.48452524,Medium,P06169,Pyruvate decarboxylase isozyme 1 (EC 4.1.1.-) (EC 4.1.1.1) (EC 4.1.1.43) (EC 4.1.1.74)
+57.11827051,Medium,P26263,Pyruvate decarboxylase isozyme 3 (EC 4.1.1.1)
+45.29339431,Medium,P16451,"Pyruvate dehydrogenase complex protein X component, mitochondrial (Dihydrolipoamide dehydrogenase-binding protein of pyruvate dehydrogenase complex) (E3-binding protein) (Pyruvate dehydrogenase complex component E3BP)"
+42.08963552,Unstable,P32473,"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial (EC 1.2.4.1) (Pyruvate dehydrogenase complex component E1 beta) (PDHE1-B)"
+49.6832898,Medium,P00549,Pyruvate kinase 1 (PK 1) (EC 2.7.1.40) (cell division cycle protein 19)
+56.13563267,Medium,P39958,Rab GDP-dissociation inhibitor (Rab GDI) (Secretory pathway GDP dissociation inhibitor)
+43.7536418,Unstable,P11745,Ran GTPase-activating protein 1 (Protein involved in RNA production/processing)
+46.82091713,Medium,P01120,Ras-like protein 2
+49.55869518,Medium,P07560,Ras-related protein SEC4 (Suppressor of RHO3 protein 6)
+68.6422073,Stable,P11491,"Repressible alkaline phosphatase (EC 3.1.3.1) (Fructose-2,6-bisphosphate 6-phosphatase) (EC 3.1.3.54) (Membrane-bound repressible alkaline phosphatase) [Cleaved into: Soluble alkaline phosphatase (EC 3.1.7.6) (Farnesyl diphosphatase)]"
+40.47590852,Unstable,P38804,Restriction of telomere capping protein 3
+51.64428783,Medium,Q04947,Reticulon-like protein 1
+57.8056383,Medium,Q12443,Reticulon-like protein 2
+54.56142405,Medium,Q12434,Rho GDP-dissociation inhibitor (Rho GDI)
+50.77862026,Medium,Q02933,Ribonuclease T2-like (RNase T2-like) (EC 3.1.27.1)
+50.17646193,Medium,P21524,Ribonucleoside-diphosphate reductase large chain 1 (EC 1.17.4.1) (Ribonucleotide reductase R1 subunit 1) (Ribonucleotide reductase large subunit 1)
+56.3115193,Medium,P09938,Ribonucleoside-diphosphate reductase small chain 1 (EC 1.17.4.1) (Ribonucleotide reductase R2 subunit 1) (Ribonucleotide reductase small subunit 1)
+50.85814617,Medium,P49723,Ribonucleoside-diphosphate reductase small chain 2 (EC 1.17.4.1) (Ribonucleotide reductase R2 subunit 2) (Ribonucleotide reductase small subunit 2)
+54.56386014,Medium,Q12189,Ribose-5-phosphate isomerase (EC 5.3.1.6) (D-ribose-5-phosphate ketol-isomerase) (Phosphoriboisomerase)
+51.28145158,Medium,P32895,Ribose-phosphate pyrophosphokinase 1 (EC 2.7.6.1) (Phosphoribosyl pyrophosphate synthase 1)
+50.62758714,Medium,P38689,Ribose-phosphate pyrophosphokinase 3 (EC 2.7.6.1) (Phosphoribosyl pyrophosphate synthase 3)
+54.26285514,Medium,P35178,Ribosomal RNA-processing protein 1
+51.90499107,Medium,P53927,Ribosome biogenesis protein 15 (Nucleolar protein 15)
+50.51370911,Medium,Q07915,Ribosome biogenesis protein RLP24 (Ribosomal protein L24-like)
+59.33542015,Stable,P38805,Ribosome production factor 1 (Ribosome biogenesis protein RPF1)
+51.6752175,Medium,Q12532,Ribosome quality control complex subunit 2 (Translation-associated element 2)
+48.43018171,Medium,P38788,Ribosome-associated complex subunit SSZ1 (DnaK-related protein SSZ1) (Heat shock protein 70 homolog SSZ1) (Pleiotropic drug resistance protein 13)
+53.12477376,Medium,P53914,RNA cytidine acetyltransferase (EC 2.3.1.-) (18S rRNA cytosine acetyltransferase) (Killer toxin-resistance protein 33) (Ribosomal RNA cytidine acetyltransferase 1)
+69.54792713,Stable,P35732,RNA polymerase II degradation factor 1 (RRM3-interacting protein 1)
+44.32580562,Medium,P89105,RNA polymerase-associated protein CTR9 (Centromere-binding factor 1-dependent protein 1) (Cln three-requiring protein 9)
+48.25508501,Medium,P25567,RNA-binding protein SRO9 (Suppressor of RHO3 protein 9)
+43.40070604,Unstable,P32340,"Rotenone-insensitive NADH-ubiquinone oxidoreductase, mitochondrial (EC 1.6.5.9) (Internal NADH dehydrogenase) (NADH:ubiquinone reductase (non-electrogenic))"
+42.99910087,Unstable,Q05022,rRNA biogenesis protein RRP5 (Ribosomal RNA-processing protein 5) (U3 small nucleolar RNA-associated protein RRP5) (U3 snoRNA-associated protein RRP5)
+52.27373876,Medium,Q03940,RuvB-like protein 1 (RUVBL1) (EC 3.6.4.12) (TIP49-homology protein 1) (TIP49a homolog)
+54.86778462,Medium,P32771,S-(hydroxymethyl)glutathione dehydrogenase (EC 1.1.1.284) (Alcohol dehydrogenase SFA) (EC 1.1.1.1) (Glutathione-dependent formaldehyde dehydrogenase) (FALDH) (FDH) (FLD) (GSH-FDH) (EC 1.1.1.-)
+64.14261042,Stable,P40363,S-formylglutathione hydrolase (FGH) (EC 3.1.2.12)
+46.75226129,Medium,P07267,Saccharopepsin (EC 3.4.23.25) (Aspartate protease) (PrA) (Proteinase A) (Carboxypeptidase Y-deficient protein 4) (Proteinase YSCA)
+50.02320894,Medium,P38998,"Saccharopine dehydrogenase [NAD(+), L-lysine-forming] (SDH) (EC 1.5.1.7) (Lysine--2-oxoglutarate reductase)"
+49.1867312,Medium,P24280,SEC14 cytosolic factor (Phosphatidylinositol/phosphatidylcholine transfer protein) (PI/PC TP)
+47.41771145,Medium,P38810,SED5-binding protein 3 (Lethal with SEC13 protein 1) (SEC24-related protein 3)
+52.56345298,Medium,P36136,"Sedoheptulose 1,7-bisphosphatase (EC 3.1.3.37)"
+50.4345653,Medium,P37291,"Serine hydroxymethyltransferase, cytosolic (SHMT) (EC 2.1.2.1) (Glycine hydroxymethyltransferase) (Serine methylase)"
+61.24370082,Stable,P37292,"Serine hydroxymethyltransferase, mitochondrial (SHMT) (EC 2.1.2.1) (Glycine hydroxymethyltransferase) (Serine methylase)"
+54.61432382,Medium,P25045,Serine palmitoyltransferase 1 (SPT 1) (SPT1) (EC 2.3.1.50) (Long chain base biosynthesis protein 1)
+44.28443862,Medium,P07284,"Serine--tRNA ligase, cytoplasmic (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase)"
+49.43351281,Medium,P53104,Serine/threonine-protein kinase ATG1 (EC 2.7.11.1) (Autophagy protein 3) (Autophagy-related protein 1) (Cytoplasm to vacuole targeting protein 10)
+46.32458246,Medium,Q03533,Serine/threonine-protein kinase TDA1 (Topoisomerase I damage affected protein 1) (EC 2.7.11.1)
+53.45781352,Medium,P40454,Serine/threonine-protein phosphatase 2A activator 1 (EC 5.2.1.8) (Peptidyl-prolyl cis-trans isomerase PTPA-1) (PPIase PTPA-1) (Rotamase PTPA-1) (Phosphotyrosyl phosphatase activator 1)
+48.67105516,Medium,P32598,Serine/threonine-protein phosphatase PP1-2 (EC 3.1.3.16)
+54.9984562,Medium,Q04969,Signal peptidase complex subunit SPC2 (Microsomal signal peptidase subunit 2)
+69.60513134,Stable,P32445,"Single-stranded DNA-binding protein RIM1, mitochondrial (Mitochondrial ssDNA-binding protein)"
+52.0507335,Medium,Q04264,Sister chromatid cohesion protein PDS5 (Precocious dissociation of sisters protein 5)
+67.1592179,Stable,P43612,SIT4-associating protein SAP155
+52.4435439,Medium,Q12118,Small glutamine-rich tetratricopeptide repeat-containing protein 2 (SGT/UBP) (Viral protein U-binding protein)
+51.26077512,Medium,Q12074,Spermidine synthase (SPDSY) (EC 2.5.1.16) (Putrescine aminopropyltransferase)
+56.90815211,Medium,Q12455,Spermine synthase (SPMSY) (EC 2.5.1.22) (Spermidine aminopropyltransferase)
+57.48783485,Medium,P21623,Spore wall maturation protein DIT1
+40.45765611,Unstable,P32476,Squalene monooxygenase (EC 1.14.14.17) (Squalene epoxidase) (SE)
+50.90496766,Medium,P53629,Sterol O-acyltransferase 2 (EC 2.3.1.26) (Sterol-ester synthase 2)
+46.36004977,Medium,Q00711,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial (EC 1.3.5.1) (Flavoprotein subunit of complex II) (FP)"
+43.4920947,Unstable,P39692,Sulfite reductase [NADPH] flavoprotein component (EC 1.8.1.2)
+61.80714364,Stable,P47169,Sulfite reductase [NADPH] subunit beta (EC 1.8.1.2) (Extracellular mutant protein 17)
+62.03702984,Stable,P00445,Superoxide dismutase [Cu-Zn] (EC 1.15.1.1)
+49.16676736,Medium,P40202,Superoxide dismutase 1 copper chaperone
+53.65373936,Medium,P53078,Suppressor of disruption of TFIIS
+48.5546351,Medium,P39015,Suppressor protein STM1 (3BP1) (GU4 nucleic-binding protein 2) (G4p2 protein) (POP2 multicopy suppressor protein 4) (Ribosomal subunits association factor) (AF) (TOM1 suppressor protein 1) (Triplex-binding protein 1)
+47.42827713,Medium,Q05515,Survival factor 1
+52.24192317,Medium,P36015,Synaptobrevin homolog YKT6 (EC 2.3.1.-)
+58.87166261,Medium,P12612,T-complex protein 1 subunit alpha (TCP-1-alpha) (CCT-alpha)
+54.54858064,Medium,P39078,T-complex protein 1 subunit delta (TCP-1-delta) (CCT-delta)
+43.00575322,Unstable,P42943,T-complex protein 1 subunit eta (TCP-1-eta) (CCT-eta)
+43.90668878,Unstable,P29509,Thioredoxin reductase 1 (EC 1.8.1.9)
+67.08519797,Stable,P22217,Thioredoxin-1 (Thioredoxin I) (TR-I) (Thioredoxin-2)
+42.58665443,Unstable,Q12305,"Thiosulfate sulfurtransferase RDL1, mitochondrial (EC 2.8.1.1) (Rhodanese-like protein 1)"
+43.57582238,Unstable,Q08686,Thiosulfate sulfurtransferase TUM1 (EC 2.8.1.1) (Thiouridine modification protein 1)
+40.21979197,Unstable,P00927,"Threonine dehydratase, mitochondrial (EC 4.3.1.19) (Threonine deaminase)"
+56.88165833,Medium,P16120,Threonine synthase (TS) (EC 4.2.3.1)
+49.2272935,Medium,P04801,"Threonine--tRNA ligase, cytoplasmic (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS)"
+55.71297028,Medium,P06785,Thymidylate synthase (TS) (TSase) (EC 2.1.1.45) (Cell division cycle protein 21) (Constitutive RNR3 transcription protein 9)
+45.93405539,Medium,Q03337,Trafficking protein particle complex subunit 31 (TRAPP subunit 31) (Transport protein particle 31 kDa subunit)
+46.80922851,Medium,P15019,Transaldolase (EC 2.2.1.2)
+56.79631923,Medium,P23615,Transcription elongation factor SPT6 (Chromatin elongation factor SPT6)
+52.27520588,Medium,P40041,Transcription factor VHR2 (VHT1 regulator 2)
+58.83923391,Medium,P32774,Transcription initiation factor IIA subunit 2 (General transcription factor IIA subunit 2) (TFIIA 13.5 kDa subunit) (Transcription initiation factor IIA small chain) (Transcription initiation factor IIA small subunit)
+53.08600758,Medium,P22082,Transcription regulatory protein SNF2 (EC 3.6.4.-) (ATP-dependent helicase SNF2) (Regulatory protein GAM1) (Regulatory protein SWI2) (SWI/SNF complex component SNF2) (Transcription factor TYE3)
+50.96179563,Medium,Q12363,Transcriptional modulator WTM1
+57.28518674,Medium,P23254,Transketolase 1 (TK 1) (EC 2.2.1.1)
+49.47218739,Medium,P09032,Translation initiation factor eIF-2B subunit gamma (GCD complex subunit GCD1) (Guanine nucleotide exchange factor subunit GCD1) (eIF-2B GDP-GTP exchange factor subunit gamma)
+49.41996091,Medium,Q03195,Translation initiation factor RLI1 (ATP-binding cassette sub-family E member RLI1) (RNase L inhibitor)
+45.33126792,Medium,P35691,Translationally-controlled tumor protein homolog (TCTP) (Microtubule and mitochondria-interacting protein 1) (Translation machinery-associated protein 19)
+50.03395776,Medium,P0C2I4,Transposon Ty1-H Gag polyprotein (Gag-p49) (Transposon Ty1 protein A) (TY1A) (TYA) (p58) [Cleaved into: Capsid protein (CA) (Gag-p45) (p54); Gag-p4]
+51.4468895,Medium,P0CX74,Transposon Ty1-JR1 Gag polyprotein (Gag-p49) (Transposon Ty1 protein A) (TY1A) (TYA) (p58) [Cleaved into: Capsid protein (CA) (Gag-p45) (p54); Gag-p4]
+51.52698104,Medium,P38426,"Trehalose synthase complex regulatory subunit TPS3 (Alpha,alpha-trehalose-phosphate synthase [UDP-forming] 115 kDa subunit)"
+50.61365675,Medium,P31688,Trehalose-phosphatase (EC 3.1.3.12) (Trehalose synthase complex catalytic subunit TPS2) (Trehalose-6-phosphate phosphatase) (TPP)
+61.79279359,Stable,P00942,Triosephosphate isomerase (TIM) (EC 5.3.1.1) (Triose-phosphate isomerase)
+44.27683599,Medium,Q03774,tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit TRM82 (Transfer RNA methyltransferase 82)
+51.44668357,Medium,P15565,"tRNA (guanine(26)-N(2))-dimethyltransferase, mitochondrial (EC 2.1.1.216) (tRNA 2,2-dimethylguanosine-26 methyltransferase) (tRNA(guanine-26,N(2)-N(2)) methyltransferase) (tRNA(m(2,2)G26)dimethyltransferase)"
+41.03994241,Unstable,P46672,tRNA-aminoacylation cofactor ARC1 (Acyl-RNA-complex protein 1) (GU4 nucleic-binding protein 1) (G4p1 protein) (P42) (tRNA-interacting factor ARC1)
+65.93071534,Stable,P00931,Tryptophan synthase (EC 4.2.1.20)
+51.47647563,Medium,P53250,Twinfilin-1 (Twinfilin-A)
+45.7605982,Medium,P36421,"Tyrosine--tRNA ligase, cytoplasmic (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS)"
+42.63945244,Unstable,Q12220,U3 small nucleolar RNA-associated protein 12 (U3 snoRNA-associated protein 12) (DOM34-interacting protein 2) (U three protein 12)
+42.14130131,Unstable,P35194,U3 small nucleolar RNA-associated protein 20 (U3 snoRNA-associated protein 20) (U three protein 20)
+51.07659959,Medium,P53254,U3 small nucleolar RNA-associated protein 22 (U3 snoRNA-associated protein 22) (U three protein 22)
+45.10424378,Medium,Q02354,U3 small nucleolar RNA-associated protein 6 (U3 snoRNA-associated protein 6) (U three protein 6)
+56.13472751,Medium,P53276,U3 small nucleolar RNA-associated protein 8 (U3 snoRNA-associated protein 8) (U three protein 8) (U3 protein 8 required for transcription) (t-UTP8)
+50.27238276,Medium,P53905,U6 snRNA-associated Sm-like protein LSm7
+46.27882755,Medium,P48510,Ubiquitin domain-containing protein DSK2
+60.5621178,Stable,P53044,Ubiquitin fusion degradation protein 1 (UB fusion protein 1) (Polymerase-interacting protein 3)
+49.2230704,Medium,P05759,Ubiquitin-40S ribosomal protein S31 [Cleaved into: Ubiquitin; 40S ribosomal protein S31 (CEP76) (S37) (YS24)]
+45.43043484,Medium,P22515,Ubiquitin-activating enzyme E1 1 (EC 6.2.1.45)
+59.97195881,Stable,P21734,Ubiquitin-conjugating enzyme E2 1 (EC 2.3.2.23) (E2 ubiquitin-conjugating enzyme 1) (Ubiquitin carrier protein) (Ubiquitin-conjugating enzyme E2-24 kDa) (Ubiquitin-protein ligase)
+55.14468733,Medium,Q12306,Ubiquitin-like protein SMT3
+51.28063108,Medium,Q04228,UBX domain-containing protein 2 (Secretion lowering protein 1)
+59.69103473,Stable,P38765,Uncharacterized isomerase YHI9 (EC 5.1.-.-)
+54.19898159,Medium,P53889,Uncharacterized mitochondrial hydrolase FMP41 (EC 3.-.-.-)
+50.23146155,Medium,P43590,Uncharacterized peptidase YFR006W (EC 3.4.-.-)
+44.24003496,Medium,P53981,Uncharacterized phosphatase YNL010W (EC 3.1.3.-)
+57.16549607,Medium,P38235,Uncharacterized protein YBR053C
+51.04311894,Medium,P10356,Uncharacterized protein YER152C
+52.02058275,Medium,P38769,Uncharacterized protein YHR035W
+53.33078818,Medium,Q05881,Uncharacterized protein YLR287C
+48.95560039,Medium,Q04773,Uncharacterized protein YMR074C
+55.06217053,Medium,Q03219,Uncharacterized protein YMR178W
+52.53247419,Medium,Q04869,Uncharacterized protein YMR315W
+51.01256711,Medium,P53912,Uncharacterized protein YNL134C
+53.98766193,Medium,Q12275,Uncharacterized protein YOR093C
+55.79576155,Medium,Q06523,Uncharacterized protein YPR148C
+52.41083299,Medium,P38716,Uncharacterized trans-sulfuration enzyme YHR112C
+67.93017576,Stable,P40093,UPF0160 protein YER156C
+45.51041794,Medium,P32528,Urea amidolyase [Includes: Urea carboxylase (EC 6.3.4.6); Allophanate hydrolase (EC 3.5.1.54)]
+64.81785384,Stable,P32347,Uroporphyrinogen decarboxylase (UPD) (URO-D) (EC 4.1.1.37)
+45.33411068,Medium,P32861,UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9) (UDP-glucose pyrophosphorylase) (UDPGP) (UGPase)
+46.96119273,Medium,P32628,UV excision repair protein RAD23
+49.98862037,Medium,P17255,V-type proton ATPase catalytic subunit A (V-ATPase subunit A) (EC 3.6.3.14) (Vacuolar proton pump subunit A) [Cleaved into: Endonuclease PI-SceI (EC 3.1.-.-) (Sce VMA intein) (VMA1-derived endonuclease) (VDE)]
+50.28304335,Medium,P32563,"V-type proton ATPase subunit a, vacuolar isoform (V-ATPase a 1 subunit) (V-ATPase 95 kDa subunit) (Vacuolar pH protein 1) (Vacuolar proton pump a subunit) (Vacuolar proton translocating ATPase subunit a 1)"
+49.1682179,Medium,P16140,V-type proton ATPase subunit B (V-ATPase subunit B) (V-ATPase 57 kDa subunit) (Vacuolar proton pump subunit B)
+46.01002205,Medium,P31412,V-type proton ATPase subunit C (V-ATPase subunit C) (V-ATPase 42 kDa subunit) (Vacuolar proton pump subunit C)
+57.54296347,Medium,P32366,V-type proton ATPase subunit d (V-ATPase subunit d) (V-ATPase 39 kDa subunit) (V-ATPase subunit M39) (Vacuolar proton pump subunit d)
+52.33706695,Medium,P32610,V-type proton ATPase subunit D (V-ATPase subunit D) (Vacuolar proton pump subunit D)
+53.56985339,Medium,P39111,V-type proton ATPase subunit F (V-ATPase subunit F) (V-ATPase 14 kDa subunit) (Vacuolar proton pump subunit F)
+42.80759922,Unstable,P14904,Vacuolar aminopeptidase 1 (EC 3.4.11.22) (Aminopeptidase yscI) (Leucine aminopeptidase IV) (LAPIV) (Lysosomal aminopeptidase III) (Polypeptidase) (Vacuolar aminopeptidase I)
+43.97738109,Unstable,Q99385,Vacuolar calcium ion transporter (High copy number undoes manganese protein 1) (Manganese resistance 1 protein) (Vacuolar Ca(2+)/H(+) exchanger)
+57.65050467,Medium,P40157,Vacuolar import and degradation protein 27
+60.3916712,Stable,Q07878,Vacuolar protein sorting-associated protein 13 (Suppression of the onset of impotence protein 1) (Vacuolar protein-targeting protein 2)
+54.07405597,Medium,P47075,Vacuolar transporter chaperone 4 (Phosphate metabolism protein 3)
+46.63472106,Medium,P40075,Vesicle-associated membrane protein-associated protein SCS2 (VAMP-associated protein SCS2) (Choline sensitivity suppressor protein 2) (VAP homolog 1)
+54.30391169,Medium,P43582,WW domain-containing protein WWM1 (WW domain-containing protein interacting with metacaspase)
+64.83156244,Stable,P53849,Zinc finger protein GIS2
+65.60201948,Stable,P53303,Zinc finger protein ZPR1
+52.2099222,Medium,P32804,Zinc-regulated transporter 1 (High-affinity zinc transport protein ZRT1)
+51.16561522,Medium,P34240,Zinc-regulated transporter 3 (Vacuolar membrane zinc transporter)
+44.87589504,Medium,P07263,"Histidine--tRNA ligase, mitochondrial (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS)"
+46.1081688,Medium,P07806,"Valine--tRNA ligase, mitochondrial (EC 6.1.1.9) (Valyl-tRNA synthetase) (ValRS)"
+43.85660149,Unstable,P12398,"Heat shock protein SSC1, mitochondrial (Endonuclease SceI 75 kDa subunit) (Endo.SceI 75 kDa subunit) (mtHSP70)"
+51.61645427,Medium,P32800,Peroxisomal biogenesis factor 2 (Peroxin-2) (Peroxisomal protein PAS5) (Protein CRT1)
+43.8931962,Unstable,P38088,"Glycine--tRNA ligase 1, mitochondrial (EC 6.1.1.14) (Diadenosine tetraphosphate synthetase) (AP-4-A synthetase) (Glycyl-tRNA synthetase 1) (GlyRS 1) (GlyRS1)"

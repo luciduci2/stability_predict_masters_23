@@ -1,0 +1,1305 @@
+NO	UniProt_ID	MUTATION	PDB_wild	PDB_Chain_Mutation	pH	T_(C)	MEASURE	METHOD	Tm_(C)	∆Tm_(C)	∆H_(kcal/mol)	∆Cp_(kcal/mol)	∆HvH_(kcal/mol)	∆G_(kcal/mol)	∆∆G_(kcal/mol)	∆G_H2O_(kcal/mol)	∆∆G_H2O_(kcal/mol)
+107	Q8GB52	N142P  I144P  N377P (Based on Uniprot)	1SH7	-	8.95	-	DSC	Thermal	-	72.0 (0.4)	-	-	-	-	-	-	-
+108	Q8GB52	N142P  I144P  T404P (Based on Uniprot)	1SH7	-	8.95	-	DSC	Thermal	-	73.6 (0.3)	-	-	-	-	-	-	-
+148	P19515	T112K T116I E324I (Based on UniProt)	3TGL	-	8.0	-	DSF	Thermal	68.1(0.4)	9.4	-	-	-	-	-	-	-
+482	R9S082	V67A V115A V14A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:V114A 1bvc_A:V13A	9.6	-	CD	Thermal	80.3	-0.9	-	-	-	-	-	-	-
+483	R9S082	V115A L150A G130A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:L149A 1bvc_A:G129A	9.6	-	CD	Thermal	79.4	-2.8	-	-	-	-	-	-	-
+484	R9S082	V115A H117A S118A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:H116A 1bvc_A:S117A	9.6	-	CD	Thermal	83.5	1.3	-	-	-	-	-	-	-
+485	R9S082	V67A G130A G24A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:G129A 1bvc_A:G23A	9.6	-	CD	Thermal	84.2	2	-	-	-	-	-	-	-
+486	R9S082	V67A G130A L150A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:G129A 1bvc_A:L149A	9.6	-	CD	Thermal	82.5	0.3	-	-	-	-	-	-	-
+487	R9S082	V67A V115A G130A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:V114A 1bvc_A:G129A	9.6	-	CD	Thermal	83.4	1.2	-	-	-	-	-	-	-
+488	R9S082	V67A V115A V14A G24A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:V114A 1bvc_A:V13A 1bvc_A:G23A	9.6	-	CD	Thermal	84.9	2.7	-	-	-	-	-	-	-
+489	R9S082	V115A G130A V67A L150A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:G129A 1bvc_A:V66A 1bvc_A:L149A	9.6	-	CD	Thermal	80.6	-1.4	-	-	-	-	-	-	-
+490	R9S082	V67A G130A G24A V14A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:G129A 1bvc_A:G23A 1bvc_A:V13A	9.6	-	CD	Thermal	83.6	1.4	-	-	-	-	-	-	-
+491	R9S082	V115A H117A S118A G24A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:H116A 1bvc_A:S117A 1bvc_A:G23A	9.6	-	CD	Thermal	83.1	0.9	-	-	-	-	-	-	-
+492	R9S082	V115A V67A G130A L150A G24A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:V66A 1bvc_A:G129A 1bvc_A:L149A 1bvc_A:G23A	9.6	-	CD	Thermal	79.6	-0.6	-	-	-	-	-	-	-
+493	R9S082	V67A V115A G130A L150A G24A V14A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:V114A 1bvc_A:G129A 1bvc_A:L149A 1bvc_A:G23A 1bvc_A:V13A	9.6	-	CD	Thermal	82.9	0.7	-	-	-	-	-	-	-
+494	R9S082	V115A H117A S118A V67A G130A L150A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:H116A 1bvc_A:S117A 1bvc_A:V66A 1bvc_A:G129A 1bvc_A:L149A	9.6	-	CD	Thermal	83.9	1.7	-	-	-	-	-	-	-
+497	P02647	L246K F249K F253K (Based on UniProt)	1AV1	1av1_A:L222K 1av1_A:F225K 1av1_A:F229K	7.4	-	CD	Thermal	61	-	-	-	-	-	-	-	-
+571	P00720	K16E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:K16E 2lzm_A:K135E 2lzm_A:K147E	2.8	-	CD	Thermal	48.4	-2.5	-	-	-	-	-	-	-
+572	P00720	R119E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:R119E 2lzm_A:K135E 2lzm_A:K147E	2.8	-	CD	Thermal	50	-0.9	-	-	-	-	-	-	-
+573	P00720	K16E R119E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:K16E 2lzm_A:R119E 2lzm_A:K135E 2lzm_A:K147E	2.8	-	CD	Thermal	48.3	-2.6	-	-	-	-	-	-	-
+585	P00720	K16E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:K16E 2lzm_A:K135E 2lzm_A:K147E	5.3	-	CD	Thermal	62.7	-4	-	-	-	-	-	-	-
+586	P00720	R119E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:R119E 2lzm_A:K135E 2lzm_A:K147E	5.3	-	CD	Thermal	62.9	-3.8	-	-	-	-	-	-	-
+587	P00720	K16E R119E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:K16E 2lzm_A:R119E 2lzm_A:K135E 2lzm_A:K147E	5.3	-	CD	Thermal	64.2	-2.5	-	-	-	-	-	-	-
+1020	P00644	V148L G161S G170V (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:G79S 1stn_A:G88V	7.0	-	DSC	Thermal	56.1	4.7	26.5	2.22	-	-	-	-	-
+1022	P00644	V148L G161S G170V (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:G79S 1stn_A:G88V	5.0	-	DSC	Thermal	54.3	7.3	12.3	1.78	-	-	-	-	-
+1069	P05230	L59P L88V V124L (Based on UniProt)	2AFG	2afg_A:L44P 2afg_A:L73V 2afg_A:V109L	6.6	-	DSC	Thermal	39.35	-0.7	61.42	-	30.71	-	-	-	-
+1208	P00720	W138Y W126Y W158Y(Based on UniProt and PDB)	2LZM	2lzm_A:W138Y 2lzm_A:W126Y 2lzm_A:W158Y	2.0	-	CD	Thermal	46.85	-	-	2.1	113	-	-	-	-
+1216	P00720	W138Y W126Y W158Y(Based on UniProt and PDB)	2LZM	2lzm_A:W138Y 2lzm_A:W126Y 2lzm_A:W158Y	2.0	-	CD	Thermal	30	-7	-	2.1	-	-	-	-	-
+1339	P00282	D43E K148R K44R (Based on UniProt)	5AZU	5azu_A:D23E 5azu_A:K128R 5azu_A:K24R	7.0	-	DSC	Thermal	79.8	-1.2	120.7	-	-	-	-	-	-
+1451	P13569	G550E R553Q R553K (Based on UniProt)	-	-	7.5	-	DSC	Thermal	61.7	-	-	-	-	-	-	-	-
+1452	P13569	G550E R553Q R553K (Based on UniProt)	-	-	7.5	-	DSC	Thermal	55.7	-	-	-	-	-	-	-	-
+1455	P13569	F429S F494N Q673R (Based on UniProt)	-	-	7.5	-	DSC	Thermal	49.8	-	-	-	-	-	-	-	-
+1456	P13569	F429S F494N Q673R (Based on UniProt)	-	-	7.5	-	DSC	Thermal	43.6	-	-	-	-	-	-	-	-
+1457	P13569	F429S F494N Q673R L636E (Based on UniProt)	-	-	7.5	-	DSC	Thermal	50.5	-	-	-	-	-	-	-	-
+1458	P13569	F429S F494N Q673R L636E (Based on UniProt)	-	-	7.5	-	DSC	Thermal	44.9	-	-	-	-	-	-	-	-
+1760	P46937	A180R L190Y D194T (Based on UniProt)	1K9Q	1k9q_A:A20R 1k9q_A:L30Y 1k9q_A:D34T	7.0	-	Fluorescence	Thermal	79.6	28	-	-	40.7	-	-	-	-
+1767	P46937	A180R L190Y D194T (Based on UniProt)	1K9Q	1k9q_A:A20R 1k9q_A:L30Y 1k9q_A:D34T	7.0	-	Fluorescence	Thermal	78.2	25.3	-	-	34.7	-	-	-	-
+1884	P00720	L121M A129L L133M V149I F153W(Based on UniProt and PDB)	2LZM	2lzm_A:L121M 2lzm_A:A129L 2lzm_A:L133M 2lzm_A:V149I 2lzm_A:F153W	3.0	-	CD	Thermal	51.7	-	-	-	-	-	-	-	-
+1885	P00720	L121I A129L L133M F153W(Based on UniProt and PDB)	2LZM	2lzm_A:L121I 2lzm_A:A129L 2lzm_A:L133M 2lzm_A:F153W	3.0	-	CD	Thermal	51.7	-	-	-	-	-	-	-	-
+1886	P00720	L121A A129M V149I(Based on UniProt and PDB)	2LZM	2lzm_A:L121A 2lzm_A:A129M 2lzm_A:V149I	3.0	-	CD	Thermal	51.7	-	-	-	-	-	-	-	-
+1887	P00720	L121I A129W L133M(Based on UniProt and PDB)	2LZM	2lzm_A:L121I 2lzm_A:A129W 2lzm_A:L133M	3.0	-	CD	Thermal	51.7	-	-	-	-	-	-	-	-
+1888	P00720	L121A A129V L133M F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L121A 2lzm_A:A129V 2lzm_A:L133M 2lzm_A:F153L	3.0	-	CD	Thermal	51.7	-	-	-	-	-	-	-	-
+1889	P00720	L121M L133V F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L121M 2lzm_A:L133V 2lzm_A:F153L	3.0	-	CD	Thermal	51.7	-	-	-	-	-	-	-	-
+1890	P00720	L121A A129L L133A F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L121A 2lzm_A:A129L 2lzm_A:L133A 2lzm_A:F153L	3.0	-	CD	Thermal	51.7	-	-	-	-	-	-	-	-
+2044	P00720	L99F M102L V111I(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:V111I	3.01	-	CD	Thermal	47.24	-4.02	-	-	-	-	-	-	-
+2045	P00720	L99F M102L F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:F153L	3.01	-	CD	Thermal	51.08	-0.68	-	-	-	-	-	-	-
+2046	P00720	L99F V111I F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:V111I 2lzm_A:F153L	3.01	-	CD	Thermal	50.08	-1.73	-	-	-	-	-	-	-
+2047	P00720	L99F M102L V111I F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:V111I 2lzm_A:F153L	3.01	-	CD	Thermal	49.94	-1.82	-	-	-	-	-	-	-
+2057	P00720	L99F M102L V111I(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:V111I	5.7	-	CD	Thermal	61.06	-3.83	-	-	-	-	-	-	-
+2058	P00720	L99F M102L F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:F153L	5.7	-	CD	Thermal	64.15	-0.74	-	-	-	-	-	-	-
+2059	P00720	L99F V111I F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:V111I 2lzm_A:F153L	5.7	-	CD	Thermal	63.64	-1.25	-	-	-	-	-	-	-
+2060	P00720	L99F M102L V111I F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:V111I 2lzm_A:F153L	5.7	-	CD	Thermal	62.82	-2.07	-	-	-	-	-	-	-
+2108	P02753	W85L W109L W123F (Based on UniProt)	1RBP	1rbp_A:W67L 1rbp_A:W91L 1rbp_A:W105F	7.4	-	CD	Thermal	66.7	-2.2	-	-	-	-	-	-	-
+2109	P02753	W42Y W85L W123F (Based on UniProt)	1RBP	1rbp_A:W24Y 1rbp_A:W67L 1rbp_A:W105F	7.4	-	CD	Thermal	55	-13.9	-	-	-	-	-	-	-
+2125	P61495	I11V V15I S92F(Based on UniProt and PDB)	1OSI	1osi_A:I11V 1osi_A:V15I 1osi_A:S92F	7.0	-	CD	Thermal	85	-2	-	-	-	-	-	-	-
+2133	P41016	R3E E46A L66E(Based on UniProt and PDB)	1C9O	1c9o_A:R3E 1c9o_A:E46A 1c9o_A:L66E	7.0	-	CD	Thermal	50.3	-26.6	-	-	40.39	-	-	-	-
+2149	P41016	V64T L66E L66A(Based on UniProt and PDB)	1C9O	1c9o_A:V64T 1c9o_A:L66E 1c9o_A:L66A	7.0	-	CD	Thermal	66.6	-10.3	-	-	45.17	-	-	-	-
+2157	P32081	E3R T64V E66L(Based on UniProt and PDB)	1CSP	1csp_A:E3R 1csp_A:T64V 1csp_A:E66L	7.0	-	CD	Thermal	76.8	23.2	-	-	54.97	-	-	-	-
+2160	P00720	W138Y W126Y W158Y(Based on UniProt and PDB)	2LZM	2lzm_A:W138Y 2lzm_A:W126Y 2lzm_A:W158Y	2.2	-	CD	Thermal	36	-6.6	-	-	85.3	-	-	-	-
+2162	P00720	W138Y W126Y W158Y(Based on UniProt and PDB)	2LZM	2lzm_A:W138Y 2lzm_A:W126Y 2lzm_A:W158Y	2.5	-	CD	Thermal	40	-6.2	-	-	89.2	-	-	-	-
+2164	P00720	W138Y W126Y W158Y(Based on UniProt and PDB)	2LZM	2lzm_A:W138Y 2lzm_A:W126Y 2lzm_A:W158Y	2.2	-	CD	Thermal	36	-6.6	-	-	85.3	-	-1.82	-	-
+2165	P00720	W138Y W126Y W158Y(Based on UniProt and PDB)	2LZM	2lzm_A:W138Y 2lzm_A:W126Y 2lzm_A:W158Y	2.5	-	CD	Thermal	40	-6.2	-	-	89.2	-	-1.77	-	-
+2242	P00720	E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	2.02	-	CD	Thermal	44.15	3.4	-	2.4	88.3	-	-	-	-
+2243	P00720	D127A E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	2.02	-	CD	Thermal	44.75	4	-	2.4	86.3	-	-	-	-
+2244	P00720	E128A V131A N132A L133A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:L133A	2.02	-	CD	Thermal	30.45	-10.3	-	2.4	63.9	-	-	-	-
+2245	P00720	D127A E128A V131A N132A L133A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:L133A	2.02	-	CD	Thermal	31.35	-9.4	-	2.4	62.2	-	-	-	-
+2331	P00644	E155G E157G D159G (Based on UniProt)	1STN	1stn_A:E73G 1stn_A:E75G 1stn_A:D77G	7.0	-	DSC	Thermal	25.1	-26.9	29.4	-1.3	-	-	-	-	-
+2422	P06654	I232R T279E T270R (Based on UniProt)	1PGA	1pga_A:I6R 1pga_A:T53E 1pga_A:T44R	5.5	-	CD	Thermal	79.1	-	-	0.62	53.5	-	-	-	-
+2423	P06654	I232R T279E T270A (Based on UniProt)	1PGA	1pga_A:I6R 1pga_A:T53E 1pga_A:T44A	5.5	-	CD	Thermal	76.1	-3	-	0.62	52.3	-	-	-	-
+2424	P06654	I232R T279A T270R (Based on UniProt)	1PGA	1pga_A:I6R 1pga_A:T53A 1pga_A:T44R	5.5	-	CD	Thermal	69.6	-9.5	-	0.62	45	-	-	-	-
+2425	P06654	I232R T279A T270A (Based on UniProt)	1PGA	1pga_A:I6R 1pga_A:T53A 1pga_A:T44A	5.5	-	CD	Thermal	70.6	-8.5	-	0.62	46.6	-	-	-	-
+2550	P02640	F797L F801L M803L (Based on UniProt)	1QQV	1qqv_A:F47L 1qqv_A:F51L 1qqv_A:M53L	7.0	-	CD	Thermal	45	-	-	-	-	-	-	-	-
+2551	P02640	F797L F808L M803L (Based on UniProt)	1QQV	1qqv_A:F47L 1qqv_A:F58L 1qqv_A:M53L	7.0	-	CD	Thermal	39	-	-	-	-	-	-	-	-
+2552	P02640	F801L F808L M803L (Based on UniProt)	1QQV	1qqv_A:F51L 1qqv_A:F58L 1qqv_A:M53L	7.0	-	CD	Thermal	37	-	-	-	-	-	-	-	-
+2823	P00720	S38D A82P N144D(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D	3.0	-	CD	Thermal	56	2.58	-	1.8	123	-	-	-	-
+2824	P00720	S38D A82P N144D I3L(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L	3.0	-	CD	Thermal	58.29	4.87	-	1.8	138	-	-	-	-
+2825	P00720	S38D A82P N144D I3L V131A(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A	3.0	-	CD	Thermal	58.98	5.56	-	1.8	140	-	-	-	-
+2826	P00720	S38D A82P N144D I3L V131A A41V(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A 2lzm_A:A41V	3.0	-	CD	Thermal	59.92	6.5	-	1.8	139	-	-	-	-
+2827	P00720	S38D A82P N144D I3L V131A A41V N116D(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A 2lzm_A:A41V 2lzm_A:N116D	3.0	-	CD	Thermal	60.68	7.26	-	1.8	139	-	-	-	-
+2838	P00720	S38D A82P N144D(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D	5.4	-	CD	Thermal	70.26	3.75	-	2.5	138	-	-	-	-
+2839	P00720	S38D A82P N144D I3L(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L	5.4	-	CD	Thermal	71.89	5.38	-	2.5	154	-	-	-	-
+2840	P00720	S38D A82P N144D I3L V131A(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A	5.4	-	CD	Thermal	72.57	6.06	-	2.5	150	-	-	-	-
+2841	P00720	S38D A82P N144D I3L V131A A41V(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A 2lzm_A:A41V	5.4	-	CD	Thermal	73.42	6.91	-	2.5	145	-	-	-	-
+2842	P00720	S38D A82P N144D I3L V131A A41V N116D(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A 2lzm_A:A41V 2lzm_A:N116D	5.4	-	CD	Thermal	74.83	8.32	-	2.5	156	-	-	-	-
+2937	P00720	A98V V149C T152S(Based on UniProt and PDB)	2LZM	2lzm_A:A98V 2lzm_A:V149C 2lzm_A:T152S	3.0	-	CD	Thermal	42	-12.1	-	-	74.3	-	-	-	-
+2938	P00720	A98V V149I T152S(Based on UniProt and PDB)	2LZM	2lzm_A:A98V 2lzm_A:V149I 2lzm_A:T152S	3.0	-	CD	Thermal	42.1	-12	-	-	69.2	-	-	-	-
+2983	P00698	T58S I73V S109T (Based on UniProt)	4LYZ	4lyz_A:T40S 4lyz_A:I55V 4lyz_A:S91T	6.4	-	CD	Thermal	73.2	-0.8	-	-	-	-	-	-	-
+2991	P00698	T58S I73V S109A (Based on UniProt)	4LYZ	4lyz_A:T40S 4lyz_A:I55V 4lyz_A:S91A	6.4	-	CD	Thermal	69.6	-4.4	-	-	-	-	-	-	-
+3181	P00099	F29A V35M F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y 451c_A:V78I	5.0	-	DSC	Thermal	80.2	32.9	46	1.07	-	-	-	-	-
+3245	P00044	T75E T102A C108T (Based on UniProt)	1YCC	1ycc_A:T69E 1ycc_A:T96A 1ycc_A:C102T	6.0	-	DSC	Thermal	62.6	-	92	1.7	120	-	-	-	-
+3246	P00044	T75E T102A C108T (Based on UniProt)	1YCC	1ycc_A:T69E 1ycc_A:T96A 1ycc_A:C102T	6.0	-	DSC	Thermal	87	-	143	1.7	157	-	-	-	-
+3247	P00044	T75E T102A C108T (Based on UniProt)	1YCC	1ycc_A:T69E 1ycc_A:T96A 1ycc_A:C102T	4.7	-	DSC	Thermal	57.2	-	85	1.7	102	-	-	-	-
+3248	P00044	T75E T102A C108T (Based on UniProt)	1YCC	1ycc_A:T69E 1ycc_A:T96A 1ycc_A:C102T	4.7	-	DSC	Thermal	82.5	-	130	1.7	169	-	-	-	-
+3346	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	4.0	-	Fluorescence	Thermal	25.7	-	32.4	-	28.5	-	-	-	-
+3347	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	4.5	-	Fluorescence	Thermal	37.8	-	56.6	-	55.9	-	-	-	-
+3348	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	5.0	-	Fluorescence	Thermal	43.3	-	67.6	-	67.2	-	-	-	-
+3349	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	5.0	-	Fluorescence	Thermal	44.3	-	69.6	-	75.1	-	-	-	-
+3350	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	5.5	-	Fluorescence	Thermal	45	-	71	-	74	-	-	-	-
+3351	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	6.0	-	Fluorescence	Thermal	48.4	-	77.8	-	86	-	-	-	-
+3352	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	6.5	-	Fluorescence	Thermal	47.8	-	76.6	-	77	-	-	-	-
+3353	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	7.0	-	Fluorescence	Thermal	47.7	-	76.4	-	78	-	-	-	-
+3354	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	6.79	-	Fluorescence	Thermal	44.4	-	69.8	-	67	-	-	-	-
+3355	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	7.29	-	Fluorescence	Thermal	43.7	-	68.4	-	72	-	-	-	-
+3356	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	7.79	-	Fluorescence	Thermal	43.6	-	68.2	-	66	-	-	-	-
+3357	P03706	H31N H137N H48z(Based on UniProt and PDB)	1AM7	1am7_A:H31N 1am7_A:H137N 1am7_A:H48z	8.29	-	Fluorescence	Thermal	42.5	-	66	-	61	-	-	-	-
+3420	P00099	F29A V35M F56Y E65Y (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y	3.6	-	DSC	Thermal	77.4	14.8	-	-	-	-	-	-	-
+3421	P00099	F29A V35M V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:V78I	3.6	-	DSC	Thermal	75.6	13	-	-	-	-	-	-	-
+3422	P00099	F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F34Y 451c_A:E43Y 451c_A:V78I	3.6	-	DSC	Thermal	73.3	10.7	-	-	-	-	-	-	-
+3423	P00099	F29A V35M F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y 451c_A:V78I	3.6	-	DSC	Thermal	82.4	19.8	-	-	-	-	-	-	-
+3542	P00362	T36Q T40S L44Q (Based on UniProt)	1GD1	1gd1_O:T34Q 1gd1_O:T39S 1gd1_O:L43Q	7.5	-	DSC	Thermal	64.8	-	215.34	-	-	-	-	-	-
+3545	P00362	T36Q T40S L44Q (Based on UniProt)	1GD1	1gd1_O:T34Q 1gd1_O:T39S 1gd1_O:L43Q	7.5	-	DSC	Thermal	64.8	-	215.34	-	-	-	-	-	-
+3546	P00362	T36Q T40S L44Q (Based on UniProt)	1GD1	1gd1_O:T34Q 1gd1_O:T39S 1gd1_O:L43Q	7.5	-	DSC	Thermal	70.2	-	126.67	-	-	-	-	-	-
+3556	P00362	T36Q T40S L44Q (Based on UniProt)	1GD1	1gd1_O:T34Q 1gd1_O:T39S 1gd1_O:L43Q	7.5	-	DSC	Thermal	66.8	-	175.91	-	-	-	-	-	-
+3566	O93627	E63S R66S D69S(Based on UniProt and PDB)	1geh	1geh_A:E63S 1geh_A:R66S 1geh_A:D69S	8.3	-	CD	Thermal	89.6	-	-	-	-	-	-	-	-
+3584	P00651	Q37E D44G S45N (Based on UniProt)	1E21;	1e21_A:Q9E 1e21_A:D16G 1e21_A:S17N	5.0	-	CD	Thermal	58.1	-4.4	-	-	-	-	-	-	-
+3591	P02647	E149K E152K K157E E163K (Based on UniProt)	1AV1	1av1_A:E125K 1av1_A:E128K 1av1_A:K133E 1av1_A:E139K	7.4	-	CD	Thermal	61	2	-	-	37	-	-	-	-
+3632	P00171	A34S I48L L63R (Based on UniProt)	1B5M	1b5m_A:A18S 1b5m_A:I32L 1b5m_A:L47R	7.0	-	Fluorescence	Thermal	81.2	-4.3	-	-	-	-	-	-	-
+3633	P00171	A34S I48L L63R L87S (Based on UniProt)	1B5M	1b5m_A:A18S 1b5m_A:I32L 1b5m_A:L47R 1b5m_A:L71S	7.0	-	Fluorescence	Thermal	71.1	-14.4	-	-	-	-	-	-	-
+3635	P00171	A34S I41L I48L L63R L87S (Based on UniProt)	1B5M	1b5m_A:A18S 1b5m_A:I25L 1b5m_A:I32L 1b5m_A:L47R 1b5m_A:L71S	7.0	-	Fluorescence	Thermal	69	-16.5	-	-	-	-	-	-	-
+3947	P07751	A974V V986L M988V V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25V 1shg_A:V44I 1shg_A:V58L	2.0	-	DSC	Thermal	50.95	17.1	38	0.84	-	-	-	-	-
+3950	P07751	A974V V986L M988V V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25V 1shg_A:V44I 1shg_A:V58L	2.5	-	DSC	Thermal	55.05	8.2	41.35	0.79	-	-	-	-	-
+3953	P07751	A974V V986L M988V V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25V 1shg_A:V44I 1shg_A:V58L	3.0	-	DSC	Thermal	62.35	4.5	46.61	0.69	-	-	-	-	-
+3956	P07751	A974V V986L M988V V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25V 1shg_A:V44I 1shg_A:V58L	3.5	-	DSC	Thermal	68.35	5.5	50.43	0.6	-	-	-	-	-
+4040	P41365	V235I A306E V246D (Based on UniProt)	1TCA	1tca_A:V210I 1tca_A:A281E 1tca_A:V221D	7.0	-	CD	Thermal	50.8	-6.9	-	-	-	-	-	-	-
+4128	P29957	K324R N174D V220F Q188I T256V (Based on UniProt)	1AQH	1aqh_A:K300R 1aqh_A:N150D 1aqh_A:V196F 1aqh_A:Q164I 1aqh_A:T232V	7.2	-	DSC	Thermal	49.4	5.4	229	-	-	-	-	-	-
+4129	P29957	K324R N174D V220F Q188I T256V (Based on UniProt)	1AQH	1aqh_A:K300R 1aqh_A:N150D 1aqh_A:V196F 1aqh_A:Q164I 1aqh_A:T232V	7.2	-	DSC	Thermal	51.8	7.8	277	-	-	-	-	-	-
+4141	O00095	P217C V226C G186C (Based on UniProt)	1H8V	1h8v_A:P201C 1h8v_A:V210C 1h8v_A:G170C	8.0	-	CD	Thermal	54.5	0.1	-	-	-	-	-	-	-
+4169	-	-	-	-	7.0	-	CD	Thermal	39.3	-14.8	-	-	-	-	-	-	-
+4350	P00720	R14A K16A I17A K19A T21A E22A(Based on UniProt and PDB)	2LZM	2lzm_A:R14A 2lzm_A:K16A 2lzm_A:I17A 2lzm_A:K19A 2lzm_A:T21A 2lzm_A:E22A	3.02	-	CD	Thermal	44	-7.6	-	2.5	60	-	-	-	-
+4351	P00720	Y24A Y25A T26A I27A(Based on UniProt and PDB)	2LZM	2lzm_A:Y24A 2lzm_A:Y25A 2lzm_A:T26A 2lzm_A:I27A	3.05	-	CD	Thermal	35	-16.6	-	2.5	55	-	-	-	-
+4352	P00720	G28A I29A G30A(Based on UniProt and PDB)	2LZM	2lzm_A:G28A 2lzm_A:I29A 2lzm_A:G30A	3.05	-	CD	Thermal	36	-15.6	-	2.5	61	-	-	-	-
+4353	P00720	L32A L33A T34A E108V(Based on UniProt and PDB)	2LZM	2lzm_A:L32A 2lzm_A:L33A 2lzm_A:T34A 2lzm_A:E108V	3.05	-	CD	Thermal	44	-7.6	-	2.5	62	-	-	-	-
+4420	P06241	A89V F103L F109V(Based on UniProt and PDB)	1SHF	1shf_A:A89V 1shf_A:F103L 1shf_A:F109V	8.0	-	CD	Thermal	69.6	-10.5	-	-	-	-	-	-	-
+4424	P06241	F109I A122G I133F(Based on UniProt and PDB)	1SHF	1shf_A:F109I 1shf_A:A122G 1shf_A:I133F	8.0	-	CD	Thermal	74.4	-5.7	-	-	-	-	-	-	-
+4479	Q63610	A74L A78V A81L(Based on UniProt and PDB)	2TMA	2tma_A:A74L 2tma_A:A78V 2tma_A:A81L	7.5	-	CD	Thermal	35	3.6	-	-	-	-	-	-	-
+4480	Q63610	A74Q A78N A81Q(Based on UniProt and PDB)	2TMA	2tma_A:A74Q 2tma_A:A78N 2tma_A:A81Q	7.5	-	CD	Thermal	27.6	-3.8	-	-	13	-	-	-	-
+4482	Q63610	A74L A78V A81L(Based on UniProt and PDB)	2TMA	2tma_A:A74L 2tma_A:A78V 2tma_A:A81L	7.5	-	CD	Thermal	38.4	-1.2	-	-	-	-	-	-	-
+4483	Q63610	A74Q A78N A81Q(Based on UniProt and PDB)	2TMA	2tma_A:A74Q 2tma_A:A78N 2tma_A:A81Q	7.5	-	CD	Thermal	39.1	-0.5	-	-	123	-	-	-	-
+4485	Q63610	A74L A78V A81L(Based on UniProt and PDB)	2TMA	2tma_A:A74L 2tma_A:A78V 2tma_A:A81L	7.5	-	CD	Thermal	86	37.6	-	-	-	-	-	-	-
+4487	Q63610	A74L A78V A81L(Based on UniProt and PDB)	2TMA	2tma_A:A74L 2tma_A:A78V 2tma_A:A81L	7.5	-	DSC	Thermal	32.3	-0.2	40	-	-	-	-	-	-
+4488	Q63610	A74Q A78N A81Q(Based on UniProt and PDB)	2TMA	2tma_A:A74Q 2tma_A:A78N 2tma_A:A81Q	7.5	-	DSC	Thermal	30.9	-1.6	52	-	-	-	-	-	-
+4490	Q63610	A74L A78V A81L(Based on UniProt and PDB)	2TMA	2tma_A:A74L 2tma_A:A78V 2tma_A:A81L	7.5	-	DSC	Thermal	42.5	2.7	65	-	-	-	-	-	-
+4491	Q63610	A74Q A78N A81Q(Based on UniProt and PDB)	2TMA	2tma_A:A74Q 2tma_A:A78N 2tma_A:A81Q	7.5	-	DSC	Thermal	42.4	2.6	54	-	-	-	-	-	-
+4493	Q63610	A74L A78V A81L(Based on UniProt and PDB)	2TMA	2tma_A:A74L 2tma_A:A78V 2tma_A:A81L	7.5	-	DSC	Thermal	88.3	36.3	14	-	-	-	-	-	-
+4494	Q63610	A74Q A78N A81Q(Based on UniProt and PDB)	2TMA	2tma_A:A74Q 2tma_A:A78N 2tma_A:A81Q	7.5	-	DSC	Thermal	51.5	-0.5	34	-	-	-	-	-	-
+4496	Q63610	A74L A78V A81L(Based on UniProt and PDB)	2TMA	2tma_A:A74L 2tma_A:A78V 2tma_A:A81L	7.5	-	DSC	Thermal	98.2	44	70	-	-	-	-	-	-
+4528	P25984	V224E S254K Q165E M304R(Based on UniProt and PDB)	1KEV	1kev_A:V224E 1kev_A:S254K 1kev_A:Q165E 1kev_A:M304R	6.8	-	CD	Thermal	73.7	8.6	-	-	-	-	-	-	-
+4529	P25984	V224E S254K Q165E M304R R238A(Based on UniProt and PDB)	1KEV	1kev_A:V224E 1kev_A:S254K 1kev_A:Q165E 1kev_A:M304R 1kev_A:R238A	6.8	-	CD	Thermal	73.6	8.5	-	-	-	-	-	-	-
+4534	P00720	E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	3.0	-	CD	Thermal	55.6	2.2	-	1.8	137	-	-	-	-
+4535	P00720	D127A E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	3.0	-	CD	Thermal	55.8	2.4	-	1.8	129	-	-	-	-
+4536	P00720	E128A V131A N132A L133A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:L133A	3.0	-	CD	Thermal	46.4	-7	-	1.8	102	-	-	-	-
+4537	P00720	D127A E128A V131A N132A L133A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:L133A	3.0	-	CD	Thermal	46.4	-7	-	1.8	103	-	-	-	-
+4538	P00720	E128A V131A N132A K135A S136A R137A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:K135A 2lzm_A:S136A 2lzm_A:R137A	3.0	-	CD	Thermal	52.4	-1	-	1.8	107	-	-	-	-
+4539	P00720	D127A E128A V131A N132A K135A S136A R137A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:K135A 2lzm_A:S136A 2lzm_A:R137A	3.0	-	CD	Thermal	52.5	-0.9	-	1.8	102	-	-	-	-
+4540	P00720	D127A E128A V131A N132A K135A S136A Y139A N140A Q141A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:K135A 2lzm_A:S136A 2lzm_A:Y139A 2lzm_A:N140A 2lzm_A:Q141A	3.0	-	CD	Thermal	52.6	-0.8	-	1.8	103	-	-	-	-
+4541	P00720	E128A V131A N132A K135A S136A Y139A N140A Q141A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:K135A 2lzm_A:S136A 2lzm_A:Y139A 2lzm_A:N140A 2lzm_A:Q141A	3.0	-	CD	Thermal	52.5	-0.9	-	1.8	102	-	-	-	-
+4542	P00720	N40A S44A E45A D47A K48A D127A E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:N40A 2lzm_A:S44A 2lzm_A:E45A 2lzm_A:D47A 2lzm_A:K48A 2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	3.0	-	CD	Thermal	56.9	5.2	-	1.8	117	-	-	-	-
+4543	P00720	T34A K35A S36A P37A(Based on UniProt and PDB)	2LZM	2lzm_A:T34A 2lzm_A:K35A 2lzm_A:S36A 2lzm_A:P37A	3.0	-	CD	Thermal	51.8	-1.6	-	1.8	109	-	-	-	-
+4544	P00720	T34A K35A S36A P37A S38A N40A S44A E45A D47A K48A(Based on UniProt and PDB)	2LZM	2lzm_A:T34A 2lzm_A:K35A 2lzm_A:S36A 2lzm_A:P37A 2lzm_A:S38A 2lzm_A:N40A 2lzm_A:S44A 2lzm_A:E45A 2lzm_A:D47A 2lzm_A:K48A	3.0	-	CD	Thermal	41.7	-10	-	1.8	-	-	-	-	-
+4546	P00720	T34A K35A S36A P37A S38D N40A S44A E45A D47A K48A(Based on UniProt and PDB)	2LZM	2lzm_A:T34A 2lzm_A:K35A 2lzm_A:S36A 2lzm_A:P37A 2lzm_A:S38D 2lzm_A:N40A 2lzm_A:S44A 2lzm_A:E45A 2lzm_A:D47A 2lzm_A:K48A	3.0	-	CD	Thermal	47.9	-3.8	-	1.8	-	-	-	-	-
+4547	P00720	T34A K35D S36A P37A S38A N40A S44A E45A D47A K48A(Based on UniProt and PDB)	2LZM	2lzm_A:T34A 2lzm_A:K35D 2lzm_A:S36A 2lzm_A:P37A 2lzm_A:S38A 2lzm_A:N40A 2lzm_A:S44A 2lzm_A:E45A 2lzm_A:D47A 2lzm_A:K48A	3.0	-	CD	Thermal	42.5	-9.2	-	1.8	-	-	-	-	-
+4548	P00720	T34A K35A S36D P37A S38A N40A S44A E45A D47A K48A(Based on UniProt and PDB)	2LZM	2lzm_A:T34A 2lzm_A:K35A 2lzm_A:S36D 2lzm_A:P37A 2lzm_A:S38A 2lzm_A:N40A 2lzm_A:S44A 2lzm_A:E45A 2lzm_A:D47A 2lzm_A:K48A	3.0	-	CD	Thermal	43.2	-8.5	-	1.8	-	-	-	-	-
+4549	P00720	T34A K35A S36A P37D S38A N40A S44A E45A D47A K48A(Based on UniProt and PDB)	2LZM	2lzm_A:T34A 2lzm_A:K35A 2lzm_A:S36A 2lzm_A:P37D 2lzm_A:S38A 2lzm_A:N40A 2lzm_A:S44A 2lzm_A:E45A 2lzm_A:D47A 2lzm_A:K48A	3.0	-	CD	Thermal	44.3	-7.4	-	1.8	-	-	-	-	-
+4550	P00720	T34A K35A S36A P37A S38A N40D S44A E45A D47A K48A(Based on UniProt and PDB)	2LZM	2lzm_A:T34A 2lzm_A:K35A 2lzm_A:S36A 2lzm_A:P37A 2lzm_A:S38A 2lzm_A:N40D 2lzm_A:S44A 2lzm_A:E45A 2lzm_A:D47A 2lzm_A:K48A	3.0	-	CD	Thermal	42	-9.7	-	1.8	-	-	-	-	-
+4551	P00720	N53A N55A V57A(Based on UniProt and PDB)	2LZM	2lzm_A:N53A 2lzm_A:N55A 2lzm_A:V57A	3.0	-	CD	Thermal	49.4	-4	-	1.8	104	-	-	-	-
+4552	P00720	N53A C54A N55A G56A V57A I58A(Based on UniProt and PDB)	2LZM	2lzm_A:N53A 2lzm_A:C54A 2lzm_A:N55A 2lzm_A:G56A 2lzm_A:V57A 2lzm_A:I58A	3.0	-	CD	Thermal	37.6	-15.8	-	1.8	43	-	-	-	-
+4553	P00720	R52A N53A C54A N55A G56A V57A I58A(Based on UniProt and PDB)	2LZM	2lzm_A:R52A 2lzm_A:N53A 2lzm_A:C54A 2lzm_A:N55A 2lzm_A:G56A 2lzm_A:V57A 2lzm_A:I58A	3.0	-	CD	Thermal	37	-16.4	-	1.8	40	-	-	-	-
+4554	P00720	N53A N55A V57A E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:N53A 2lzm_A:N55A 2lzm_A:V57A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	3.0	-	CD	Thermal	53.9	-2	-	1.8	105	-	-	-	-
+4555	P00720	N53A C54A N55A G56A V57A I58A E62A(Based on UniProt and PDB)	2LZM	2lzm_A:N53A 2lzm_A:C54A 2lzm_A:N55A 2lzm_A:G56A 2lzm_A:V57A 2lzm_A:I58A 2lzm_A:E62A	3.0	-	CD	Thermal	37	-16.4	-	1.8	42	-	-	-	-
+4556	P00720	T34A K35A S36A P37A E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:T34A 2lzm_A:K35A 2lzm_A:S36A 2lzm_A:P37A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	3.0	-	CD	Thermal	52.9	0.5	-	1.8	97	-	-	-	-
+4589	P63159	D139H (Based on UniProt)	1HME	1hme_A:D51H	7.0	-	CD	Thermal	41.1	0.5	-	-	38.3	-	-	-	-
+4590	P63159	D140H (Based on UniProt)	1HME	1hme_A:D52)	7.0	-	CD	Thermal	38.2	-2.4	-	-	33	-	-	-	-
+4591	P63159	N135H D139H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D51)	7.0	-	CD	Thermal	28.1	-12.5	-	-	31.9	-	-	-	-
+4592	P63159	N135H D139H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D51)	7.0	-	CD	Thermal	39	1.6	-	-	35.8	-	-	-	-
+4593	P63159	N135H D140H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D52)	7.0	-	CD	Thermal	34.3	-6.3	-	-	33.1	-	-	-	-
+4594	P63159	N135H D139H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D51)	7.0	-	CD	Thermal	36.3	-4.3	-	-	32.3	-	-	-	-
+4595	P63159	N135H D140H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D52)	7.0	-	CD	Thermal	35.3	-5.3	-	-	31.5	-	-	-	-
+4600	P63159	D139H (Based on UniProt)	1HME	1hme_A:D51H	7.0	-	CD	Thermal	46.8	6.2	-	-	41	-	-	-	-
+4601	P63159	D140H (Based on UniProt)	1HME	1hme_A:D52H	7.0	-	CD	Thermal	46.8	6.2	-	-	36.8	-	-	-	-
+4618	P96110	R191A E232A K194A (Based on UniProt)	1B26	1b26_A:R190A 1b26_A:E231A 1b26_A:K193A	7.0	-	CD	Thermal	70.8	1.3	-	-	50.6	-	-	-	-
+4619	P23907	A136V R171Q (Based on UniProt)	1UW3	1uw3_A:A133V 1uw3_A:R168Q	4.5	-	DSC	Thermal	69.2	-	69.34	0.21	65.73	-	-	-	-
+4623	P23907	A136V R171Q (Based on UniProt)	1UW3	1uw3_A:A133V 1uw3_A:R168Q	5.0	-	DSC	Thermal	71.3	-	60.01	0.5	76.36	-	-	-	-
+4786	P05230	H36Y L59F H117Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:H102Y	7.3	-	Fluorescence	Thermal	46.5	6.7	-	-	88.4	-	-	-	-
+4787	P05230	H36Y L59F F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:F108Y	7.3	-	Fluorescence	Thermal	45.8	6	-	-	76.1	-	-	-	-
+4788	P05230	H36Y H117Y F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:H102Y 2afg_A:F108Y	7.3	-	Fluorescence	Thermal	46.3	6.5	-	-	82.4	-	-	-	-
+4789	P05230	L59F H117Y F123Y (Based on UniProt)	2AFG	2afg_A:L44F 2afg_A:H102Y 2afg_A:F108Y	7.3	-	Fluorescence	Thermal	44.3	4.5	-	-	81.3	-	-	-	-
+4790	P05230	H36Y L59F H117Y F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:H102Y 2afg_A:F108Y	7.3	-	Fluorescence	Thermal	47.6	7.8	-	-	75.6	-	-	-	-
+4803	P05230	H36Y L59F H117Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:H102Y	7.3	-	CD	Thermal	45.3	4.6	-	-	64	-	-	-	-
+4804	P05230	H36Y L59F F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:F108Y	7.3	-	CD	Thermal	46.1	5.4	-	-	67.5	-	-	-	-
+4805	P05230	H36Y H117Y F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:H102Y 2afg_A:F108Y	7.3	-	CD	Thermal	44.5	3.8	-	-	72.2	-	-	-	-
+4806	P05230	L59F H117Y F123Y (Based on UniProt)	2AFG	2afg_A:L44F 2afg_A:H102Y 2afg_A:F108Y	7.3	-	CD	Thermal	45.2	4.5	-	-	62.3	-	-	-	-
+4807	P05230	H36Y L59F H117Y F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:H102Y 2afg_A:F108Y	7.3	-	CD	Thermal	46.7	6	-	-	65.2	-	-	-	-
+4834	P00282	D43E K148R K44R (Based on UniProt)	5AZU	5azu_A:D23E 5azu_A:K128R 5azu_A:K24R	7.0	-	DSC	Thermal	77.8	-0.9	104.92	-	-	-	-	-	-
+4839	P00282	D43E K148R K44R (Based on UniProt)	5AZU	5azu_A:D23E 5azu_A:K128R 5azu_A:K24R	7.0	-	DSC	Thermal	79.1	-0.9	172.08	-	-	-	-	-	-
+4848	P00282	D43E K148R K44R (Based on UniProt)	5AZU	5azu_A:D23E 5azu_A:K128R 5azu_A:K24R	7.0	-	DSC	Thermal	80.5	-1.1	116.63	-	-	-	-	-	-
+4853	P00282	D43E K148R K44R (Based on UniProt)	5AZU	5azu_A:D23E 5azu_A:K128R 5azu_A:K24R	7.0	-	DSC	Thermal	81	-0.9	-	-	-	-	-	-	-
+4858	P00282	D43E K148R K44R (Based on UniProt)	5AZU	5azu_A:D23E 5azu_A:K128R 5azu_A:K24R	7.0	-	Absorbance	Thermal	75	-3	-	-	-	-	-	-	-
+4933	P32081	E43G A46K S48R(Based on UniProt and PDB)	1CSP	1csp_A:E43G 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	70.7	16.9	-	-	56.17	-	-	-	-
+4934	P32081	E43K A46K S48K(Based on UniProt and PDB)	1CSP	1csp_A:E43K 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	71.2	17.4	-	-	53.54	-	-	-	-
+4935	P32081	E43S A46K S48K(Based on UniProt and PDB)	1CSP	1csp_A:E43S 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	69.4	15.6	-	-	54.49	-	-	-	-
+4936	P32081	E43S A46K S48R(Based on UniProt and PDB)	1CSP	1csp_A:E43S 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	69.9	16.1	-	-	52.58	-	-	-	-
+4946	P32081	M1R E3K K65I(Based on UniProt and PDB)	1CSP	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I	7.0	-	CD	Thermal	83.7	29.9	-	-	66.44	-	-	-	-
+4947	P32081	M1R E3K E66K(Based on UniProt and PDB)	1CSP	1csp_A:M1R 1csp_A:E3K 1csp_A:E66K	7.0	-	CD	Thermal	61.1	7.3	-	-	39.67	-	-	-	-
+4948	P32081	M1R K65I E66K(Based on UniProt and PDB)	1CSP	1csp_A:M1R 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	75.7	21.9	-	-	55.45	-	-	-	-
+4949	P32081	M1R E3K K65I E66K(Based on UniProt and PDB)	1CSP	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	74.7	20.9	-	-	51.15	-	-	-	-
+4950	P32081	M1R E3K K65I E66L(Based on UniProt and PDB)	1CSP	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66L	7.0	-	CD	Thermal	85	31.2	-	-	57.6	-	-	-	-
+4952	P32081	E3K K65I E66K(Based on UniProt and PDB)	1CSP	1csp_A:E3K 1csp_A:K65I 1csp_A:E66K		-	CD	Thermal	71.8	18	-	-	48.04	-	-	-	-
+4953	P32081	E3R A46K S48R(Based on UniProt and PDB)	1CSP	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	74.5	20.7	-	-	54.49	-	-	-	-
+4954	P32081	E3R A46K S48R E66L(Based on UniProt and PDB)	1CSP	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	70.8	17	-	-	47.8	-	-	-	-
+4957	P32081	A46K S48R E66L(Based on UniProt and PDB)	1CSP	1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	77	23.2	-	-	55.21	-	-	-	-
+5013	P03034	D15A Y23W Q34Y G47A G49A (Based on UniProt)	3bdn	3bdn_A:D14A 3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:G46A 3bdn_A:G48A	7.0	-	CD	Thermal	73.5	-	-	-	-	-	-	-	-
+5014	P03034	D15A Y23W Q34Y A38G G47A G49A G49A (Based on UniProt)	3bdn	3bdn_A:D14A 3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:A37G 3bdn_A:G46A 3bdn_A:G48A 3bdn_A:A49G	7.0	-	CD	Thermal	62.5	-	-	-	-	-	-	-	-
+5015	P03034	Y23W Q34Y G47A G49A (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:G46A 3bdn_A:G48A	7.0	-	CD	Thermal	71	-	-	-	-	-	-	-	-
+5016	P03034	Y23W Q34Y A38G (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:A37G	7.0	-	CD	Thermal	59.5	-	-	-	-	-	-	-	-
+5017	P03034	Y23W Q34Y G47A S46A G49A (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:G46A 3bdn_A:S45A 3bdn_A:G48A	7.0	-	CD	Thermal	69.5	-	-	-	-	-	-	-	-
+5018	P03034	Y23W Q34Y G47A S46A G49A S80A (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:G46A 3bdn_A:S45A 3bdn_A:G48A 3bdn_A:S79A	7.0	-	CD	Thermal	70.5	-	-	-	-	-	-	-	-
+5020	P03034	Y23W G47A G49A (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:G46A 3bdn_A:G48A	7.0	-	CD	Thermal	67.5	-	-	-	-	-	-	-	-
+5024	P03034	Y23W A38G G47A G49A S50G (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:A37G 3bdn_A:G46A 3bdn_A:G48A 3bdn_A:A49G	7.0	-	CD	Thermal	56	-	-	-	-	-	-	-	-
+5025	P03034	Y23W A38G A49G (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:A37G 3bdn_A:A49G	7.0	-	CD	Thermal	47	-	-	-	-	-	-	-	-
+5026	P03034	Y23W Q34Y A38G A49G A82G (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:A37G 3bdn_A:A49G 3bdn_A:A81G	7.0	-	CD	Thermal	47.5	-	-	-	-	-	-	-	-
+5027	P03034	Y23W Q34Y A38G S50G (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:A37G 3bdn_A:S49G	7.0	-	CD	Thermal	54.5	-	-	-	-	-	-	-	-
+5028	P03034	Y23W Q34Y M43G S46A G47A G49A S80A (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:M42G 3bdn_A:S45A 3bdn_A:G46A 3bdn_A:G48A 3bdn_A:S79A	7.0	-	CD	Thermal	59	-	-	-	-	-	-	-	-
+5033	P06654	T242I T244I T251E V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25E 1pga_A:V29F	7.0	-	CD	Thermal	74	24.7	-	-	57.36	-	-	-	-
+5034	P06654	T242I T244I T251E V255Y (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25E 1pga_A:V29Y	7.0	-	CD	Thermal	73.7	24.4	-	-	57.6	-	-	-	-
+5035	P06654	T242I T244I V255W (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:V29W	7.0	-	CD	Thermal	71.5	22.2	-	-	55.45	-	-	-	-
+5036	P06654	T242L T244I T251E V255Y (Based on UniProt)	1PGA	1pga_A:T16L 1pga_A:T18I 1pga_A:T25E 1pga_A:V29Y	7.0	-	CD	Thermal	71.2	21.9	-	-	54.49	-	-	-	-
+5037	P06654	T242I T244I T251S V255Y (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25S 1pga_A:V29Y	7.0	-	CD	Thermal	70.2	20.9	-	-	53.54	-	-	-	-
+5038	P06654	T242L T244I T251S V255W (Based on UniProt)	1PGA	1pga_A:T16L 1pga_A:T18I 1pga_A:T25S 1pga_A:V29W	7.0	-	CD	Thermal	69.6	20.3	-	-	54.97	-	-	-	-
+5039	P06654	T242I T244F T251E V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18F 1pga_A:T25E 1pga_A:V29F	7.0	-	CD	Thermal	69.5	20.2	-	-	52.82	-	-	-	-
+5040	P06654	T242L T244I T251S V255Y (Based on UniProt)	1PGA	1pga_A:T16L 1pga_A:T18I 1pga_A:T25S 1pga_A:V29Y	7.0	-	CD	Thermal	69.1	19.8	-	-	52.1	-	-	-	-
+5041	P06654	T242L T244Y T251E V255Y (Based on UniProt)	1PGA	1pga_A:T16L 1pga_A:T18Y 1pga_A:T25E 1pga_A:V29Y	7.0	-	CD	Thermal	68.4	19.1	-	-	51.39	-	-	-	-
+5042	P06654	T242I T244V T251S V255W (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18V 1pga_A:T25S 1pga_A:V29W	7.0	-	CD	Thermal	68.4	19.1	-	-	54.73	-	-	-	-
+5043	P06654	T242I T244V T251M V255Y (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18V 1pga_A:T25M 1pga_A:V29Y	7.0	-	CD	Thermal	68.3	19	-	-	50.19	-	-	-	-
+5044	P06654	T242V T244Y T251E V255Y (Based on UniProt)	1PGA	1pga_A:T16V 1pga_A:T18Y 1pga_A:T25E 1pga_A:V29Y	7.0	-	CD	Thermal	67.9	18.6	-	-	52.1	-	-	-	-
+5045	P06654	T242I T244F V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18F 1pga_A:V29F	7.0	-	CD	Thermal	67.8	18.5	-	-	52.1	-	-	-	-
+5046	P06654	T242V T244Y T251S V255W (Based on UniProt)	1PGA	1pga_A:T16V 1pga_A:T18Y 1pga_A:T25S 1pga_A:V29W	7.0	-	CD	Thermal	67.8	18.5	-	-	54.25	-	-	-	-
+5047	P06654	T242I T244Y T251S V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18Y 1pga_A:T25S 1pga_A:V29F	7.0	-	CD	Thermal	67.4	18.1	-	-	50.67	-	-	-	-
+5048	P06654	T242L T244V V255F (Based on UniProt)	1PGA	1pga_A:T16L 1pga_A:T18V 1pga_A:V29F	7.0	-	CD	Thermal	67	17.7	-	-	49.24	-	-	-	-
+5049	P06654	T242L T244Y T251Q V255Y (Based on UniProt)	1PGA	1pga_A:T16L 1pga_A:T18Y 1pga_A:T25Q 1pga_A:V29Y	7.0	-	CD	Thermal	66.1	16.8	-	-	50.67	-	-	-	-
+5050	P06654	T242I T244Y T251V V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18Y 1pga_A:T25V 1pga_A:V29F	7.0	-	CD	Thermal	65.7	16.4	-	-	50.91	-	-	-	-
+5051	P06654	T242V T244F V255Y (Based on UniProt)	1PGA	1pga_A:T16V 1pga_A:T18F 1pga_A:V29Y	7.0	-	CD	Thermal	64.9	15.6	-	-	48.76	-	-	-	-
+5052	P06654	T242I T244Y T251L V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18Y 1pga_A:T25L 1pga_A:V29F	7.0	-	CD	Thermal	64.3	15	-	-	48.04	-	-	-	-
+5053	P06654	T242L T244Y T251S V255Y (Based on UniProt)	1PGA	1pga_A:T16L 1pga_A:T18Y 1pga_A:T25S 1pga_A:V29Y	7.0	-	CD	Thermal	64	14.7	-	-	46.61	-	-	-	-
+5054	P06654	T242I T244I T251E V255I (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25E 1pga_A:V29I	7.0	-	CD	Thermal	72.1	22.8	-	-	55.45	-	-	-	-
+5056	P06654	T242I T244L T251E V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18L 1pga_A:T25E 1pga_A:V29F	7.0	-	CD	Thermal	66.6	17.3	-	-	48.04	-	-	-	-
+5057	P06654	T242I T244I T251Q V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25Q 1pga_A:V29F	7.0	-	CD	Thermal	71.7	22.4	-	-	55.21	-	-	-	-
+5058	P06654	T242I T244I T251E V255K (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25E 1pga_A:V29K	7.0	-	CD	Thermal	66.8	17.5	-	-	50.19	-	-	-	-
+5059	P06654	T242I T244L T251E V255K (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18L 1pga_A:T25E 1pga_A:V29K	7.0	-	CD	Thermal	61.7	12.4	-	-	41.11	-	-	-	-
+5456	P48052	H66E S89K M91K D94) (Based on UniProt)	1AYE	1aye_A:H53AE 1aye_A:S76AK 1aye_A:M78AK 1aye_A:D81A)	5.5	-	CD	Thermal	69.8	2.9	-	-	-	-	-	-	-
+5457	P48052	E82E Q47K E63K Q84K S89K E93) (Based on UniProt)	1AYE	1aye_A:E69AE 1aye_A:Q32AK 1aye_A:E50AK 1aye_A:Q71AK 1aye_A:S76AK 1aye_A:E80A)	5.5	-	CD	Thermal	76.7	9.8	-	-	-	-	-	-	-
+5458	P24821	L820K D850K T890)(Based on UniProt and PDB)	1TEN	1ten_A:L820K 1ten_A:D850K 1ten_A:T890)	5.5	-	CD	Thermal	66	9.6	-	-	-	-	-	-	-
+5459	P24821	Q808K  L820K  D850K  T890K(Based on UniProt and PDB)	1TEN	1ten_A:Q808K  1ten_A:L820K  1ten_A:D850K  1ten_A:T890K	7.0	-	DSC	Thermal	66	9.6	-	-	-	-	-	-	-
+5460	P41500	K27E E66K N85K Q98K (Based on UniProt)	2ACY	2acy_A:K24E 2acy_A:E63K 2acy_A:N82K 2acy_A:Q95K	5.5	-	CD	Thermal	-	5.4	-	-	-	-	-	-	-
+5461	P41500	K27E E66K N85K Q98K (Based on UniProt)	2ACY	2acy_A:K24E 2acy_A:E63K 2acy_A:N82K 2acy_A:Q95K	7.0	-	DSC	Thermal	-	5.4	-	-	-	-	-	-	-
+5598	O68541	A26C A334V G348D L380C (Based on UniProt)	1ur1	1ur1_A:A325V 1ur1_A:G339D 1ur1_A:L371C	7.5	-	DSC	Thermal	68.6	10	-	-	-	-	-	-	-
+5631	P02647	L254P L257P Y260P (Based on UniProt)	1av1	1av1_A:L230P 1av1_A:L233P 1av1_A:Y236P	7.4	-	CD	Thermal	57	-	-	-	43	-	-	-	-
+5838	P32081	E3R F15A F27A(Based on UniProt and PDB)	1CSP	1csp_A:E3R 1csp_A:F15A 1csp_A:F27A	7.5	-	CD	Thermal	44	-	-	-	32.27	-	-	-	-
+5839	P32081	E3R F15A E19K F27A(Based on UniProt and PDB)	1CSP	1csp_A:E3R 1csp_A:F15A 1csp_A:E19K 1csp_A:F27A	7.5	-	CD	Thermal	39	-	-	-	27.72	-	-	-	-
+5840	P32081	E3R F15A D25K F27A(Based on UniProt and PDB)	1CSP	1csp_A:E3R 1csp_A:F15A 1csp_A:D25K 1csp_A:F27A	7.5	-	CD	Thermal	23	-	-	-	10.28	-	-	-	-
+6329	P03034	V37L M41V V48I (Based on UniProt)	1LRP	1lrp_A:V36L 1lrp_A:M40V 1lrp_A:V47I	7.0	-	CD	Thermal	53.6	-2.1	-	-	-	-	-	-	-
+6330	P03034	V37I M41V V48L (Based on UniProt)	1LRP	1lrp_A:V36I 1lrp_A:M40V 1lrp_A:V47L	7.0	-	CD	Thermal	53.4	-2.3	-	-	-	-	-	-	-
+6331	P03034	V37I M41V V48I (Based on UniProt)	1LRP	1lrp_A:V36I 1lrp_A:M40V 1lrp_A:V47I	7.0	-	CD	Thermal	53.7	-2	-	-	-	-	-	-	-
+6332	P03034	V37L M41L V48I (Based on UniProt)	1LRP	1lrp_A:V36L 1lrp_A:M40L 1lrp_A:V47I	7.0	-	CD	Thermal	59.6	3.9	-	-	-	-	-	-	-
+6334	P03034	V37F M41F V48I (Based on UniProt)	1LRP	1lrp_A:V36F 1lrp_A:M40F 1lrp_A:V47I	7.0	-	CD	Thermal	47.2	-8.5	-	-	-	-	-	-	-
+6335	P03034	V37F M41F V48F (Based on UniProt)	1LRP	1lrp_A:V36F 1lrp_A:M40F 1lrp_A:V47F	7.0	-	CD	Thermal	45.4	-10.3	-	-	-	-	-	-	-
+6336	P03034	V37F M41F V48I L66F (Based on UniProt)	1LRP	1lrp_A:V36F 1lrp_A:M40F 1lrp_A:V47I 1lrp_A:L65F	7.0	-	CD	Thermal	49.1	-6.6	-	-	-	-	-	-	-
+6527	-	-	-	-	7.4	-	DSC	Thermal	83.7	5	-	-	-	-	-	-	-
+6528	-	-	-	-	7.4	-	DSC	Thermal	86.6	7.9	-	-	-	-	-	-	-
+6529	-	-	-	-	7.4	-	DSC	Thermal	86.5	7.8	-	-	-	-	-	-	-
+6530	-	-	-	-	7.4	-	DSC	Thermal	84	5.3	-	-	-	-	-	-	-
+6531	-	-	-	-	7.4	-	DSC	Thermal	82.6	3.9	-	-	-	-	-	-	-
+6532	-	-	-	-	7.4	-	DSC	Thermal	85.4	6.7	-	-	-	-	-	-	-
+6533	-	-	-	-	7.4	-	DSC	Thermal	81.1	2.4	-	-	-	-	-	-	-
+6534	-	-	-	-	7.4	-	DSC	Thermal	87.6	8.9	-	-	-	-	-	-	-
+6535	-	-	-	-	7.4	-	DSC	Thermal	83	4.3	-	-	-	-	-	-	-
+6536	-	-	-	-	7.4	-	DSC	Thermal	88.4	9.7	-	-	-	-	-	-	-
+6537	-	-	-	-	7.4	-	DSC	Thermal	92	13.3	-	-	-	-	-	-	-
+6538	-	-	-	-	7.4	-	DSC	Thermal	89.8	11.1	-	-	-	-	-	-	-
+6540	-	-	-	-	7.4	-	CD	Thermal	77.7	4	-	-	-	-	-	-	-
+6541	-	-	-	-	7.4	-	CD	Thermal	80.7	7	-	-	-	-	-	-	-
+6542	-	-	-	-	7.4	-	CD	Thermal	80.7	7	-	-	-	-	-	-	-
+6543	-	-	-	-	7.4	-	CD	Thermal	77.7	4	-	-	-	-	-	-	-
+6544	-	-	-	-	7.4	-	CD	Thermal	77.2	3.5	-	-	-	-	-	-	-
+6545	-	-	-	-	7.4	-	CD	Thermal	80.7	7	-	-	-	-	-	-	-
+6546	-	-	-	-	7.4	-	CD	Thermal	76.2	2.5	-	-	-	-	-	-	-
+6547	-	-	-	-	7.4	-	CD	Thermal	82.2	8.5	-	-	-	-	-	-	-
+6548	-	-	-	-	7.4	-	CD	Thermal	78	4.3	-	-	-	-	-	-	-
+6549	-	-	-	-	7.4	-	CD	Thermal	83.2	9.5	-	-	-	-	-	-	-
+6550	-	-	-	-	7.4	-	CD	Thermal	86.7	13	-	-	-	-	-	-	-
+6551	-	-	-	-	7.4	-	CD	Thermal	84.7	11	-	-	-	-	-	-	-
+6905	P02925	S34A I157A S128A (Based on UniProt)	2DRI	2dri_A:S9A 2dri_A:I132A 2dri_A:S103A	7.0	-	CD	Thermal	53.4	-4.1	-	-	-	-	-	-	-
+6906	P02925	S34A I157A S128A N38A (Based on UniProt)	2DRI	2dri_A:S9A 2dri_A:I132A 2dri_A:S103A 2dri_A:N13A	7.0	-	CD	Thermal	54.1	-3.4	-	-	-	-	-	-	-
+6907	P02925	S34A I157A S128A N38A Q260A (Based on UniProt)	2DRI	2dri_A:S9A 2dri_A:I132A 2dri_A:S103A 2dri_A:N13A 2dri_A:Q235A	7.0	-	CD	Thermal	58.9	1.4	-	-	-	-	-	-	-
+6923	P02925	S34A I157A S128A (Based on UniProt)	2DRI	2dri_A:S9A 2dri_A:I132A 2dri_A:S103A	7.0	-	CD	Thermal	53.7	-10	-	-	-	-	-	-	-
+6924	P02925	S34A I157A S128A N38A (Based on UniProt)	2DRI	2dri_A:S9A 2dri_A:I132A 2dri_A:S103A 2dri_A:N13A	7.0	-	CD	Thermal	54.7	-9	-	-	-	-	-	-	-
+6925	P02925	S34A I157A S128A N38A Q260A (Based on UniProt)	2DRI	2dri_A:S9A 2dri_A:I132A 2dri_A:S103A 2dri_A:N13A 2dri_A:Q235A	7.0	-	CD	Thermal	59	-4.7	-	-	-	-	-	-	-
+6936	P61495	V181T P324T A335E(Based on UniProt and PDB)	1OSI	1osi_A:V181T 1osi_A:P324T 1osi_A:A335E	7.6	-	CD	Thermal	90.9	3.5	-	-	-	-	-	-	-
+6937	P61495	L134N V181T P324T A335E(Based on UniProt and PDB)	1OSI	1osi_A:L134N 1osi_A:V181T 1osi_A:P324T 1osi_A:A335E	7.6	-	CD	Thermal	92.7	5.3	-	-	-	-	-	-	-
+7182	Q7YUF0	A416E R417K D420Q I422L (Based on UniProt)		-	7.4	-	DSC	Thermal	53	-	-	-	-	-	-	-	-
+7183	Q7YUF0	A416E R417K D420Q I422L (Based on UniProt)		-	7.4	-	DSC	Thermal	53	-	-	-	-	-	-	-	-
+7184	P23526	E411D K412N A414C Y416F(Based on UniProt and PDB)	1A7A	1a7a_A:E411D 1a7a_A:K412N 1a7a_A:A414C 1a7a_A:Y416F	7.4	-	DSC	Thermal	41.3	-	-	-	-	-	-	-	-
+7185	P23526	E411D K412N A414C Y416F(Based on UniProt and PDB)	1A7A	1a7a_A:E411D 1a7a_A:K412N 1a7a_A:A414C 1a7a_A:Y416F	7.4	-	DSC	Thermal	44.2	-	-	-	-	-	-	-	-
+7186	Q7YUF0	A416E R417K D420Q I422L (Based on UniProt)		-	7.4	-	DSC	Thermal	53.2	-	-	-	-	-	-	-	-
+7187	Q7YUF0	A416E R417K D420Q I422L (Based on UniProt)		-	7.4	-	DSC	Thermal	63.4	-	-	-	-	-	-	-	-
+7188	P23526	E411D K412N A414C Y416F(Based on UniProt and PDB)	1A7A	1a7a_A:E411D 1a7a_A:K412N 1a7a_A:A414C 1a7a_A:Y416F	7.4	-	DSC	Thermal	51.4	-	-	-	-	-	-	-	-
+7189	P23526	E411D K412N A414C Y416F(Based on UniProt and PDB)	1A7A	1a7a_A:E411D 1a7a_A:K412N 1a7a_A:A414C 1a7a_A:Y416F	7.4	-	DSC	Thermal	55.2	-	-	-	-	-	-	-	-
+7190	Q7YUF0	A416E R417K D420Q I422L (Based on UniProt)		-	7.4	-	DSC	Thermal	62.1	-	-	-	-	-	-	-	-
+7191	Q7YUF0	A416E R417K D420Q I422L (Based on UniProt)		-	7.4	-	DSC	Thermal	65.2	-	-	-	-	-	-	-	-
+7192	P23526	E411D K412N A414C Y416F(Based on UniProt and PDB)	1A7A	1a7a_A:E411D 1a7a_A:K412N 1a7a_A:A414C 1a7a_A:Y416F	7.4	-	DSC	Thermal	62.8	-	-	-	-	-	-	-	-
+7193	P23526	E411D K412N A414C Y416F(Based on UniProt and PDB)	1A7A	1a7a_A:E411D 1a7a_A:K412N 1a7a_A:A414C 1a7a_A:Y416F	7.4	-	DSC	Thermal	63.6	-	-	-	-	-	-	-	-
+7194	Q7YUF0	A416E R417K D420Q I422L (Based on UniProt)		-	7.4	-	CD	Thermal	54	-	-	-	-	-	-	-	-
+7195	Q7YUF0	A416E R417K D420Q I422L (Based on UniProt)		-	7.4	-	CD	Thermal	54.1	-	-	-	-	-	-	-	-
+7196	P23526	E411D K412N A414C Y416F(Based on UniProt and PDB)	1A7A	1a7a_A:E411D 1a7a_A:K412N 1a7a_A:A414C 1a7a_A:Y416F	7.4	-	CD	Thermal	41.2	-	-	-	-	-	-	-	-
+7197	P23526	E411D K412N A414C Y416F(Based on UniProt and PDB)	1A7A	1a7a_A:E411D 1a7a_A:K412N 1a7a_A:A414C 1a7a_A:Y416F	7.4	-	CD	Thermal	44.4	-	-	-	-	-	-	-	-
+7198	Q7YUF0	A416E R417K D420Q I422L (Based on UniProt)		-	7.4	-	CD	Thermal	54	-	-	-	-	-	-	-	-
+7199	Q7YUF0	A416E R417K D420Q I422L (Based on UniProt)		-	7.4	-	CD	Thermal	62	-	-	-	-	-	-	-	-
+7200	P23526	E411D K412N A414C Y416F(Based on UniProt and PDB)	1A7A	1a7a_A:E411D 1a7a_A:K412N 1a7a_A:A414C 1a7a_A:Y416F	7.4	-	CD	Thermal	52.4	-	-	-	-	-	-	-	-
+7201	P23526	E411D K412N A414C Y416F(Based on UniProt and PDB)	1A7A	1a7a_A:E411D 1a7a_A:K412N 1a7a_A:A414C 1a7a_A:Y416F	7.4	-	CD	Thermal	55.4	-	-	-	-	-	-	-	-
+7262	P50455	M91L I95L K152R G154A A259S F261P Y282L (Based on UniProt)	1WPW	1wpw_A:M90L 1wpw_A:I94L 1wpw_A:K151R 1wpw_A:G153A 1wpw_A:A258S 1wpw_A:F260P 1wpw_A:Y281L	7.0	-	CD	Thermal	96.4	0.4	-	-	-	-	-	-	-
+7527	P67939	C124W M133L C135I C141F(Based on UniProt and PDB)	2AC0	2ac0_A:C124W 2ac0_A:M133L 2ac0_A:C135I 2ac0_A:C141F	7.2	-	DSC	Thermal	46.5	-	-	-	-	-	-	-	-
+7528	P67939	M133L C141V Y236F T253L(Based on UniProt and PDB)	2AC0	2ac0_A:M133L 2ac0_A:C141V 2ac0_A:Y236F 2ac0_A:T253L	7.2	-	DSC	Thermal	45.4	-	-	-	-	-	-	-	-
+7531	P67939	H115E W146R Q165K Q167E L206H F212K N268R(Based on UniProt and PDB)	2AC0	2ac0_A:H115E 2ac0_A:W146R 2ac0_A:Q165K 2ac0_A:Q167E 2ac0_A:L206H 2ac0_A:F212K 2ac0_A:N268R	7.2	-	DSC	Thermal	49.6	-	-	-	-	-	-	-	-
+7774	P16304	L3I G17A D23K K69R G73S D75S Y103M K105R E114Q D118E V119E S169T Q180A D184A S187D E188S G190E Y191V A193V Y205F D210V L211I K217Q (Based on UniProt)	1P3J	-	7.4	-	DSC	Thermal	-	11.6	-	-	-	-	-	-	-
+7775	P16304	L3I G17A D23K K69R G73S D75S I99S Y103M K105R E114Q D118E V119E M121I E122A S169T Q180A D184A S187D E188S G190E Y191V A193V Y205F D210V L211I K217Q (Based on UniProt)	1P3J	-	7.4	-	DSC	Thermal	-	12.5	-	-	-	-	-	-	-
+7776	P16304	D23K Y103M E114Q S169T Q180A S187D A193V V208L D210V K217Q(Based on UniProt and PDB)	1P3J	1P3J_A:D23K Y103M E114Q S169T Q180A S187D A193V V208L D210V K217Q	7.4	-	DSC	Thermal	-	5	-	-	-	-	-	-	-
+7906	P04637	M133L V203A N239Y N268D(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D	7.2	-	DSC	Thermal	51	5.7	-	-	-	-	-	-	-
+7907	P04637	M133L V203A N239Y N268D Y236F T253I(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D 2ocj_A:Y236F 2ocj_A:T253I	7.2	-	DSC	Thermal	51.3	6	-	-	-	-	-	-	-
+8052	P03050	N29A S44A E48A(Based on UniProt and PDB)	1ARR	1arr_A:N29A 1arr_A:S44A 1arr_A:E48A	7.5	-	CD	Thermal	66	9.2	-	-	-	-	-	-	-
+8203	P0A7Y4	Y28F R29H G30A R31H(Based on UniProt and PDB)	2RN2	2rn2_A:Y28F 2rn2_A:R29H 2rn2_A:G30A 2rn2_A:R31H	3.0	-	CD	Thermal	47.5	-2.3	-	-	92.5	-	-	-	-
+8204	P0A7Y4	Y28F R29H G30A R31H(Based on UniProt and PDB)	2RN2	2rn2_A:Y28F 2rn2_A:R29H 2rn2_A:G30A 2rn2_A:R31H	5.5	-	CD	Thermal	48.8	-3.2	-	-	80.5	-	-	-	-
+8205	P0A7Y4	K91R D94E K95G(Based on UniProt and PDB)	2RN2	2rn2_A:K91R 2rn2_A:D94E 2rn2_A:K95G	3.0	-	CD	Thermal	53.8	4	-	-	104.8	-	-	-	-
+8206	P0A7Y4	K91R D94E K95G(Based on UniProt and PDB)	2RN2	2rn2_A:K91R 2rn2_A:D94E 2rn2_A:K95G	5.5	-	CD	Thermal	57.6	5.6	-	-	86.8	-	-	-	-
+8286	P05798	D25K E74K S31P S42G S48P T76P Q77G(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G	7.0	-	CD	Thermal	66.6	17.3	-	1.68	105	-	-	-	-
+8287	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F	7.0	-	CD	Thermal	77.2	27.9	-	1.07	97	-	-	-	-
+8288	P05798	D25K E74K S31P S42G S48P T76P Q77G I92D(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:I92D	7.0	-	CD	Thermal	34	-32.6	-	1.41	73	-	-	-	-
+8289	P05798	D25K E74K S31P S42G S48P T76P Q77G D79A(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79A	7.0	-	CD	Thermal	75.3	8.7	-	1.15	102	-	-	-	-
+8290	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F I92D(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:I92D	7.0	-	CD	Thermal	50.2	-26.9	-	1.41	84	-	-	-	-
+8291	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F I70D(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:I70D	7.0	-	CD	Thermal	41.5	-35.6	-	1.08	78	-	-	-	-
+8292	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F I92A(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:I92A	7.0	-	CD	Thermal	63.9	-13.3	-	1.33	102	-	-	-	-
+8293	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F Y80A(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:Y80A	7.0	-	CD	Thermal	58	-19.2	-	1.29	87	-	-	-	-
+8388	P06547	T98K Y99L A100V D101E (Based on UniProt)	-	-	7.5	-	CD	Thermal	64.9	-0.8	-	-	-	-	-	-	-
+8390	P06547	G48A A51E T98K Y99L A100V D101E (Based on UniProt)	-	-	7.5	-	CD	Thermal	64.9	-0.9	-	-	-	-	-	-	-
+8391	P06547	G48A A51E S317A (Based on UniProt)	-	-	7.5	-	CD	Thermal	73.6	7.8	-	-	-	-	-	-	-
+8392	P06547	T98K Y99L A100V D101E S317A (Based on UniProt)	-	-	7.5	-	CD	Thermal	69.6	3.8	-	-	-	-	-	-	-
+8393	P06547	G48A A51E T98K Y99L A100V D101E S317A (Based on UniProt)	-	-	7.5	-	CD	Thermal	74.7	8.9	-	-	-	-	-	-	-
+8405	P06654	A249L Y271W (Based on UniProt)	1PGA	1pga_A:A23L 1pga_A:Y45W	6.5	-	CD	Thermal	69	-	-	-	-	-	-	-	-
+8406	P06654	A249Q Y271F (Based on UniProt)	1PGA	1pga_A:A23Q 1pga_A:Y45F	6.5	-	CD	Thermal	66	-	-	-	-	-	-	-	-
+8407	P06654	A249K Y271F (Based on UniProt)	1PGA	1pga_A:A23K 1pga_A:Y45F	6.5	-	CD	Thermal	64	-	-	-	-	-	-	-	-
+8410	P06654	A249P Y271L (Based on UniProt)	1PGA	1pga_A:A23P 1pga_A:Y45L	6.5	-	CD	Thermal	59	-	-	-	-	-	-	-	-
+8411	P06654	A249Y Y271T (Based on UniProt)	1PGA	1pga_A:A23Y 1pga_A:Y45T	6.5	-	CD	Thermal	47	-	-	-	-	-	-	-	-
+8412	P06654	A249Y Y271V (Based on UniProt)	1PGA	1pga_A:A23Y 1pga_A:Y45V	6.5	-	CD	Thermal	47	-	-	-	-	-	-	-	-
+8413	P06654	A249I Y271A (Based on UniProt)	1PGA	1pga_A:A23I 1pga_A:Y45A	6.5	-	CD	Thermal	44	-	-	-	-	-	-	-	-
+8414	P06654	A249I Y271A (Based on UniProt)	1PGA	1pga_A:A23I 1pga_A:Y45A	6.5	-	CD	Thermal	38	-	-	-	-	-	-	-	-
+8415	P06654	A249G Y271S (Based on UniProt)	1PGA	1pga_A:A23G 1pga_A:Y45S	6.5	-	CD	Thermal	28	-	-	-	-	-	-	-	-
+8571	P00644	V148L G161S G170V (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:G79S 1stn_A:G88V	7.0	-	DSC	Thermal	57.6	3.5	-	-	-	-	-	-	-
+8668	P06654	T228Q I232A T270A (Based on UniProt)	1PGA	1pga_A:T2Q 1pga_A:I6A 1pga_A:T44A	5.2	-	CD	Thermal	68.73	-	-	-	-	-	-	-	-
+8699	P03034	G47A G49A P79A (Based on UniProt)	1LRP	1lrp_A:G46A 1lrp_A:G48A 1lrp_A:P78A	7.0	-	CD	Thermal	55	0	-	-	-	-	-	-	-
+8764	P03034	T9A E11A L13A E24A (Based on UniProt)	1LRP	1lrp_A:T8A 1lrp_A:E10A 1lrp_A:L12A 1lrp_A:E23A	7.0	-	CD	Thermal	38	-19	-	-	-	-	-	-	-
+8765	P03034	T9V E11V L13V E24V (Based on UniProt)	1LRP	1lrp_A:T8V 1lrp_A:E10V 1lrp_A:L12V 1lrp_A:E23V	7.0	-	CD	Thermal	38	-19	-	-	-	-	-	-	-
+8987	P03069	S262R H266E N269R (Based on UniProt)	2ZTA	2zta_A:S14R 2zta_A:H18E 2zta_A:N21R	7.0	-	CD	Thermal	67	22	-	-	-	-	-	-	-
+8988	P03069	S262R H266E N269A (Based on UniProt)	2ZTA	2zta_A:S14R 2zta_A:H18E 2zta_A:N21A	7.0	-	CD	Thermal	67	21	-	-	-	-	-	-	-
+8989	P03069	S262A H266A N269R (Based on UniProt)	2ZTA	2zta_A:S14A 2zta_A:H18A 2zta_A:N21R	7.0	-	CD	Thermal	67	16	-	-	-	-	-	-	-
+8990	P03069	S262R H266A N269R (Based on UniProt)	2ZTA	2zta_A:S14R 2zta_A:H18A 2zta_A:N21R	7.0	-	CD	Thermal	67	15	-	-	-	-	-	-	-
+8991	P03069	S262A H266E N269R (Based on UniProt)	2ZTA	2zta_A:S14A 2zta_A:H18E 2zta_A:N21R	7.0	-	CD	Thermal	67	15	-	-	-	-	-	-	-
+8992	P03069	S262R H266A N269A (Based on UniProt)	2ZTA	2zta_A:S14R 2zta_A:H18A 2zta_A:N21A	7.0	-	CD	Thermal	67	14	-	-	-	-	-	-	-
+8993	P03069	S262A H266A N269A (Based on UniProt)	2ZTA	2zta_A:S14A 2zta_A:H18A 2zta_A:N21A	7.0	-	CD	Thermal	67	14	-	-	-	-	-	-	-
+8994	P03069	S262A H266E N269A (Based on UniProt)	2ZTA	2zta_A:S14A 2zta_A:H18E 2zta_A:N21A	7.0	-	CD	Thermal	67	10	-	-	-	-	-	-	-
+9016	P08821	E15G S27A D34E N38K I42V (Based on UniProt)	-	-	7.0	-	CD	Thermal	71.3	22.7	-	-	-	-	-	-	-
+9320	P03034	Y89C G47A G49A (Based on UniProt)	1LRP	1lrp_A:Y88C 1lrp_A:G46A 1lrp_A:G48A	8.0	-	DSC	Thermal	70.3	16.4	72.9	-	116.3	-	-	-	-
+9534	P00720	E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	2.0	-	CD	Thermal	44.2	3.4	-	-	88.3	-	-	-	-
+9536	P00782	M157F Y324K N325S S328C (Based on UniProt)	1SUP	1sup_A:M50F 1sup_A:Y217K 1sup_A:N218S 1sup_A:S221C	9.63	-	DSC	Thermal	63.5	-	140	-	140	-	-	-	-
+9670	P01053	S32A E34A E35A (Based on UniProt)	2CI2	2ci2_I:S31A 2ci2_I:E33A 2ci2_I:E34A	6.3	-	Fluorescence	Thermal	32.5	-14.1	-	-	53	-	-	-	-
+10448	P00720	L84M L91M L99M(Based on UniProt and PDB)	2LZM	2lzm_A:L84M 2lzm_A:L91M 2lzm_A:L99M	5.42	-	DSC	Thermal	56.3	-	-	-	-	-	-	-	-
+10449	P00720	L84M L91M L99M L118M L121M(Based on UniProt and PDB)	2LZM	2lzm_A:L84M 2lzm_A:L91M 2lzm_A:L99M 2lzm_A:L118M 2lzm_A:L121M	5.42	-	DSC	Thermal	53	-	-	-	-	-	-	-	-
+10450	P00720	L84M L91M L99M L118M L121M L133M F153M(Based on UniProt and PDB)	2LZM	2lzm_A:L84M 2lzm_A:L91M 2lzm_A:L99M 2lzm_A:L118M 2lzm_A:L121M 2lzm_A:L133M 2lzm_A:F153M	5.42	-	DSC	Thermal	50.7	-	-	-	-	-	-	-	-
+10451	P00720	L84M L91M L99M L118M L121M V111M L133M(Based on UniProt and PDB)	2LZM	2lzm_A:L84M 2lzm_A:L91M 2lzm_A:L99M 2lzm_A:L118M 2lzm_A:L121M 2lzm_A:V111M 2lzm_A:L133M	5.42	-	DSC	Thermal	53.4	-	-	-	-	-	-	-	-
+10452	P00720	L84M L91M L99M L118M L121M L133M F153M V87M V111M(Based on UniProt and PDB)	2LZM	2lzm_A:L84M 2lzm_A:L91M 2lzm_A:L99M 2lzm_A:L118M 2lzm_A:L121M 2lzm_A:L133M 2lzm_A:F153M 2lzm_A:V87M 2lzm_A:V111M	5.42	-	DSC	Thermal	47.6	-	-	-	-	-	-	-	-
+10614	P00099	F56Y Q59R E65Y (Based on UniProt)	451C	451c_A:F34Y 451c_A:Q37R 451c_A:E43Y	5.0	-	CD	Thermal	57.9	17.5	-	-	56.4	-	-	-	-
+10642	P03050	E43A K46A G52A(Based on UniProt and PDB)	1ARR	1arr_A:E43A 1arr_A:K46A 1arr_A:G52A	7.5	-	CD	Thermal	57.7	-	-	-	-	-	-	-	-
+10643	P03050	G3A M4A S5A K6A M7A Q9A N11A(Based on UniProt and PDB)	1ARR	1arr_A:G3A 1arr_A:M4A 1arr_A:S5A 1arr_A:K6A 1arr_A:M7A 1arr_A:Q9A 1arr_A:N11A	7.5	-	CD	Thermal	59.8	-	-	-	-	-	-	-	-
+10644	P03050	R16A E17A V18A D20A R23A K24A V25A E27A E28A S35A Q39A(Based on UniProt and PDB)	1ARR	1arr_A:R16A 1arr_A:E17A 1arr_A:V18A 1arr_A:D20A 1arr_A:R23A 1arr_A:K24A 1arr_A:V25A 1arr_A:E27A 1arr_A:E28A 1arr_A:S35A 1arr_A:Q39A	7.5	-	CD	Thermal	69.2	-	-	-	-	-	-	-	-
+10645	P03050	R16A E17A V18A D20A R23A K24A V25A E27A E28A N34A S35A Q39A(Based on UniProt and PDB)	1ARR	1arr_A:R16A 1arr_A:E17A 1arr_A:V18A 1arr_A:D20A 1arr_A:R23A 1arr_A:K24A 1arr_A:V25A 1arr_A:E27A 1arr_A:E28A 1arr_A:N34A 1arr_A:S35A 1arr_A:Q39A	7.5	-	CD	Thermal	71.1	-	-	-	-	-	-	-	-
+10646	P03050	R16A E17A V18A D20A R23A K24A V25A E27A E28A N34A S35A Q39A E43A K46A G52A(Based on UniProt and PDB)	1ARR	1arr_A:R16A 1arr_A:E17A 1arr_A:V18A 1arr_A:D20A 1arr_A:R23A 1arr_A:K24A 1arr_A:V25A 1arr_A:E27A 1arr_A:E28A 1arr_A:N34A 1arr_A:S35A 1arr_A:Q39A 1arr_A:E43A 1arr_A:K46A 1arr_A:G52A	7.5	-	CD	Thermal	72.3	-	-	-	-	-	-	-	-
+10694	P96110	S129R T159E N118R (Based on UniProt)	1B26	1b26_A:S128R 1b26_A:T158E 1b26_A:N117R	7.4	-	DSC	Thermal	89.6	-	-	-	-	-	-	-	-
+10695	P96110	S129R T159E S161E (Based on UniProt)	1B26	1b26_A:S128R 1b26_A:T158E 1b26_A:S160E	7.4	-	DSC	Thermal	88	-	-	-	-	-	-	-	-
+10696	P96110	S129R T159E N118R S161E (Based on UniProt)	1B26	1b26_A:S128R 1b26_A:T158E 1b26_A:N117R 1b26_A:S160E	7.4	-	DSC	Thermal	88.3	-	-	-	-	-	-	-	-
+10883	P0A7Y4	H62A H83A H124A H127A(Based on UniProt and PDB)	2RN2	2rn2_A:H62A 2rn2_A:H83A 2rn2_A:H124A 2rn2_A:H127A	3.0	-	CD	Thermal	54.9	5.5	-	-	-	-	-	-	-
+10895	P0A7Y4	H62A H83A H124A H127A(Based on UniProt and PDB)	2RN2	2rn2_A:H62A 2rn2_A:H83A 2rn2_A:H124A 2rn2_A:H127A	7.8	-	CD	Thermal	51.7	1.5	-	-	-	-	-	-	-
+11164	P0A7Y4	H62P T40A K122R(Based on UniProt and PDB)	2RN2	2rn2_A:H62P 2rn2_A:T40A 2rn2_A:K122R	5.5	-	CD	Thermal	55.8	3.1	-	-	96.9	-	-	-	-
+11182	P0A7Y4	H62P T40A K122R(Based on UniProt and PDB)	2RN2	2rn2_A:H62P 2rn2_A:T40A 2rn2_A:K122R	3.0	-	CD	Thermal	51.8	1.7	-	-	108.6	-	-	-	-
+11396	P24297	C6L C9T C39A C42T (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T	6.3	-	CD	Thermal	82	-	-	-	-	-	-	-	-
+11397	P24297	C6L C9T C39A C42T A2Q (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:A1Q	6.3	-	CD	Thermal	63	-	-	-	-	-	-	-	-
+11398	P24297	C6L C9T C39A C42T E15Q (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:E14Q	6.3	-	CD	Thermal	57	-	-	-	-	-	-	-	-
+11399	P24297	C6L C9T C39A C42T A2Q E15Q (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:A1Q 1brf_A:E14Q	6.3	-	CD	Thermal	39	-	-	-	-	-	-	-	-
+11400	P24297	C6L C9T C39A C42T E15T (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:E14T	6.3	-	CD	Thermal	38	-	-	-	-	-	-	-	-
+11401	P24297	C6L C9T C39A C42T A2Q E15T (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:A1Q 1brf_A:E14T	6.3	-	CD	Thermal	41	-	-	-	-	-	-	-	-
+11402	P24297	C6L C9T C39A C42T K7A (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:K6A	6.3	-	CD	Thermal	74	-	-	-	-	-	-	-	-
+11403	P24297	C6L C9T C39A C42T E50A (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:E49A	6.3	-	CD	Thermal	77	-	-	-	-	-	-	-	-
+11404	P24297	C6L C9T C39A C42T K7A E50A (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:K6A 1brf_A:E49A	6.3	-	CD	Thermal	74	-	-	-	-	-	-	-	-
+11454	P00698	T107A N111A I116A S118A (Based on UniProt)	4LYZ	4lyz_A:T89A 4lyz_A:N93A 4lyz_A:I98A 4lyz_A:S100A	7.0	-	CD	Thermal	66	-	-	-	-	-	-	-	-
+11455	P00698	H33A T107A N111A I116A S118A (Based on UniProt)	4LYZ	4lyz_A:H15A 4lyz_A:T89A 4lyz_A:N93A 4lyz_A:I98A 4lyz_A:S100A	7.0	-	CD	Thermal	64.5	-	-	-	-	-	-	-	-
+11456	P00698	N111A I116A S118A (Based on UniProt)	4LYZ	4lyz_A:N93A 4lyz_A:I98A 4lyz_A:S100A	7.0	-	CD	Thermal	65.4	-	-	-	-	-	-	-	-
+11457	P00698	T107A N111A S118A (Based on UniProt)	4LYZ	4lyz_A:T89A 4lyz_A:N93A 4lyz_A:S100A	7.0	-	CD	Thermal	74.6	-	-	-	-	-	-	-	-
+11458	P00698	T107A N111A I116A (Based on UniProt)	4LYZ	4lyz_A:T89A 4lyz_A:N93A 4lyz_A:I98A	7.0	-	CD	Thermal	66.9	-	-	-	-	-	-	-	-
+11466	Q56013	T49Y A120R Y208D (Based on UniProt)	1HIX	1hix_A:T11Y 1hix_A:A82R 1hix_A:Y170D	6.0	-	Fluorescence	Thermal	67.3	6.2	-	-	-	-	-	-	-
+11467	Q56013	S71P T49Y A120R Y208D (Based on UniProt)	1HIX	1hix_A:S33P 1hix_A:T11Y 1hix_A:A82R 1hix_A:Y170D	6.0	-	Fluorescence	Thermal	63.9	2.8	-	-	-	-	-	-	-
+11473	Q56013	T49Y A120R Y208D (Based on UniProt)	1HIX	1hix_A:T11Y 1hix_A:A82R 1hix_A:Y170D	6.0	-	CD	Thermal	64.2	7.4	-	-	-	-	-	-	-
+11474	Q56013	S71P T49Y A120R Y208D (Based on UniProt)	1HIX	1hix_A:S33P 1hix_A:T11Y 1hix_A:A82R 1hix_A:Y170D	6.0	-	CD	Thermal	57.7	0.9	-	-	-	-	-	-	-
+11484	P00974	C49A C65A C73A C86A M87L (Based on UniProt)	1BPI	1bpi_A:C14A 1bpi_A:C30A 1bpi_A:C38A 1bpi_A:C51A 1bpi_A:M52L	4.7	-	CD	Thermal	40	-	-	-	-	-	-	-	-
+11659	P03050	K2T M4R S5R K6E P8T(Based on UniProt and PDB)	1ARR	1arr_A:K2T 1arr_A:M4R 1arr_A:S5R 1arr_A:K6E 1arr_A:P8T	7.5	-	CD	Thermal	67	13	-	-	-	-	-	-	-
+11660	P03050	N34S S35C Q39E(Based on UniProt and PDB)	1ARR	1arr_A:N34S 1arr_A:S35C 1arr_A:Q39E	7.5	-	CD	Thermal	63	9	-	-	-	-	-	-	-
+11661	P03050	K2T G3A S5N M7T P8Q(Based on UniProt and PDB)	1ARR	1arr_A:K2T 1arr_A:G3A 1arr_A:S5N 1arr_A:M7T 1arr_A:P8Q	7.5	-	CD	Thermal	60	6	-	-	-	-	-	-	-
+11662	P03050	Q9R F10L N11I R13K R16G(Based on UniProt and PDB)	1ARR	1arr_A:Q9R 1arr_A:F10L 1arr_A:N11I 1arr_A:R13K 1arr_A:R16G	7.5	-	CD	Thermal	54	0	-	-	-	-	-	-	-
+11663	P03050	V18M L19V D20R(Based on UniProt and PDB)	1ARR	1arr_A:V18M 1arr_A:L19V 1arr_A:D20R	7.5	-	CD	Thermal	46	-8	-	-	-	-	-	-	-
+11665	P03050	K46R E48V I51S A53K(Based on UniProt and PDB)	1ARR	1arr_A:K46R 1arr_A:E48V 1arr_A:I51S 1arr_A:A53K	7.5	-	CD	Thermal	37	-17	-	-	-	-	-	-	-
+11666	P03050	F45L R50G I51S(Based on UniProt and PDB)	1ARR	1arr_A:F45L 1arr_A:R50G 1arr_A:I51S	7.5	-	CD	Thermal	35	-19	-	-	-	-	-	-	-
+11679	P03069	V257I N264I V271N V278I (Based on UniProt)	2ZTA	2zta_A:V9I 2zta_A:N16I 2zta_A:V23N 2zta_A:V30I	7.0	-	CD	Thermal	79.5	-	-	-	-	-	-	-	-
+11680	P03069	V257I V271I V278I (Based on UniProt)	2ZTA	2zta_A:V9I 2zta_A:V23I 2zta_A:V30I	7.0	-	CD	Thermal	69.5	-	-	-	-	-	-	-	-
+11681	P03069	V257I N264I V271N V278N (Based on UniProt)	2ZTA	2zta_A:V9I 2zta_A:N16I 2zta_A:V23N 2zta_A:V30N	7.0	-	CD	Thermal	64	-	-	-	-	-	-	-	-
+11682	P03069	V257I V271N V278I (Based on UniProt)	2ZTA	2zta_A:V9I 2zta_A:V23N 2zta_A:V30I	7.0	-	CD	Thermal	52.5	-	-	-	-	-	-	-	-
+11683	P03069	V257I V271I V278N (Based on UniProt)	2ZTA	2zta_A:V9I 2zta_A:V23I 2zta_A:V30N	7.0	-	CD	Thermal	50.6	-	-	-	-	-	-	-	-
+11684	P03069	V257N N264I V271N V278I (Based on UniProt)	2ZTA	2zta_A:V9N 2zta_A:N16I 2zta_A:V23N 2zta_A:V30I	7.0	-	CD	Thermal	45	-	-	-	-	-	-	-	-
+11685	P03069	V257N V271N V278I (Based on UniProt)	2ZTA	2zta_A:V9N 2zta_A:V23N 2zta_A:V30I	7.0	-	CD	Thermal	21.2	-	-	-	-	-	-	-	-
+11697	P00651	A30C G114R V144C (Based on UniProt)	1RTB	1rtb_A:A4C 1rtb_A:G88R 1rtb_A:V118C	6.0	-	DSC	Thermal	68.8	5.6	-	-	-	-	-	-	-
+11700	P00651	A30C C91A C98A G114R V144C (Based on UniProt)	1RTB	1rtb_A:A4C 1rtb_A:C65A 1rtb_A:C72A 1rtb_A:G88R 1rtb_A:V118C	6.0	-	DSC	Thermal	50.4	-12.8	-	-	-	-	-	-	-
+11701	P00651	C91A C98A G114R (Based on UniProt)	1RTB	1rtb_A:C65A 1rtb_A:C72A 1rtb_A:G88R	6.0	-	DSC	Thermal	45.9	-17.3	-	-	-	-	-	-	-
+11702	P00651	C66A G114R C121A (Based on UniProt)	1RTB	1rtb_A:C40A 1rtb_A:G88R 1rtb_A:C95A	6.0	-	DSC	Thermal	40.4	-22.8	-	-	-	-	-	-	-
+12017	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	65.24	-	62.6	-	-	-	-	-	-
+12018	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	65.2	-	84.6	-	-	-	-	-	-
+12019	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	66.91	-	86.7	-	-	-	-	-	-
+12020	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	66.3	-	74.1	-	-	-	-	-	-
+12021	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	69.33	-	100.5	1.87	-	-	-	-	-
+12022	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	69.36	-	106.9	1.86	-	-	-	-	-
+12023	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	69.74	-	94.5	0.96	-	-	-	-	-
+12024	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	69.34	-	94	1.45	-	-	-	-	-
+12025	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	69.65	-	97.6	1.24	-	-	-	-	-
+12026	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	69.69	-	97.1	1.48	-	-	-	-	-
+12027	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	69.8	-	96.8	1.55	-	-	-	-	-
+12028	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	67.3	-	67	3.06	-	-	-	-	-
+12029	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	69.25	-	76.4	1.86	-	-	-	-	-
+12030	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	70.34	-	102	0.41	-	-	-	-	-
+12031	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	63.07	-	53.5	1.87	-	-	-	-	-
+12032	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	63.72	-	52.9	2.19	-	-	-	-	-
+12033	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	65.49	-	56.5	2.18	-	-	-	-	-
+12034	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	62.63	-	71.8	2.8	-	-	-	-	-
+12035	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	63.43	-	51	2.45	-	-	-	-	-
+12036	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	69.59	-	84.6	0.85	-	-	-	-	-
+12037	P0AA25	C33S C36S L79C (Based on UniProt)	2TRX	2trx_A:C32S 2trx_A:C35S 2trx_A:L78C	7.0	-	DSC	Thermal	69.56	-	81.1	1.54	-	-	-	-	-
+12041	P05645	I95L M292I T308I (Based on UniProt)	-	-	7.6	-	CD	Thermal	70	-	-	-	-	-	-	-	-
+12175	P01053	S32G E34A E35A (Based on UniProt)	2CI2	2ci2_I:S31G 2ci2_I:E33A 2ci2_I:E34A	3.0	-	DSC	Thermal	56.55	-	55	-	-	-	-	-	-
+12176	P01053	S32A E34A E35A (Based on UniProt)	2CI2	2ci2_I:S31A 2ci2_I:E33A 2ci2_I:E34A	3.0	-	DSC	Thermal	56.25	-	54	-	-	-	-	-	-
+12240	P62593	G234S (Based on UniProt)	1BTL	1btl_A:G236S	7.0	-	CD	Thermal	59.2 (0.16)	2.78	-	-	-89 (7.9)	-9.3 (0.81)	-1.8	-	-
+12244	P62593	G234S (Based on UniProt)	1BTL	1btl_A:G236S	7.0	-	CD	Thermal	61.4 (0.14)	4.98	-	-	-110 (89)	-12 (0.92)	-4.5	-	-
+12246	P62593	G234S (Based on UniProt)	1BTL	1btl_A:G236S	7.0	-	CD	Thermal	53.8 (0.09)	-2.62	-	-	-61 (3.1)	-5.3 (0.27)	2.2	-	-
+12247	P62593	A40G E102K M180T (Based on UniProt)	1BTL	1btl_A:A42G 1btl_A:E104K 1btl_A:M182T	7.0	-	CD	Thermal	63.2 (0.27)	6.78	-	-	-100 (87)	-11.8 (0.92)	-4.3	-	-
+12248	P62593	G234S (Based on UniProt)	1BTL	1btl_A:G236S	7.0	-	CD	Thermal	60.7 (0.24)	4.28	-	-	-89 (6.1)	-9.5 (0.71)	-2	-	-
+12266	P69488	S11V E61T Q73V(Based on UniProt and PDB)	3X3U	3x3u_A:S11V 3x3u_A:E61T 3x3u_A:Q73V	9.0	-	DSC	Thermal	113.6 (0.6)	23.7	-	-	-	-	-	-	-
+12267	P69488	S11V E61V Q73V(Based on UniProt and PDB)	3X3U	3x3u_A:S11V 3x3u_A:E61V 3x3u_A:Q73V	9.0	-	DSC	Thermal	116.5 (0.7)	26.6	-	-	-	-	-	-	-
+12268	P69488	S11V E59K E61T(Based on UniProt and PDB)	3X3U	3x3u_A:S11V 3x3u_A:E59K 3x3u_A:E61T	9.0	-	DSC	Thermal	112.4 (0.3)	22.5	-	-	-	-	-	-	-
+12300	P24821	E887I T890K D850K(Based on UniProt and PDB)	1TEN	1ten_A:E887I 1ten_A:T890K 1ten_A:D850K	7.4	-	DSC	Thermal	80.5	21.8	-	-	-	-	-	-	-
+12301	P24821	E887I T890K D850K I833F(Based on UniProt and PDB)	1TEN	1ten_A:E887I 1ten_A:T890K 1ten_A:D850K 1ten_A:I833F	7.4	-	DSC	Thermal	82.6	23.9	-	-	-	-	-	-	-
+12307	P24821	T888C E870C I833C S875C(Based on UniProt and PDB)	1TEN	1ten_A:T888C 1ten_A:E870C 1ten_A:I833C 1ten_A:S875C	7.4	-	DSC	Thermal	80.6	-	-	-	-	-	-	-	-
+12339	P02945	E22Q E207Q E217Q (Based on UniProt)	1C3W	1c3w_A:E9Q 1c3w_A:E194Q 1c3w_A:E204Q	3.5	-	DSC	Thermal	69.4	-7.2	-	-	-	-	-	-	-
+12340	P02945	E22Q E207Q E217Q (Based on UniProt)	1C3W	1c3w_A:E9Q 1c3w_A:E194Q 1c3w_A:E204Q	7.0	-	DSC	Thermal	93.3	-4.9	-	-	-	-	-	-	-
+12341	P02945	E22Q E207Q E217Q (Based on UniProt)	1C3W	1c3w_A:E9Q 1c3w_A:E194Q 1c3w_A:E204Q	9.0	-	DSC	Thermal	82.6	-11.9	-	-	-	-	-	-	-
+12466	Q72SM7	D163A D164A D165A G166A D167A D168A (Based on UniProt)	3FRL	3frl_A:D164A 3frl_A:D165A 3frl_A:G166A 3frl_A:D167A 3frl_A:D168A	8.0	-	CD	Thermal	51	0	-	-	-	-	-	-	-
+12467	Q72SM7	D163A D164A D165A G166A D167A D168A (Based on UniProt)	3FRL	3frl_A:D164A 3frl_A:D165A 3frl_A:G166A 3frl_A:D167A 3frl_A:D168A	8.0	-	CD	Thermal	52	-6	-	-	-	-	-	-	-
+12473	P01857	P226C A314C S258C P279C (Based on UniProt)	1OQO	1oqo_A:P343C 1oqo_A:A431C 1oqo_A:S375C 1oqo_A:P396C	7.4	-	DSC	Thermal	61	-4.9	-	-	-	-	-	-	-
+12477	P01857	P226C A314C S258C P279C (Based on UniProt)	1OQO	1oqo_A:P343C 1oqo_A:A431C 1oqo_A:S375C 1oqo_A:P396C	7.4	-	DSC	Thermal	92.8	14.7	-	-	-	-	-	-	-
+12481	P01857	P226C A314C S258C P279C (Based on UniProt)	1OQO	1oqo_A:P343C 1oqo_A:A431C 1oqo_A:S375C 1oqo_A:P396C	7.4	-	CD	Thermal	58.8	-6.4	-	-	-	-	-	-	-
+12485	P01857	P226C A314C S258C P279C (Based on UniProt)	1OQO	1oqo_A:P343C 1oqo_A:A431C 1oqo_A:S375C 1oqo_A:P396C	7.4	-	DSC	Thermal	97.8	15.2	-	-	-	-	-	-	-
+12489	P01857	P226C A314C S258C P279C (Based on UniProt)	1OQO	1oqo_A:P343C 1oqo_A:A431C 1oqo_A:S375C 1oqo_A:P396C	7.4	-	CD	Thermal	90.4	9.7	-	-	-	-	-	-	-
+12493	P02649	R136S (Based on UniProt)	1LPE	-	7.4	-	CD	Thermal	51.9 (0.4)	-1.7	-	-	-	-	-	-	-
+12519	P14711	Y53H T59I S63T (Based on UniProt)	-	-	7.2	-	DSC	Thermal	58.4	1.8	-	23.66	-	-	-	-	-
+12547	P02647	L254P L257P Y260P (Based on UniProt)	1AV1	1av1_A:L230P 1av1_A:L233P 1av1_A:Y236P	7.4	-	CD	Thermal	57 (1.5)	-3	-	-	43(0.5)	-	-	-	-
+12555	P05230	Q55P S62I K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	55.2 (0.1)	-14.9	90.1 (5)	-	-	-	-	-	-
+12556	P05230	Q55P S62I K133E H108G (Based on UniProt)	-	-	7.3	-	CD	Thermal	61.2 (0.1)	-20.9	101.6 (5)	-	-	-	-	-	-
+12558	P05230	Q55P S62I K127N (Based on UniProt)	-	-	7.3	-	CD	Thermal	58.5 (0.1)	-18.2	108.5 (5)	-	-	-	-	-	-
+12559	P05230	Q55P S62I K127N H108G (Based on UniProt)	-	-	7.3	-	CD	Thermal	64.1 (0.1)	-23.8	120.8 (5)	-	-	-	-	-	-
+12561	P05230	Q55P K127N K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	47 (0.1)	-6.7	76.4 (5)	-	-	-	-	-	-
+12562	P05230	S62I K127N K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	48.5 (0.1)	-8.2	82.2 (5)	-	-	-	-	-	-
+12563	P05230	Q55P S62I K127N K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	57 (0.1)	-16.7	96.3 (5)	-	-	-	-	-	-
+12564	P05230	Q55P S62I K127N K133E H108G (Based on UniProt)	-	-	7.3	-	CD	Thermal	62.8 (0.1)	-22.5	105.1 (5)	-	-	-	-	-	-
+12591	P05230	Q55P S62I K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	56.3 (0.1)	-15.6	82.4 (5)	-	-	-	-	-	-
+12592	P05230	Q55P S62I K133E H108G (Based on UniProt)	-	-	7.3	-	CD	Thermal	61.7 (0.1)	-21	83.4 (5)	-	-	-	-	-	-
+12594	P05230	Q55P S62I K127N (Based on UniProt)	-	-	7.3	-	CD	Thermal	57 (0.1)	-16.3	90 (5)	-	-	-	-	-	-
+12595	P05230	Q55P S62I K127N H108G (Based on UniProt)	-	-	7.3	-	CD	Thermal	62.9 (0.1)	-22.2	99.8 (5)	-	-	-	-	-	-
+12597	P05230	Q55P K127N K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	49 (0.1)	-8.3	75 (5)	-	-	-	-	-	-
+12598	P05230	S62I K127N K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	49.3 (0.1)	-8.6	75.6 (5)	-	-	-	-	-	-
+12599	P05230	Q55P S62I K127N K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	55.7 (0.1)	-15	92 (5)	-	-	-	-	-	-
+12600	P05230	Q55P S62I K127N K133E H108G (Based on UniProt)	-	-	7.3	-	CD	Thermal	63.2 (0.1)	-22.5	102 (5)	-	-	-	-	-	-
+12609	P05230	Q55P S62I K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	53.2 (0.1)	0.9	69.6 (5)	-	-	-	-	-	-
+12610	P05230	Q55P S62I K133E H108G (Based on UniProt)	-	-	7.3	-	CD	Thermal	59.2 (0.1)	-5.1	75.5 (5)	-	-	-	-	-	-
+12612	P05230	Q55P S62I K127N (Based on UniProt)	-	-	7.3	-	CD	Thermal	60.4 (0.1)	-6.3	90 (5)	-	-	-	-	-	-
+12613	P05230	Q55P S62I K127N H108G (Based on UniProt)	-	-	7.3	-	CD	Thermal	66.3 (0.1)	-12.2	97.4 (5)	-	-	-	-	-	-
+12615	P05230	Q55P K127N K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	42.9 (0.1)	11.2	53 (5)	-	-	-	-	-	-
+12616	P05230	S62I K127N K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	43.3 (0.1)	10.8	57.6 (5)	-	-	-	-	-	-
+12617	P05230	Q55P S62I K127N K133E (Based on UniProt)	-	-	7.3	-	CD	Thermal	50.1 (0.1)	4	72 (5)	-	-	-	-	-	-
+12618	P05230	Q55P S62I K127N K133E H108G (Based on UniProt)	-	-	7.3	-	CD	Thermal	58.8 (0.1)	-4.7	81.6 (5)	-	-	-	-	-	-
+12698	P04166	A34S I48L L63R (Based on UniProt)	1B5M	1b5m_A:A18S 1b5m_A:I32L 1b5m_A:L47R	7.0	-	CD	Thermal	81.8 (0.9)	-5.2	-	-	-	-	-	-	-
+12727	Q97W02	E100A E235A R240A(Based on UniProt and PDB)	2RDI	2rdi_A:E100A 2rdi_A:E235A 2rdi_A:R240A	7.5	-	CD	Thermal	88.3 (0.1)	-	193 (5)	-	-	-	-	-	-
+12728	Q97W02	K148A E235A R240A(Based on UniProt and PDB)	2RDI	2rdi_A:K148A 2rdi_A:E235A 2rdi_A:R240A	7.5	-	CD	Thermal	90.3 (0.3)	-	172 (11)	-	-	-	-	-	-
+12729	Q97W02	E100A K148A E235A R240A(Based on UniProt and PDB)	2RDI	2rdi_A:E100A 2rdi_A:K148A 2rdi_A:E235A 2rdi_A:R240A	7.5	-	CD	Thermal	90 (0.2)	-	163 (5)	-	-	-	-	-	-
+12748	P54178	W55A W120A F61W (Based on UniProt)	1XZO	1xzo_A:W36A 1xzo_A:W101A 1xzo_A:F42W	7.0	-	CD	Thermal	34.7	-18	-	-	-	-	-	-	-
+12759	P54178	W55A W120A F61W (Based on UniProt)	1XZO	1xzo_A:W36A 1xzo_A:W101A 1xzo_A:F42W	7.0	-	CD	Thermal	56	-15.7	-	-	-	-	-	-	-
+13193	P0ABQ4	T113V E120P S138Y(Based on UniProt and PDB)	5dfr	5dfr_A:T113V 5dfr_A:E120P 5dfr_A:S138Y	7.8	-	DSC	Thermal	-	4.4	-	-	-	-	-	-	-
+13195	P0ABQ4	T68N Q108D E120P S138Y(Based on UniProt and PDB)	5dfr	5dfr_A:T68N 5dfr_A:Q108D 5dfr_A:E120P 5dfr_A:S138Y	7.8	-	DSC	Thermal	-	2.3	-	-	-	-	-	-	-
+13196	P0ABQ4	T68N Q108D T113V E120P S138Y(Based on UniProt and PDB)	5dfr	5dfr_A:T68N 5dfr_A:Q108D 5dfr_A:T113V 5dfr_A:E120P 5dfr_A:S138Y	7.8	-	DSC	Thermal	-	7.2	-	-	-	-	-	-	-
+13461	P21549	P11L I340M H83R(Based on UniProt and PDB)	1H0C	1h0c_A:P11L 1h0c_A:I340M 1h0c_A:H83R	7.4	-	DSC	Thermal	58.2	-11.8	235 (16)	-	-	-	-	-	-
+13462	P21549	P11L I340M G170R(Based on UniProt and PDB)	1H0C	1h0c_A:P11L 1h0c_A:I340M 1h0c_A:G170R	7.4	-	DSC	Thermal	75.5	5.5	459 (17)	-	-	-	-	-	-
+13463	P21549	P11L I340M R197Q(Based on UniProt and PDB)	1H0C	1h0c_A:P11L 1h0c_A:I340M 1h0c_A:R197Q	7.4	-	DSC	Thermal	77.9	7.9	401 (6)	-	-	-	-	-	-
+13464	P21549	P11L I340M I244T(Based on UniProt and PDB)	1H0C	1h0c_A:P11L 1h0c_A:I340M 1h0c_A:I244T	7.4	-	DSC	Thermal	75.8	5.8	402 (9)	-	-	-	-	-	-
+13465	P21549	P11L I340M A295T(Based on UniProt and PDB)	1H0C	1h0c_A:P11L 1h0c_A:I340M 1h0c_A:A295T	7.4	-	DSC	Thermal	77.5	7.5	500 (10)	-	-	-	-	-	-
+13466	P21549	P11L I340 M A368T(Based on UniProt and PDB)	1H0C	1h0c_A:P11L 1h0c_A:A368T	7.4	-	DSC	Thermal	76.5	6.5	439 (6)	-	-	-	-	-	-
+13475	P21549	S48H D52E I340M(Based on UniProt and PDB)	1H0C	1h0c_A:S48H 1h0c_A:D52E 1h0c_A:I340M	7.4	-	DSC	Thermal	89.5	19.5	315 (41)	-	-	-	-	-	-
+13476	P21549	S48H D52E V113A I340M(Based on UniProt and PDB)	1H0C	1h0c_A:S48H 1h0c_A:D52E 1h0c_A:V113A 1h0c_A:I340M	7.4	-	DSC	Thermal	91	21	613 (20)	-	-	-	-	-	-
+13477	P21549	Q23R S48H D52E I340M(Based on UniProt and PDB)	1H0C	1h0c_A:Q23R 1h0c_A:S48H 1h0c_A:D52E 1h0c_A:I340M	7.4	-	DSC	Thermal	92	22	609 (5)	-	-	-	-	-	-
+13478	P21549	Q23R S48H D52E V113A I340M(Based on UniProt and PDB)	1H0C	1h0c_A:Q23R 1h0c_A:S48H 1h0c_A:D52E 1h0c_A:V113A 1h0c_A:I340M	7.4	-	DSC	Thermal	93.7	23.7	638 (31)	-	-	-	-	-	-
+13496	P22629	V79T T100R L133T W144A V149R (Based on UniProt)	1SWE	1swe_A:V55T 1swe_A:T76R 1swe_A:L109T 1swe_A:W120A 1swe_A:V125R	7.4	-	CD	Thermal	31 (1)	-	-	-	-	-	-	-	-
+13497	P22629	E75C V79T T100R Y107C L133T W144A V149R (Based on UniProt)	1SWE	1swe_A:E51C 1swe_A:V55T 1swe_A:T76R 1swe_A:Y83C 1swe_A:L109T 1swe_A:W120A 1swe_A:V125R	7.4	-	CD	Thermal	36.8 (0.3)	-	-	-	-	-	-	-	-
+13498	P22629	S76C V79T T100R Y107C L133T W144A V149R (Based on UniProt)	1SWE	1swe_A:S52C 1swe_A:V55T 1swe_A:T76R 1swe_A:Y83C 1swe_A:L109T 1swe_A:W120A 1swe_A:V125R	7.4	-	CD	Thermal	37.6 (1.3)	-	-	-	-	-	-	-	-
+13499	P22629	S76C V79T T100R K104C Y107C N109C L133T W144A V149R (Based on UniProt)	1SWE	1swe_A:S52C 1swe_A:V55T 1swe_A:T76R 1swe_A:K80C 1swe_A:Y83C 1swe_A:N85C 1swe_A:L109T 1swe_A:W120A 1swe_A:V125R	7.4	-	CD	Thermal	37.7 (1)	-	-	-	-	-	-	-	-
+13500	P22629	S76C V79T G122E T100R Y107C L133T W144A V149R (Based on UniProt)	1SWE	1swe_A:S52C 1swe_A:V55T 1swe_A:G98E 1swe_A:T76R 1swe_A:Y83C 1swe_A:L109T 1swe_A:W120A 1swe_A:V125R	7.4	-	CD	Thermal	37.7 (0.6)	-	-	-	-	-	-	-	-
+13501	P22629	S76C V79T T100R Y107C L133T T135E W144A V149R (Based on UniProt)	1SWE	1swe_A:S52C 1swe_A:V55T 1swe_A:T76R 1swe_A:Y83C 1swe_A:L109T 1swe_A:T111E 1swe_A:W120A 1swe_A:V125R	7.4	-	CD	Thermal	42.9 (0.5)	-	-	-	-	-	-	-	-
+13502	P22629	S76C V79T G122E T100R Y107C L133T T135E W144A V149R (Based on UniProt)	1SWE	1swe_A:S52C 1swe_A:V55T 1swe_A:G98E 1swe_A:T76R 1swe_A:Y83C 1swe_A:L109T 1swe_A:T111E 1swe_A:W120A 1swe_A:V125R	7.4	-	CD	Thermal	43.6 (0.6)	-	-	-	-	-	-	-	-
+13503	P22629	S76C V79T A96K G122E T100R Y107C A113R T115E S117R L133T W144A V149R (Based on UniProt)	1SWE	1swe_A:S52C 1swe_A:V55T 1swe_A:A72K 1swe_A:G98E 1swe_A:T76R 1swe_A:Y83C 1swe_A:A89R 1swe_A:T91E 1swe_A:S93R 1swe_A:L109T 1swe_A:W120A 1swe_A:V125R	7.4	-	CD	Thermal	46.7 (0.2)	-	-	-	-	-	-	-	-
+13504	P22629	S76C V79T A96K G122E T100R Y107C A113R T115E S117R W144A V149R (Based on UniProt)	1SWE	1swe_A:S52C 1swe_A:V55T 1swe_A:A72K 1swe_A:G98E 1swe_A:T76R 1swe_A:Y83C 1swe_A:A89R 1swe_A:T91E 1swe_A:S93R 1swe_A:W120A 1swe_A:V125R	7.4	-	CD	Thermal	41.4 (0.9)	-	-	-	-	-	-	-	-
+13505	P22629	S76C A96K G122E T100R Y107C A113R T115E S117R W144A V149R (Based on UniProt)	1SWE	1swe_A:S52C 1swe_A:A72K 1swe_A:G98E 1swe_A:T76R 1swe_A:Y83C 1swe_A:A89R 1swe_A:T91E 1swe_A:S93R 1swe_A:W120A 1swe_A:V125R	7.4	-	CD	Thermal	40.2 (0.2)	-	-	-	-	-	-	-	-
+13506	P22629	S76C A96K G122E T100R Y107C A113R T115E S117R W144A V149C (Based on UniProt)	1SWE	1swe_A:S52C 1swe_A:A72K 1swe_A:G98E 1swe_A:T76R 1swe_A:Y83C 1swe_A:A89R 1swe_A:T91E 1swe_A:S93R 1swe_A:W120A 1swe_A:V125C	7.4	-	CD	Thermal	47 (0.1)	-	-	-	-	-	-	-	-
+13557	P81180	P51G S11A S20A(Based on UniProt and PDB)	1IIY	1iiy_A:P51G 1iiy_A:S11A 1iiy_A:S20A	6.0	-	CD	Thermal	69.6 (0.3)	3	-	-	-	-	-	-	-
+13558	P81180	P51G S11V S20A(Based on UniProt and PDB)	1IIY	1iiy_A:P51G 1iiy_A:S11V 1iiy_A:S20A	6.0	-	CD	Thermal	69.8 (0.2)	3.2	-	-	-	-	-	-	-
+13559	P81180	P51G S11I S20A(Based on UniProt and PDB)	1IIY	1iiy_A:P51G 1iiy_A:S11I 1iiy_A:S20A	6.0	-	CD	Thermal	71.1 (0.1)	4.5	-	-	-	-	-	-	-
+13560	P81180	P51G S11V S20A T61V(Based on UniProt and PDB)	1IIY	1iiy_A:P51G 1iiy_A:S11V 1iiy_A:S20A 1iiy_A:T61V	6.0	-	CD	Thermal	74.5 (0.2)	7.9	-	-	-	-	-	-	-
+13561	P81180	P51G S11A S20A T61I(Based on UniProt and PDB)	1IIY	1iiy_A:P51G 1iiy_A:S11A 1iiy_A:S20A 1iiy_A:T61I	6.0	-	CD	Thermal	75.8 (0.3)	9.2	-	-	-	-	-	-	-
+13640	P01241	A39V T53V S105A V116I G187M S210A (Based on UniProt)	1a22	1a22_A:A13V 1a22_A:T27V 1a22_A:S79A 1a22_A:V90I 1a22_A:G161M 1a22_A:S184A	5.5	-	CD	Thermal	>98	16	-	-	-	-	-	-	-
+13641	P01241	A39V T53V S81A S105A S111A V116I G187M S210A (Based on UniProt)	1a22	1a22_A:A13V 1a22_A:T27V 1a22_A:S55A 1a22_A:S79A 1a22_A:S85A 1a22_A:V90I 1a22_A:G161M 1a22_A:S184A	5.5	-	CD	Thermal	>95	13	-	-	-	-	-	-	-
+13660	P36217	T35C T61C K91R (Based on UniProt)	1enx	1enx_A:T2C 1enx_A:T28C 1enx_A:K58R	5.0	-	DSC	Thermal	72.5	11.1	-	-	-	-	-	-	-
+13685	-	-	-	-	5.0	-	CD	Thermal	74.5	-	-	-	-	-	-	-	-
+13717	P19515	T112K T116I E324I(Based on UniProt and PDB)	6QPR	6qpr_A:T112K 6qpr_A:T116I 6qpr_A:E324I	8.0	-	DSF	Thermal	68.1 (0.4)	9.4	-	-	-	-	-	-	-
+13718	P19515	T112K T116I E324I S150C N157C(Based on UniProt and PDB)	6QPR	6qpr_A:T112K 6qpr_A:T116I 6qpr_A:E324I 6qpr_A:S150C 6qpr_A:N157C	8.0	-	DSF	Thermal	69.3 (0.3)	10.6	-	-	-	-	-	-	-
+13719	P19515	T112K T116I E324I V283C D332C(Based on UniProt and PDB)	6QPR	6qpr_A:T112K 6qpr_A:T116I 6qpr_A:E324I 6qpr_A:V283C 6qpr_A:D332C	8.0	-	DSF	Thermal	72.3 (0.4)	13.6	-	-	-	-	-	-	-
+13720	P19515	T112K T116I E324I S150C N157C V283C D332C(Based on UniProt and PDB)	6QPR	6qpr_A:T112K 6qpr_A:T116I 6qpr_A:E324I 6qpr_A:S150C 6qpr_A:N157C 6qpr_A:V283C 6qpr_A:D332C	8.0	-	DSF	Thermal	73 (0.3)	14.3	-	-	-	-	-	-	-
+13833	P74367	P110G I111G P112G (Based on UniProt)	2KMF	2kmf_A:P86G 2kmf_A:I87G 2kmf_A:P88G	7.0	-	CD	Thermal	43.3 (0.4)	-	-	-	-50.4 (4.78)	-	-	-	-
+13886	A0A410ZNC6	F184L P250L A341S (Based on UniProt)	-	-	7.5	-	Fluorescence	Thermal	35.6	5.6	-	-	-	-	-	-	-
+14084	P69488	S48K H72K S82K Q87K T88R(Based on UniProt and PDB)	1NAQ	1naq_A:S48K 1naq_A:H72K 1naq_A:S82K 1naq_A:Q87K 1naq_A:T88R	9.0	-	DSC	Thermal	136.8 (0.9)	51.2	415.63 (14.1)	-	-	-	-	-	-
+14183	P04150	A605V M752T V702A(Based on UniProt and PDB)	1M2Z	1m2z_A:A605V 1m2z_A:M752T 1m2z_A:V702A	7.8	-	CD	Thermal	53.6	-	-	-	-	-	-	-	-
+14184	P04150	A605V M752T E705G(Based on UniProt and PDB)	1M2Z	1m2z_A:A605V 1m2z_A:M752T 1m2z_A:E705G	7.8	-	CD	Thermal	52.9	-	-	-	-	-	-	-	-
+14185	P04150	A605V M752T V702A E705G(Based on UniProt and PDB)	1M2Z	1m2z_A:A605V 1m2z_A:M752T 1m2z_A:V702A 1m2z_A:E705G	7.8	-	CD	Thermal	54.4	-	-	-	-	-	-	-	-
+14188	P04150	F602S A605V M752T(Based on UniProt and PDB)	1M2Z	1m2z_A:F602S 1m2z_A:A605V 1m2z_A:M752T	7.8	-	CD	Thermal	56	-	-	-	-	-	-	-	-
+14189	P04150	F602S A605V M752T M560K(Based on UniProt and PDB)	1M2Z	1m2z_A:F602S 1m2z_A:A605V 1m2z_A:M752T 1m2z_A:M560K	7.8	-	CD	Thermal	49.9	-	-	-	-	-	-	-	-
+14190	P04150	F602S A605V M752T V702A E705G(Based on UniProt and PDB)	1M2Z	1m2z_A:F602S 1m2z_A:A605V 1m2z_A:M752T 1m2z_A:V702A 1m2z_A:E705G	7.8	-	CD	Thermal	58.6	-	-	-	-	-	-	-	-
+14373	P69168	T31I T119I D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:D209Y	7.0	-	CD	Thermal	57.1 (0.1)	9.1	-	-	138.24	-	-	-	-
+14374	P69168	T31I T119I Q147H D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:Q129H 1g3p_A:D209Y	7.0	-	CD	Thermal	61.2 (0.1)	13.2	-	-	153.6	-	-	-	-
+14378	P69168	T31I T119I D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:D209Y	7.0	-	CD	Thermal	58.2 (0.2)	9.7	-	-	113.04	-	-	-	-
+14379	P69168	T31I T119I Q147H D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:Q129H 1g3p_A:D209Y	7.0	-	CD	Thermal	61.8 (0.1)	13.3	-	-	155.52	-	-	-	-
+14383	P69168	T31I T119I D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:D209Y	7.0	-	DSC	Thermal	58.1 (0.1)	9.2	-	-	133.68	-	-	-	-
+14384	P69168	T31I T119I Q147H D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:Q129H 1g3p_A:D209Y	7.0	-	DSC	Thermal	62.2 (0.1)	13.3	-	-	159.6	-	-	-	-
+14388	P69168	T31I T119I D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:D209Y	7.0	-	CD	Thermal	66.4 (0.1)	6.6	-	-	54.72	-	-	-	-
+14389	P69168	T31I T119I Q147H D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:Q129H 1g3p_A:D209Y	7.0	-	CD	Thermal	66 (0.3)	6.2	-	-	54.72	-	-	-	-
+14394	P69168	T31I T119I D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:D209Y	7.0	-	CD	Thermal	67.6 (0.3)	7.6	-	-	70.08	-	-	-	-
+14395	P69168	T31I T119I Q147H D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:Q129H 1g3p_A:D209Y	7.0	-	CD	Thermal	68.6 (0.4)	8.6	-	-	80.64	-	-	-	-
+14399	P69168	T31I T119I D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:D209Y	7.0	-	DSC	Thermal	67 (0.1)	5.2	-	-	64.56	-	-	-	-
+14400	P69168	T31I T119I Q147H D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:Q129H 1g3p_A:D209Y	7.0	-	DSC	Thermal	68.1 (0.1)	6.3	-	-	70.56	-	-	-	-
+14406	P32081	M1R E3K K65I(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I	7.0	-	CD	Thermal	83.7	29.9	66.72	-	-	-	5.02	-	-
+14407	P32081	M1R E3K E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:E66K	7.0	-	CD	Thermal	61.1	7.3	39.84	-	-	-	1.56	-	-
+14408	P32081	M1R K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	75.7	21.9	55.68	-	-	-	3.58	-	-
+14409	P32081	M1R E3K K65I E66L(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66L	7.0	-	CD	Thermal	85	31.2	57.84	-	-	-	4.82	-	-
+14410	P32081	M1R E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	74.7	20.9	51.36	-	-	-	3.38	-	-
+14412	P32081	L2R E3V A46L T64R E66V A67G(Based on UniProt and PDB)	1csp	1csp_A:L2R 1csp_A:E3V 1csp_A:A46L 1csp_A:T64R 1csp_A:E66V 1csp_A:A67G	7.0	-	CD	Thermal	82.2	28.4	57.12	-	-	-	4.56	-	-
+14413	P32081	L2R E3V E66V(Based on UniProt and PDB)	1csp	1csp_A:L2R 1csp_A:E3V 1csp_A:E66V	7.0	-	CD	Thermal	70.1	16.3	51.12	-	-	-	2.69	-	-
+14414	P32081	L2R E3V T64R E66V(Based on UniProt and PDB)	1csp	1csp_A:L2R 1csp_A:E3V 1csp_A:T64R 1csp_A:E66V	7.0	-	CD	Thermal	75.1	21.3	57.12	-	-	-	3.29	-	-
+14429	P32081	E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	71.8	18	48.24	-	-	-	2.95	-	-
+14430	P32081	E3R A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	74.5	20.7	54.72	-	-	-	3.38	-	-
+14431	P32081	E3V T64R E66V(Based on UniProt and PDB)	1csp	1csp_A:E3V 1csp_A:T64R 1csp_A:E66V	7.0	-	CD	Thermal	78.1	24.3	60.24	-	-	-	3.96	-	-
+14432	P32081	E3R A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	70.8	17	48	-	-	-	2.81	-	-
+14433	P32081	E3V A46L T64R E66V A67G(Based on UniProt and PDB)	1csp	1csp_A:E3V 1csp_A:A46L 1csp_A:T64R 1csp_A:E66V 1csp_A:A67G	7.0	-	CD	Thermal	85.6	31.8	64.08	-	-	-	5.14	-	-
+14434	P32081	V20I E43N A46K S48K E66L(Based on UniProt and PDB)	1csp	1csp_A:V20I 1csp_A:E43N 1csp_A:A46K 1csp_A:S48K 1csp_A:E66L	7.0	-	CD	Thermal	69.3	15.5	51.12	-	-	-	2.62	-	-
+14436	P32081	E43G A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43G 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	70.7	16.9	56.4	-	-	-	2.83	-	-
+14437	P32081	E43K A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43K 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	71.2	17.4	53.76	-	-	-	2.9	-	-
+14438	P32081	E43S A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	69.4	15.6	54.72	-	-	-	2.62	-	-
+14439	P32081	E43S A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	69.9	16.1	52.8	-	-	-	2.71	-	-
+14445	P32081	A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	77	23.2	55.44	-	-	-	3.77	-	-
+14460	P32081	M1R E3K K65I(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I	7.0	-	CD	Thermal	83.7	29.9	66.72	-	-	-	1.97	-	-
+14461	P32081	M1R E3K E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:E66K	7.0	-	CD	Thermal	61.1	7.3	39.84	-	-	-	0.86	-	-
+14462	P32081	M1R K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	75.7	21.9	55.68	-	-	-	1.13	-	-
+14463	P32081	M1R E3K K65I E66L(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66L	7.0	-	CD	Thermal	85	31.2	57.84	-	-	-	1.37	-	-
+14464	P32081	M1R E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	74.7	20.9	51.36	-	-	-	1.46	-	-
+14466	P32081	L2R E3V A46L T64R E66V A67G(Based on UniProt and PDB)	1csp	1csp_A:L2R 1csp_A:E3V 1csp_A:A46L 1csp_A:T64R 1csp_A:E66V 1csp_A:A67G	7.0	-	CD	Thermal	82.2	28.4	57.12	-	-	-	1.87	-	-
+14467	P32081	L2R E3V E66V(Based on UniProt and PDB)	1csp	1csp_A:L2R 1csp_A:E3V 1csp_A:E66V	7.0	-	CD	Thermal	70.1	16.3	51.12	-	-	-	1.58	-	-
+14468	P32081	L2R E3V T64R E66V(Based on UniProt and PDB)	1csp	1csp_A:L2R 1csp_A:E3V 1csp_A:T64R 1csp_A:E66V	7.0	-	CD	Thermal	75.1	21.3	57.12	-	-	-	1.8	-	-
+14483	P32081	E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	71.8	18	48.24	-	-	-	1.37	-	-
+14484	P32081	E3R A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	74.5	20.7	54.72	-	-	-	2.21	-	-
+14485	P32081	E3V T64R E66V(Based on UniProt and PDB)	1csp	1csp_A:E3V 1csp_A:T64R 1csp_A:E66V	7.0	-	CD	Thermal	78.1	24.3	60.24	-	-	-	1.8	-	-
+14486	P32081	E3R A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	70.8	17	48	-	-	-	1.13	-	-
+14487	P32081	E3V A46L T64R E66V A67G(Based on UniProt and PDB)	1csp	1csp_A:E3V 1csp_A:A46L 1csp_A:T64R 1csp_A:E66V 1csp_A:A67G	7.0	-	CD	Thermal	85.6	31.8	64.08	-	-	-	1.94	-	-
+14488	P32081	V20I E43N A46K S48K E66L(Based on UniProt and PDB)	1csp	1csp_A:V20I 1csp_A:E43N 1csp_A:A46K 1csp_A:S48K 1csp_A:E66L	7.0	-	CD	Thermal	69.3	15.5	51.12	-	-	-	1.37	-	-
+14490	P32081	E43G A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43G 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	70.7	16.9	56.4	-	-	-	1.73	-	-
+14491	P32081	E43K A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43K 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	71.2	17.4	53.76	-	-	-	1.44	-	-
+14492	P32081	E43S A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	69.4	15.6	54.72	-	-	-	1.58	-	-
+14493	P32081	E43S A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	69.9	16.1	52.8	-	-	-	1.58	-	-
+14499	P32081	A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	77	23.2	55.44	-	-	-	1.73	-	-
+14514	P32081	M1R E3K K65I(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I	7.0	-	CD	Thermal	83.7	29.9	66.72	-	-	-	3.05	-	-
+14515	P32081	M1R E3K E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:E66K	7.0	-	CD	Thermal	61.1	7.3	39.84	-	-	-	0.7	-	-
+14516	P32081	M1R K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	75.7	21.9	55.68	-	-	-	2.45	-	-
+14517	P32081	M1R E3K K65I E66L(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66L	7.0	-	CD	Thermal	85	31.2	57.84	-	-	-	3.46	-	-
+14518	P32081	M1R E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	74.7	20.9	51.36	-	-	-	1.92	-	-
+14520	P32081	L2R E3V A46L T64R E66V A67G(Based on UniProt and PDB)	1csp	1csp_A:L2R 1csp_A:E3V 1csp_A:A46L 1csp_A:T64R 1csp_A:E66V 1csp_A:A67G	7.0	-	CD	Thermal	82.2	28.4	57.12	-	-	-	2.69	-	-
+14521	P32081	L2R E3V E66V(Based on UniProt and PDB)	1csp	1csp_A:L2R 1csp_A:E3V 1csp_A:E66V	7.0	-	CD	Thermal	70.1	16.3	51.12	-	-	-	1.1	-	-
+14522	P32081	L2R E3V T64R E66V(Based on UniProt and PDB)	1csp	1csp_A:L2R 1csp_A:E3V 1csp_A:T64R 1csp_A:E66V	7.0	-	CD	Thermal	75.1	21.3	57.12	-	-	-	1.49	-	-
+14536	P32081	E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	71.8	19.4	48.24	-	-	-	1.58	-	-
+14537	P32081	E3R A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	74.5	18	54.72	-	-	-	1.18	-	-
+14538	P32081	E3V T64R E66V(Based on UniProt and PDB)	1csp	1csp_A:E3V 1csp_A:T64R 1csp_A:E66V	7.0	-	CD	Thermal	78.1	20.7	60.24	-	-	-	2.16	-	-
+14539	P32081	E3R A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	70.8	24.3	48	-	-	-	1.68	-	-
+14540	P32081	E3V A46L T64R E66V A67G(Based on UniProt and PDB)	1csp	1csp_A:E3V 1csp_A:A46L 1csp_A:T64R 1csp_A:E66V 1csp_A:A67G	7.0	-	CD	Thermal	85.6	17	64.08	-	-	-	3.19	-	-
+14541	P32081	V20I E43N A46K S48K E66L(Based on UniProt and PDB)	1csp	1csp_A:V20I 1csp_A:E43N 1csp_A:A46K 1csp_A:S48K 1csp_A:E66L	7.0	-	CD	Thermal	69.3	31.8	51.12	-	-	-	1.25	-	-
+14543	P32081	E43G A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43G 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	70.7	0.9	56.4	-	-	-	1.1	-	-
+14544	P32081	E43K A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43K 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	71.2	16.9	53.76	-	-	-	1.46	-	-
+14545	P32081	E43S A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	69.4	17.4	54.72	-	-	-	1.03	-	-
+14546	P32081	E43S A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	69.9	15.6	52.8	-	-	-	1.13	-	-
+14552	P32081	A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	77	15.9	55.44	-	-	-	2.04	-	-
+14563	P32081	E43G A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43G 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	70.7	16.9	56.4	-	-	-	2.83	-	-
+14564	P32081	E43K A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43K 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	71.2	17.4	53.76	-	-	-	2.9	-	-
+14565	P32081	E43S A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	69.4	15.6	54.72	-	-	-	2.62	-	-
+14566	P32081	E43S A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	69.9	16.1	52.8	-	-	-	2.71	-	-
+14576	P32081	M1R E3K K65I(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I	7.0	-	CD	Thermal	83.7	29.9	66.72	-	-	-	5.02	-	-
+14577	P32081	M1R E3K E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:E66K	7.0	-	CD	Thermal	61.1	7.3	39.84	-	-	-	1.56	-	-
+14578	P32081	M1R K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	75.7	21.9	55.68	-	-	-	3.58	-	-
+14579	P32081	M1R E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	74.7	20.9	51.36	-	-	-	3.38	-	-
+14580	P32081	M1R E3K K65I E66L(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66L	7.0	-	CD	Thermal	85	31.2	57.84	-	-	-	4.82	-	-
+14582	P32081	E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	71.8	18	48.24	-	-	-	2.95	-	-
+14583	P32081	E3R A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	74.5	20.7	54.72	-	-	-	3.38	-	-
+14584	P32081	E3R A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	70.8	17	48	-	-	-	2.81	-	-
+14587	P32081	A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	77	23.2	55.44	-	-	-	3.77	-	-
+14589	P32081	E43G A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43G 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	70.7	16.9	56.4	-	-	-	1.73	-	-
+14590	P32081	E43K A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43K 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	71.2	17.4	53.76	-	-	-	1.44	-	-
+14591	P32081	E43S A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	69.4	15.6	54.72	-	-	-	1.58	-	-
+14592	P32081	E43S A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	69.9	16.1	52.8	-	-	-	1.58	-	-
+14602	P32081	M1R E3K K65I(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I	7.0	-	CD	Thermal	83.7	29.9	66.72	-	-	-	1.97	-	-
+14603	P32081	M1R E3K E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:E66K	7.0	-	CD	Thermal	61.1	7.3	39.84	-	-	-	0.86	-	-
+14604	P32081	M1R K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	75.7	21.9	55.68	-	-	-	1.13	-	-
+14605	P32081	M1R E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	74.7	20.9	51.36	-	-	-	1.46	-	-
+14606	P32081	M1R E3K K65I E66L(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66L	7.0	-	CD	Thermal	85	31.2	57.84	-	-	-	1.37	-	-
+14608	P32081	E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	71.8	18	48.24	-	-	-	1.37	-	-
+14609	P32081	E3R A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	74.5	20.7	54.72	-	-	-	2.21	-	-
+14610	P32081	E3R A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	70.8	17	48	-	-	-	1.13	-	-
+14613	P32081	A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	77	23.2	55.44	-	-	-	1.73	-	-
+14615	P32081	E43G A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43G 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	70.7	16.9	56.4	-	-	-	1.1	-	-
+14616	P32081	E43K A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43K 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	71.2	17.4	53.76	-	-	-	1.46	-	-
+14617	P32081	E43S A46K S48K(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48K	7.0	-	CD	Thermal	69.4	15.6	54.72	-	-	-	1.03	-	-
+14618	P32081	E43S A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E43S 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	69.9	16.1	52.8	-	-	-	1.13	-	-
+14628	P32081	M1R E3K K65I(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I	7.0	-	CD	Thermal	83.7	29.9	66.72	-	-	-	3.05	-	-
+14629	P32081	M1R E3K E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:E66K	7.0	-	CD	Thermal	61.1	7.3	39.84	-	-	-	0.7	-	-
+14630	P32081	M1R K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	75.7	21.9	55.68	-	-	-	2.45	-	-
+14631	P32081	M1R E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	74.7	20.9	51.36	-	-	-	1.92	-	-
+14632	P32081	M1R E3K K65I E66L(Based on UniProt and PDB)	1csp	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66L	7.0	-	CD	Thermal	85	31.2	57.84	-	-	-	3.46	-	-
+14634	P32081	E3K K65I E66K(Based on UniProt and PDB)	1csp	1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	-	CD	Thermal	71.8	18	48.24	-	-	-	1.58	-	-
+14635	P32081	E3R A46K S48R(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R	7.0	-	CD	Thermal	74.5	20.7	54.72	-	-	-	1.18	-	-
+14636	P32081	E3R A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	70.8	17	48	-	-	-	1.68	-	-
+14639	P32081	A46K S48R E66L(Based on UniProt and PDB)	1csp	1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	-	CD	Thermal	77	23.2	55.44	-	-	-	2.04	-	-
+14672	P03661	R47W N57K T74I (Based on UniProt)	2G3P	2g3p_A:R29W 2g3p_A:N39K 2g3p_A:T56I	7.0	-	CD	Thermal	53.5	5	182.88	-	-	-	-	-	-
+14673	P03661	R47W N57K T74I (Based on UniProt)	2G3P	2G3P_A:R29W 2G3P_A:N39K 2G3P_A:T56I 2G3P_A:L198P	7.0	-	CD	Thermal	57.6	9.1	189.6	-	-	-	-	-	-
+14676	P03661	R47W N57K F217L (Based on UniProt)	2G3P	2g3p_A:R29W 2g3p_A:N39K 2g3p_A:F199L	7.0	-	CD	Thermal	56.4	7.9	165.36	-	-	-	-	-	-
+14679	P03661	R47W N57K G73A I78V F217L (Based on UniProt)	2G3P	2g3p_A:R29W 2g3p_A:N39K 2g3p_A:G55A 2g3p_A:I60V 2g3p_A:F199L	7.0	-	CD	Thermal	58.1	9.6	145.68	-	-	-	-	-	-
+14680	P03661	N33G R47W N57K G73A F217L (Based on UniProt)	2G3P	2g3p_A:N15G 2g3p_A:R29W 2g3p_A:N39K 2g3p_A:G55A 2g3p_A:F199L	7.0	-	CD	Thermal	60.1	11.6	160.8	-	-	-	-	-	-
+14681	P03661	N33G R47W N57K T74I N156G F217L S225L (Based on UniProt)	2G3P	2g3p_A:N15G 2g3p_A:R29W 2g3p_A:N39K 2g3p_A:T56I 2g3p_A:N138G 2g3p_A:F199L 2g3p_A:S207L	7.0	-	CD	Thermal	66	17.5	186.48	-	-	-	-	-	-
+14682	P03661	N33G R47W N57K G73A T74I I78V N156G F217L S225L (Based on UniProt)	2G3P	2g3p_A:N15G 2g3p_A:R29W 2g3p_A:N39K 2g3p_A:G55A 2g3p_A:T56I 2g3p_A:I60V 2g3p_A:N138G 2g3p_A:F199L 2g3p_A:S207L	7.0	-	CD	Thermal	67	18.5	204.48	-	-	-	-	-	-
+14687	P03661	R47W N57K G73A (Based on UniProt)	2G3P	2g3p_A:R29W 2g3p_A:N39K 2g3p_A:G55A	7.0	-	CD	Thermal	67.9	5.5	41.28	-	-	-	-	-	-
+14688	P03661	N33G R47W N57K G73A (Based on UniProt)	2G3P	2g3p_A:N15G 2g3p_A:R29W 2g3p_A:N39K 2g3p_A:G55A	7.0	-	CD	Thermal	77.5	15.1	45.12	-	-	-	-	-	-
+14689	P03661	N33G R47W N57K G73A T74I I78V (Based on UniProt)	2G3P	2g3p_A:N15G 2g3p_A:R29W 2g3p_A:N39K 2g3p_A:G55A 2g3p_A:T56I 2g3p_A:I60V	7.0	-	CD	Thermal	79	16.6	41.52	-	-	-	-	-	-
+14693	P03661	Q147H N156G F217L (Based on UniProt)	2G3P	2g3p_A:Q129H 2g3p_A:N138G 2g3p_A:F199L	7.0	-	CD	Thermal	40	5.4	75.36	-	-	-	-	-	-
+14694	P03661	Q129H N138G L198P(Based on UniProt and PDB)	2G3P	2g3p_A:Q129H 2g3p_A:N138G 2g3p_A:L198P	7.0	-	CD	Thermal	49	14.4	77.04	-	-	-	-	-	-
+14695	P03661	Q147H N156G F217L (Based on UniProt)	2G3P	2g3p_A:Q129H 2g3p_A:N138G 2g3p_A:F199L	7.0	-	CD	Thermal	47.7	13.1	84.96	-	-	-	-	-	-
+14721	P03661	R47W N57K T74I (Based on UniProt)	2G3P	2g3p_A:R29W 2g3p_A:N39K 2g3p_A:T56I	7.0	-	CD	Thermal	67.1	7.1	28.8	-	-	-	-	-	-
+14722	P03661	R47W N57K T74I L198P (Based on UniProt)	2G3P	2G3P_A:R29W 2G3P_A:N39K 2G3P_A:T56I 2G3P_A:L198P	7.0	-	CD	Thermal	68.4	8.4	24.96	-	-	-	-	-	-
+14725	P03661	R47W N57K F217L (Based on UniProt)	2G3P	2g3p_A:R29W 2g3p_A:N39K 2g3p_A:F199L	7.0	-	CD	Thermal	64.7	4.7	47.28	-	-	-	-	-	-
+14728	P03661	R47W N57K G73A I78V F217L (Based on UniProt)	2G3P	2g3p_A:R29W 2g3p_A:N39K 2g3p_A:G55A 2g3p_A:I60V 2g3p_A:F199L	7.0	-	CD	Thermal	70.4	10.4	48.72	-	-	-	-	-	-
+14729	P03661	N33G R47W N57K G73A F217L (Based on UniProt)	2G3P	2g3p_A:N15G 2g3p_A:R29W 2g3p_A:N39K 2g3p_A:G55A 2g3p_A:F199L	7.0	-	CD	Thermal	75.2	15.2	40.08	-	-	-	-	-	-
+14730	P03661	N33G R47W N57K T74I N156G F217L S225L (Based on UniProt)	2G3P	2g3p_A:N15G 2g3p_A:R29W 2g3p_A:N39K 2g3p_A:T56I 2g3p_A:N138G 2g3p_A:F199L 2g3p_A:S207L	7.0	-	CD	Thermal	75.5	15.5	50.88	-	-	-	-	-	-
+14731	P03661	N33G R47W N57K G73A T74I I78V N156G F217L S225L (Based on UniProt)	2G3P	2g3p_A:N15G 2g3p_A:R29W 2g3p_A:N39K 2g3p_A:G55A 2g3p_A:T56I 2g3p_A:I60V 2g3p_A:N138G 2g3p_A:F199L 2g3p_A:S207L	7.0	-	CD	Thermal	78.7	18.7	32.4	-	-	-	-	-	-
+14737	-	3na9_H:V34I 3na9_H:G35S 3na9_H:E95Q (Based on PDB)	3NA9	3na9_H:V34I 3na9_H:G35S 3na9_H:E95Q	7.2	-	DSC	Thermal	75	10.3	-	-	-	-	-	-	-
+14738	-	3na9_H:V34I 3na9_H:G35S 3na9_H:F50R 3na9_H:A60S 3na9_H:Q66H (Based on PDB)	3NA9	3na9_H:V34I 3na9_H:G35S 3na9_H:F50R 3na9_H:A60S 3na9_H:Q66H	7.2	-	DSC	Thermal	76.2	11.5	-	-	-	-	-	-	-
+14739	-	3na9_H:V34I 3na9_H:G35S 3na9_H:F50R 3na9_H:E95Q 3na9_H:A60S 3na9_H:Q66H (Based on PDB)	3NA9	3na9_H:V34I 3na9_H:G35S 3na9_H:F50R 3na9_H:E95Q 3na9_H:A60S 3na9_H:Q66H	7.2	-	DSC	Thermal	76	11.3	-	-	-	-	-	-	-
+14741	-	3na9_H:V34I 3na9_H:G35S 3na9_H:E95Q (Based on PDB)	3NA9	3na9_H:V34I 3na9_H:G35S 3na9_H:E95Q	7.2	-	DSC	Thermal	74.9	10.9	-	-	-	-	-	-	-
+14742	-	3na9_H:V34I 3na9_H:G35S 3na9_H:F50R 3na9_H:E95Q 3na9_H:A60S 3na9_H:Q66H (Based on PDB)	3NA9	3na9_H:V34I 3na9_H:G35S 3na9_H:F50R 3na9_H:E95Q 3na9_H:A60S 3na9_H:Q66H	7.2	-	DSC	Thermal	75.6	11.6	-	-	-	-	-	-	-
+14743	-	3na9_H:V34I 3na9_H:G35S 3na9_H:E95Q 3na9_L:S95P (Based on PDB)	3NA9	3na9_H:V34I 3na9_H:G35S 3na9_H:E95Q 3na9_L:S95P	7.2	-	DSC	Thermal	76.6	12.6	-	-	-	-	-	-	-
+14751	Q58NA1	K94Q V95F R97N P98I T112A M113T(Based on UniProt and PDB)	3NEC	3nec_A:K94Q 3nec_A:V95F 3nec_A:R97N 3nec_A:P98I 3nec_A:T112A 3nec_A:M113T	7.5	-	CD	Thermal	62.2	9.1	-	-	-	-	-	-	-
+14782	P18614	1mhp_L:V29F 1mhp_L:M32I 1mhp_L:Y70F (Based on PDB)	1MHP	1mhp_L:V29F 1mhp_L:M32I 1mhp_L:Y70F	8.0	-	DSC	Thermal	75.6	-4.6	-43.2	-	-43.2	-	-	-	-
+14786	P18614	1mhp_L:V29I 1mhp_L:M32L 1mhp_L:Y70F (Based on PDB)	1MHP	1mhp_L:V29I 1mhp_L:M32L 1mhp_L:Y70F	8.0	-	DSC	Thermal	78.8	-1.4	-68.16	-	-39.84	-	-	-	-
+14787	P18614	1mhp_L:A25S 1mhp_L:V29L 1mhp_L:M32L 1mhp_L:Y70F (Based on PDB)	1MHP	1mhp_L:A25S 1mhp_L:V29L 1mhp_L:M32L 1mhp_L:Y70F	8.0	-	DSC	Thermal	77.5	-2.7	-45.6	-	-38.4	-	-	-	-
+14791	P18614	1mhp_H:A24S 1mhp_H:F29H 1mhp_H:M34F (Based on PDB)	1MHP	1mhp_H:A24S 1mhp_H:F29H 1mhp_H:M34F	8.0	-	DSC	Thermal	77.6	-2.6	-57.6	-	-35.28	-	-	-	-
+14792	P18614	1mhp_H:A24F 1mhp_H:F29M 1mhp_H:M34F (Based on PDB)	1MHP	1mhp_H:A24F 1mhp_H:F29M 1mhp_H:M34F	8.0	-	DSC	Thermal	77.5	-2.7	-31.44	-	-37.2	-	-	-	-
+14815	-	3hc0_H:S16E 3hc0_L:S46L (Based on PDB)	3HC0	3hc0_H:S16E 3hc0_L:S46L	7.4	-	DSC	Thermal	75	-	-	-	-	-	-	-	-
+14816	-	3hc0_H:S16E 3hc0_L:S46L (Based on PDB)	3HC0	3hc0_H:S16E 3hc0_L:S46L	7.4	-	DSC	Thermal	82	-	-	-	-	-	-	-	-
+14991	P01857	K243Q Q301L Q321R (Based on UniProt)	1OQO	1oqo_A:K360Q 1oqo_A:Q418L 1oqo_A:Q438R	7.4	-	DSC	Thermal	63.8 (0)	-1.9	-	-	-	-	-	-	-
+15010	P01857	K243Q Q301L Q321R (Based on UniProt)	1OQO	1oqo_A:K360Q 1oqo_A:Q418L 1oqo_A:Q438R	7.4	-	DSC	Thermal	86.5 (0.1)	8.4	-	-	-	-	-	-	-
+15029	P01857	K243Q Q301L Q321R (Based on UniProt)	1OQO	1oqo_A:K360Q 1oqo_A:Q418L 1oqo_A:Q438R	7.4	-	DSC	Thermal	91 (0.1)	8.4	-	-	-	-	-	-	-
+15037	Q8GB52	N142P I144P N377P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:N238P	8.6	-	CD	Thermal	68.8	6.9	-	-	-	-	-	-	-
+15038	Q8GB52	N142P I144P T404P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:T265P	8.6	-	CD	Thermal	69.2	7.3	-	-	-	-	-	-	-
+15039	Q8GB52	N142P I144P N377P T404P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:N238P 1sh7_A:T265P	8.6	-	CD	Thermal	72.1	10.2	-	-	-	-	-	-	-
+15046	Q8GB52	N142P I144P N377P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:N238P	8.6	-	DSC	Thermal	72 (0.4)	8.1	162.96 (8.88)	-	-	-	-	-	-
+15047	Q8GB52	N142P I144P T404P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:T265P	8.6	-	DSC	Thermal	73.6 (0.3)	9.7	167.28 (11.76)	-	-	-	-	-	-
+15048	Q8GB52	N142P I144P N377P T404P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:N238P 1sh7_A:T265P	8.6	-	DSC	Thermal	77.2 (0.2)	13.3	163.92 (3.84)	-	-	-	-	-	-
+15055	Q8GB52	N142P I144P N377P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:N238P	8.6	-	CD	Thermal	68.8 (0.2)	6.9	-	-	-	-	-	-	-
+15056	Q8GB52	N142P I144P T404P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:T265P	8.6	-	CD	Thermal	69.2 (0.2)	7.3	-	-	-	-	-	-	-
+15057	Q8GB52	N142P I144P N377P T404P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:N238P 1sh7_A:T265P	8.6	-	CD	Thermal	72.1 (0.3)	10.2	-	-	-	-	-	-	-
+15064	Q8GB52	N142P I144P N377P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:N238P	8.6	-	DSC	Thermal	72 (0.4)	8.1	162.18 (8.84)	-	-	-	-	-	-
+15065	Q8GB52	N142P I144P T404P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:T265P	8.6	-	DSC	Thermal	73.6 (0.3)	9.7	166.48 (11.70)	-	-	-	-	-	-
+15066	Q8GB52	N142P I144P N377P T404P (Based on UniProt)	1SH7	1sh7_A:N3P 1sh7_A:I5P 1sh7_A:N238P 1sh7_A:T265P	8.6	-	DSC	Thermal	77.2 (0.2)	13.3	163.13 (3.82)	-	-	-	-	-	-
+16455	R9S082	V67A V115A V14A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:V114A 1bvc_A:V13A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	0.97	-	-
+16456	R9S082	V115A L150A G130A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:L149A 1bvc_A:G129A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	1.4	-	-
+16457	R9S082	V115A H117A S118A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:H116A 1bvc_A:S117A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	-0.7	-	-
+16458	R9S082	V67A G130A G24A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:G129A 1bvc_A:G23A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	-1.1	-	-
+16459	R9S082	V67A G130A L150A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:G129A 1bvc_A:L149A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	-0.16	-	-
+16460	R9S082	V67A V115A G130A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:V114A 1bvc_A:G129A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	0.64	-	-
+16461	R9S082	V67A V115A V14A G24A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:V114A 1bvc_A:V13A 1bvc_A:G23A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	-1.48	-	-
+16462	R9S082	V115A G130A V67A L150A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:G129A 1bvc_A:V66A 1bvc_A:L149A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	0.72	-	-
+16463	R9S082	V67A G130A G24A V14A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:G129A 1bvc_A:G23A 1bvc_A:V13A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	-0.75	-	-
+16464	R9S082	V115A H117A S118A G24A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:H116A 1bvc_A:S117A 1bvc_A:G23A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	-0.48	-	-
+16465	R9S082	V115A V67A G130A L150A G24A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:V66A 1bvc_A:G129A 1bvc_A:L149A 1bvc_A:G23A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	0.31	-	-
+16466	R9S082	V67A V115A G130A L150A G24A V14A (Based on UniProt)	1BVC	1bvc_A:V66A 1bvc_A:V114A 1bvc_A:G129A 1bvc_A:L149A 1bvc_A:G23A 1bvc_A:V13A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	-0.37	-	-
+16467	R9S082	V115A H117A S118A V67A G130A L150A (Based on UniProt)	1BVC	1bvc_A:V114A 1bvc_A:H116A 1bvc_A:S117A 1bvc_A:V66A 1bvc_A:G129A 1bvc_A:L149A	9.6	82.2	CD	Thermal	-	-	-	-	-	-	-0.92	-	-
+16536	P06654	I232R T279E T270R (Based on UniProt)	1PGA	1pga_A:I6R 1pga_A:T53E 1pga_A:T44R	5.5	75	CD	Thermal	-	-	-	0.62	-	0.61	-	-	-
+16537	P06654	I232R T279E T270A (Based on UniProt)	1PGA	1pga_A:I6R 1pga_A:T53E 1pga_A:T44A	5.5	75	CD	Thermal	-	-	-	0.62	-	-	0.16	-	-
+16538	P06654	I232R T279A T270R (Based on UniProt)	1PGA	1pga_A:I6R 1pga_A:T53A 1pga_A:T44R	5.5	75	CD	Thermal	-	-	-	0.62	-	-	-0.74	-	-
+16539	P06654	I232R T279A T270A (Based on UniProt)	1PGA	1pga_A:I6R 1pga_A:T53A 1pga_A:T44A	5.5	75	CD	Thermal	-	-	-	0.62	-	-	-0.62	-	-
+16611	P00698	T58S I73V S109T (Based on UniProt)	4LYZ	4lyz_A:T40S 4lyz_A:I55V 4lyz_A:S91T	6.4	74	CD	Thermal	-	-	-	-	-	-	-0.3	-	-
+16619	P00698	T58S I73V S109A (Based on UniProt)	4LYZ	4lyz_A:T40S 4lyz_A:I55V 4lyz_A:S91A	6.4	74	CD	Thermal	-	-	-	-	-	-	-1.67	-	-
+16648	P32081	E3R T64V E66L(Based on UniProt and PDB)	1CSP	1csp_A:E3R 1csp_A:T64V 1csp_A:E66L	7.0	70	CD	Thermal	-	-	-	-	-	1	3.7	-	-
+16670	P41016	V64T L66E L66A(Based on UniProt and PDB)	1C9O	1c9o_A:V64T 1c9o_A:L66E 1c9o_A:L66A	7.0	70	CD	Thermal	-	-	-	-	-	0.74	-1.46	-	-
+16678	P32081	E3R T64V E66L(Based on UniProt and PDB)	1CSP	1csp_A:E3R 1csp_A:T64V 1csp_A:E66L	7.0	70	CD	Thermal	-	-	-	-	-	2.1	1.91	-	-
+16714	P32081	E43G A46K S48R(Based on UniProt and PDB)	1CSP	1csp_A:E43G 1csp_A:A46K 1csp_A:S48R	7.0	70	CD	Thermal	-	-	-	-	-	-	2.82	-	-
+16715	P32081	E43K A46K S48K(Based on UniProt and PDB)	1CSP	1csp_A:E43K 1csp_A:A46K 1csp_A:S48K	7.0	70	CD	Thermal	-	-	-	-	-	-	2.89	-	-
+16716	P32081	E43S A46K S48K(Based on UniProt and PDB)	1CSP	1csp_A:E43S 1csp_A:A46K 1csp_A:S48K	7.0	70	CD	Thermal	-	-	-	-	-	-	2.61	-	-
+16717	P32081	E43S A46K S48R(Based on UniProt and PDB)	1CSP	1csp_A:E43S 1csp_A:A46K 1csp_A:S48R	7.0	70	CD	Thermal	-	-	-	-	-	-	2.7	-	-
+16727	P32081	M1R E3K K65I(Based on UniProt and PDB)	1CSP	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I	7.0	70	CD	Thermal	-	-	-	-	-	-	5	-	-
+16728	P32081	M1R E3K E66K(Based on UniProt and PDB)	1CSP	1csp_A:M1R 1csp_A:E3K 1csp_A:E66K	7.0	70	CD	Thermal	-	-	-	-	-	-	1.55	-	-
+16729	P32081	M1R K65I E66K(Based on UniProt and PDB)	1CSP	1csp_A:M1R 1csp_A:K65I 1csp_A:E66K	7.0	70	CD	Thermal	-	-	-	-	-	-	3.56	-	-
+16730	P32081	M1R E3K K65I E66K(Based on UniProt and PDB)	1CSP	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	70	CD	Thermal	-	-	-	-	-	-	3.37	-	-
+16731	P32081	M1R E3K K65I E66L(Based on UniProt and PDB)	1CSP	1csp_A:M1R 1csp_A:E3K 1csp_A:K65I 1csp_A:E66L	7.0	70	CD	Thermal	-	-	-	-	-	-	4.8	-	-
+16733	P32081	E3K K65I E66K(Based on UniProt and PDB)	1CSP	1csp_A:E3K 1csp_A:K65I 1csp_A:E66K	7.0	70	CD	Thermal	-	-	-	-	-	-	2.94	-	-
+16734	P32081	E3R A46K S48R(Based on UniProt and PDB)	1CSP	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R	7.0	70	CD	Thermal	-	-	-	-	-	-	3.37	-	-
+16735	P32081	E3R A46K S48R E66L(Based on UniProt and PDB)	1CSP	1csp_A:E3R 1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	70	CD	Thermal	-	-	-	-	-	-	2.8	-	-
+16738	P32081	A46K S48R E66L(Based on UniProt and PDB)	1CSP	1csp_A:A46K 1csp_A:S48R 1csp_A:E66L	7.0	70	CD	Thermal	-	-	-	-	-	-	3.75	-	-
+16740	P06654	T242I T244I T251E V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25E 1pga_A:V29F	7.0	70	CD	Thermal	-	-	-	-	-	0.62	3.56	-	-
+16741	P06654	T242I T244I T251E V255Y (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25E 1pga_A:V29Y	7.0	70	CD	Thermal	-	-	-	-	-	0.6	3.54	-	-
+16742	P06654	T242I T244I V255W (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:V29W	7.0	70	CD	Thermal	-	-	-	-	-	0.24	3.18	-	-
+16743	P06654	T242L T244I T251E V255Y (Based on UniProt)	1PGA	1pga_A:T16L 1pga_A:T18I 1pga_A:T25E 1pga_A:V29Y	7.0	70	CD	Thermal	-	-	-	-	-	0.19	3.13	-	-
+16744	P06654	T242I T244I T251S V255Y (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25S 1pga_A:V29Y	7.0	70	CD	Thermal	-	-	-	-	-	0.02	2.96	-	-
+16745	P06654	T242I T244I T251E V255I (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25E 1pga_A:V29I	7.0	70	CD	Thermal	-	-	-	-	-	0.31	3.25	-	-
+16746	P06654	T242I T244I T251Q V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25Q 1pga_A:V29F	7.0	70	CD	Thermal	-	-	-	-	-	0.26	3.2	-	-
+16754	P96110	R191A E232A K194A (Based on UniProt)	1B26	1b26_A:R190A 1b26_A:E231A 1b26_A:K193A	7.0	69.5	CD	Thermal	-	-	-	-	-	-	0.2	-	-
+16796	P00720	K16E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:K16E 2lzm_A:K135E 2lzm_A:K147E	5.3	66.7	CD	Thermal	-	-	-	-	-	-	-1.7	-	-
+16797	P00720	R119E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:R119E 2lzm_A:K135E 2lzm_A:K147E	5.3	66.7	CD	Thermal	-	-	-	-	-	-	-1.6	-	-
+16798	P00720	K16E R119E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:K16E 2lzm_A:R119E 2lzm_A:K135E 2lzm_A:K147E	5.3	66.7	CD	Thermal	-	-	-	-	-	-	-1	-	-
+16815	P00720	S38D A82P N144D(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D	5.4	66.51	CD	Thermal	-	-	-	2.5	-	-	1.59	-	-
+16816	P00720	S38D A82P N144D I3L(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L	5.4	66.51	CD	Thermal	-	-	-	2.5	-	-	2.32	-	-
+16817	P00720	S38D A82P N144D I3L V131A(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A	5.4	66.51	CD	Thermal	-	-	-	2.5	-	-	2.57	-	-
+16818	P00720	S38D A82P N144D I3L V131A A41V(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A 2lzm_A:A41V	5.4	66.51	CD	Thermal	-	-	-	2.5	-	-	2.87	-	-
+16819	P00720	S38D A82P N144D I3L V131A A41V N116D(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A 2lzm_A:A41V 2lzm_A:N116D	5.4	66.51	CD	Thermal	-	-	-	2.5	-	-	3.57	-	-
+16967	P46937	A180R L190Y D194T (Based on UniProt)	1K9Q	1k9q_A:A20R 1k9q_A:L30Y 1k9q_A:D34T	7.0	65	Fluorescence	Thermal	-	-	-	-	-	1.46	2.54	-	-
+16970	P46937	A180R L190Y D194T (Based on UniProt)	1K9Q	1k9q_A:A20R 1k9q_A:L30Y 1k9q_A:D34T	7.0	65	Fluorescence	Thermal	-	-	-	-	-	0.99	1.98	-	-
+17108	P00720	L99F M102L V111I(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:V111I	5.7	64.89	CD	Thermal	-	-	-	-	-	-	-1.2	-	-
+17109	P00720	L99F M102L F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:F153L	5.7	64.89	CD	Thermal	-	-	-	-	-	-	-0.22	-	-
+17110	P00720	L99F V111I F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:V111I 2lzm_A:F153L	5.7	64.89	CD	Thermal	-	-	-	-	-	-	-0.43	-	-
+17111	P00720	L99F M102L V111I F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:V111I 2lzm_A:F153L	5.7	64.89	CD	Thermal	-	-	-	-	-	-	-0.65	-	-
+17236	P00099	F29A V35M F56Y E65Y (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y	3.6	62.6	DSC	Thermal	-	-	64.8	1	-	-	3.02	-	-
+17237	P00099	F29A V35M V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:V78I	3.6	62.6	DSC	Thermal	-	-	64.4	0.92	-	-	2.61	-	-
+17238	P00099	F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F34Y 451c_A:E43Y 451c_A:V78I	3.6	62.6	DSC	Thermal	-	-	67	0.95	-	-	2.21	-	-
+17239	P00099	F29A V35M F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y 451c_A:V78I	3.6	62.6	DSC	Thermal	-	-	71.1	1.12	-	-	4.55	-	-
+17284	P06654	T228Q I232A T270A (Based on UniProt)	1PGA	1pga_A:T2Q 1pga_A:I6A 1pga_A:T44A	5.2	60	CD	Thermal	-	-	-	0	-	6.54	-	-	-
+17310	P03034	Y89C G47A G49A (Based on UniProt)	1LRP	1lrp_A:Y88C 1lrp_A:G46A 1lrp_A:G48A	8.0	60	DSC	Thermal	-	-	-	-	-	-	4.2	-	-
+17318	P05798	D25K E74K S31P S42G S48P T76P Q77G(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G	7.0	60	CD	Thermal	-	-	-	1.68	-	-	5.3	-	-
+17319	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F	7.0	60	CD	Thermal	-	-	-	1.07	-	-	7.7	-	-
+17320	P05798	D25K E74K S31P S42G S48P T76P Q77G I92D(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:I92D	7.0	60	CD	Thermal	-	-	-	1.41	-	-	-9.6	-	-
+17321	P05798	D25K E74K S31P S42G S48P T76P Q77G D79A(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79A	7.0	60	CD	Thermal	-	-	-	1.15	-	-	2.2	-	-
+17322	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F I92D(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:I92D	7.0	60	CD	Thermal	-	-	-	1.41	-	-	-7.1	-	-
+17323	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F I70D(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:I70D	7.0	60	CD	Thermal	-	-	-	1.08	-	-	-9.5	-	-
+17324	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F I92A(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:I92A	7.0	60	CD	Thermal	-	-	-	1.33	-	-	-3.2	-	-
+17325	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F Y80A(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:Y80A	7.0	60	CD	Thermal	-	-	-	1.29	-	-	-4.8	-	-
+17334	P03069	V257I N264I V271N V278I (Based on UniProt)	2ZTA	2zta_A:V9I 2zta_A:N16I 2zta_A:V23N 2zta_A:V30I	7.0	60	CD	Thermal	-	-	-	-	-	9.9	-	-	-
+17335	P03069	V257I V271I V278I (Based on UniProt)	2ZTA	2zta_A:V9I 2zta_A:V23I 2zta_A:V30I	7.0	60	CD	Thermal	-	-	-	-	-	8.1	-	-	-
+17336	P03069	V257I N264I V271N V278N (Based on UniProt)	2ZTA	2zta_A:V9I 2zta_A:N16I 2zta_A:V23N 2zta_A:V30N	7.0	60	CD	Thermal	-	-	-	-	-	7.3	-	-	-
+17337	P03069	V257I V271N V278I (Based on UniProt)	2ZTA	2zta_A:V9I 2zta_A:V23N 2zta_A:V30I	7.0	60	CD	Thermal	-	-	-	-	-	5.5	-	-	-
+17338	P03069	V257I V271I V278N (Based on UniProt)	2ZTA	2zta_A:V9I 2zta_A:V23I 2zta_A:V30N	7.0	60	CD	Thermal	-	-	-	-	-	5.3	-	-	-
+17339	P03069	V257N N264I V271N V278I (Based on UniProt)	2ZTA	2zta_A:V9N 2zta_A:N16I 2zta_A:V23N 2zta_A:V30I	7.0	60	CD	Thermal	-	-	-	-	-	5.1	-	-	-
+17340	P03069	V257N V271N V278I (Based on UniProt)	2ZTA	2zta_A:V9N 2zta_A:V23N 2zta_A:V30I	7.0	60	CD	Thermal	-	-	-	-	-	0.6	-	-	-
+17403	P00044	T75E T102A C108T (Based on UniProt)	1YCC	1ycc_A:T69E 1ycc_A:T96A 1ycc_A:C102T	6.0	57.1	DSC	Thermal	-	-	83	-	-	-	1.4	-	-
+17404	P00044	T75E T102A C108T (Based on UniProt)	1YCC	1ycc_A:T69E 1ycc_A:T96A 1ycc_A:C102T	6.0	57.1	DSC	Thermal	-	-	92	-	-	-	7.5	-	-
+17859	P00720	S38D A82P N144D(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D	3.0	53.42	CD	Thermal	-	-	-	1.8	-	-	1.05	-	-
+17860	P00720	S38D A82P N144D I3L(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L	3.0	53.42	CD	Thermal	-	-	-	1.8	-	-	1.95	-	-
+17861	P00720	S38D A82P N144D I3L V131A(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A	3.0	53.42	CD	Thermal	-	-	-	1.8	-	-	2.25	-	-
+17862	P00720	S38D A82P N144D I3L V131A A41V(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A 2lzm_A:A41V	3.0	53.42	CD	Thermal	-	-	-	1.8	-	-	2.62	-	-
+17863	P00720	S38D A82P N144D I3L V131A A41V N116D(Based on UniProt and PDB)	2LZM	2lzm_A:S38D 2lzm_A:A82P 2lzm_A:N144D 2lzm_A:I3L 2lzm_A:V131A 2lzm_A:A41V 2lzm_A:N116D	3.0	53.42	CD	Thermal	-	-	-	1.8	-	-	2.92	-	-
+17870	P00720	E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	0.9	-	-
+17871	P00720	D127A E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	0.85	-	-
+17872	P00720	E128A V131A N132A L133A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:L133A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	-2.5	-	-
+17873	P00720	D127A E128A V131A N132A L133A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:L133A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	-2.5	-	-
+17874	P00720	E128A V131A N132A K135A S136A R137A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:K135A 2lzm_A:S136A 2lzm_A:R137A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	-0.5	-	-
+17875	P00720	D127A E128A V131A N132A K135A S136A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:K135A 2lzm_A:S136A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	-0.5	-	-
+17876	P00720	D127A E128A V131A N132A K135A S136A Y139A N140A Q141A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:K135A 2lzm_A:S136A 2lzm_A:Y139A 2lzm_A:N140A 2lzm_A:Q141A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	-0.5	-	-
+17877	P00720	E128A V131A N132A K135A S136A Y139A N140A Q141A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:K135A 2lzm_A:S136A 2lzm_A:Y139A 2lzm_A:N140A 2lzm_A:Q141A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	-0.5	-	-
+17878	P00720	T34A K35A S36A P37A(Based on UniProt and PDB)	2LZM	2lzm_A:T34A 2lzm_A:K35A 2lzm_A:S36A 2lzm_A:P37A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	-0.7	-	-
+17880	P00720	N53A N55A V57A(Based on UniProt and PDB)	2LZM	2lzm_A:N53A 2lzm_A:N55A 2lzm_A:V57A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	-1.5	-	-
+17881	P00720	N53A N55A V57A E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:N53A 2lzm_A:N55A 2lzm_A:V57A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	-0.8	-	-
+17882	P00720	T34A K35A S36A P37A E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:T34A 2lzm_A:K35A 2lzm_A:S36A 2lzm_A:P37A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	3.0	53.4	CD	Thermal	-	-	-	1.8	-	-	-0.2	-	-
+17970	P0A7Y4	H62P T40A K122R(Based on UniProt and PDB)	2RN2	2rn2_A:H62P 2rn2_A:T40A 2rn2_A:K122R	5.5	52.7	CD	Thermal	-	-	-	-	-	-	0.85	-	-
+18016	P0A7Y4	Y28F R29H G30A R31H(Based on UniProt and PDB)	2RN2	2rn2_A:Y28F 2rn2_A:R29H 2rn2_A:G30A 2rn2_A:R31H	5.5	52	CD	Thermal	-	-	-	-	-	-	-0.9	-	-
+18017	P0A7Y4	K91R D94E K95G(Based on UniProt and PDB)	2RN2	2rn2_A:K91R 2rn2_A:D94E 2rn2_A:K95G	5.5	52	CD	Thermal	-	-	-	-	-	-	1.5	-	-
+18072	P00720	L99F M102L V111I(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:V111I	3.01	51.76	CD	Thermal	-	-	-	-	-	-	-1.15	-	-
+18073	P00720	L99F M102L F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:F153L	3.01	51.76	CD	Thermal	-	-	-	-	-	-	-0.21	-	-
+18074	P00720	L99F V111I F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:V111I 2lzm_A:F153L	3.01	51.76	CD	Thermal	-	-	-	-	-	-	-0.55	-	-
+18075	P00720	L99F M102L V111I F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L99F 2lzm_A:M102L 2lzm_A:V111I 2lzm_A:F153L	3.01	51.76	CD	Thermal	-	-	-	-	-	-	-0.54	-	-
+18088	P00720	L121A A129M F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L121A 2lzm_A:A129M 2lzm_A:F153L	3.0	51.7	CD	Thermal	-	-	-	-	-	-	-1.1	-	-
+18089	P00720	L121A A129M F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L121A 2lzm_A:A129M 2lzm_A:F153L	3.0	51.7	CD	Thermal	-	-	-	-	-	-	-1.1	-	-
+18090	P00720	L121M A129L L133M V149I F153W(Based on UniProt and PDB)	2LZM	2lzm_A:L121M 2lzm_A:A129L 2lzm_A:L133M 2lzm_A:V149I 2lzm_A:F153W	3.0	51.7	CD	Thermal	-	-	-	-	-	-	-1.3	-	-
+18091	P00720	L121I A129L L133M F153W(Based on UniProt and PDB)	2LZM	2lzm_A:L121I 2lzm_A:A129L 2lzm_A:L133M 2lzm_A:F153W	3.0	51.7	CD	Thermal	-	-	-	-	-	-	-1.3	-	-
+18092	P00720	L121A A129M V149I(Based on UniProt and PDB)	2LZM	2lzm_A:L121A 2lzm_A:A129M 2lzm_A:V149I	3.0	51.7	CD	Thermal	-	-	-	-	-	-	-1.4	-	-
+18093	P00720	L121I A129W L133M(Based on UniProt and PDB)	2LZM	2lzm_A:L121I 2lzm_A:A129W 2lzm_A:L133M	3.0	51.7	CD	Thermal	-	-	-	-	-	-	-1.4	-	-
+18094	P00720	L121A A129V L133M F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L121A 2lzm_A:A129V 2lzm_A:L133M 2lzm_A:F153L	3.0	51.7	CD	Thermal	-	-	-	-	-	-	-2.3	-	-
+18095	P00720	L121M L133V F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L121M 2lzm_A:L133V 2lzm_A:F153L	3.0	51.7	CD	Thermal	-	-	-	-	-	-	-2.5	-	-
+18096	P00720	L121A A129L L133A F153L(Based on UniProt and PDB)	2LZM	2lzm_A:L121A 2lzm_A:A129L 2lzm_A:L133A 2lzm_A:F153L	3.0	51.7	CD	Thermal	-	-	-	-	-	-	-3.5	-	-
+18102	P00720	N40A S44A E45A D47A K48A D127A E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:N40A 2lzm_A:S44A 2lzm_A:E45A 2lzm_A:D47A 2lzm_A:K48A 2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	3.0	51.7	CD	Thermal	-	-	-	1.8	-	-	1.75	-	-
+18169	P00720	R14A K16A I17A K19A T21A E22A(Based on UniProt and PDB)	2LZM	2lzm_A:R14A 2lzm_A:K16A 2lzm_A:I17A 2lzm_A:K19A 2lzm_A:T21A 2lzm_A:E22A	3.02	51.6	CD	Thermal	-	-	-	2.5	-	-	-3	-	-
+18170	P00720	Y24A Y25A T26A I27A(Based on UniProt and PDB)	2LZM	2lzm_A:Y24A 2lzm_A:Y25A 2lzm_A:T26A 2lzm_A:I27A	3.05	51.6	CD	Thermal	-	-	-	2.5	-	-	-5.5	-	-
+18171	P00720	G28A I29A G30A(Based on UniProt and PDB)	2LZM	2lzm_A:G28A 2lzm_A:I29A 2lzm_A:G30A	3.05	51.6	CD	Thermal	-	-	-	2.5	-	-	-5.5	-	-
+18172	P00720	L32A L33A T34A E108V(Based on UniProt and PDB)	2LZM	2lzm_A:L32A 2lzm_A:L33A 2lzm_A:T34A 2lzm_A:E108V	3.05	51.6	CD	Thermal	-	-	-	2.5	-	-	-3	-	-
+18206	P00044	T75E T102A C108T (Based on UniProt)	1YCC	1ycc_A:T69E 1ycc_A:T96A 1ycc_A:C102T	4.7	51.4	DSC	Thermal	-	-	75	-	-	-	1.3	-	-
+18207	P00044	T75E T102A C108T (Based on UniProt)	1YCC	1ycc_A:T69E 1ycc_A:T96A 1ycc_A:C102T	4.7	51.4	DSC	Thermal	-	-	77	-	-	-	6.6	-	-
+18227	P00720	K16E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:K16E 2lzm_A:K135E 2lzm_A:K147E	2.8	50.9	CD	Thermal	-	-	-	-	-	-	-0.8	-	-
+18228	P00720	R119E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:R119E 2lzm_A:K135E 2lzm_A:K147E	2.8	50.9	CD	Thermal	-	-	-	-	-	-	-0.3	-	-
+18229	P00720	K16E R119E K135E K147E(Based on UniProt and PDB)	2LZM	2lzm_A:K16E 2lzm_A:R119E 2lzm_A:K135E 2lzm_A:K147E	2.8	50.9	CD	Thermal	-	-	-	-	-	-	-0.9	-	-
+18266	P00099	F56Y Q59R E65Y (Based on UniProt)	451C	451c_A:F34Y 451c_A:Q37R 451c_A:E43Y	5.0	50.4	CD	Thermal	-	-	-	-	-	-	2	-	-
+18277	P0A7Y4	H62P T40A K122R(Based on UniProt and PDB)	2RN2	2rn2_A:H62P 2rn2_A:T40A 2rn2_A:K122R	3.0	50.1	CD	Thermal	-	-	-	-	-	-	0.52	-	-
+18422	P0A7Y4	Y28F R29H G30A R31H(Based on UniProt and PDB)	2RN2	2rn2_A:Y28F 2rn2_A:R29H 2rn2_A:G30A 2rn2_A:R31H	3.0	49.8	CD	Thermal	-	-	-	-	-	-	-0.7	-	-
+18423	P0A7Y4	K91R D94E K95G(Based on UniProt and PDB)	2RN2	2rn2_A:K91R 2rn2_A:D94E 2rn2_A:K95G	3.0	49.8	CD	Thermal	-	-	-	-	-	-	1.2	-	-
+18456	P08821	E15G S27A D34E N38K I42V (Based on UniProt)	-	-	7.0	48.6	CD	Thermal	-	-	-	-	-	-	2.98	-	-
+18486	P00099	F29A V35M F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y 451c_A:V78I	5.0	47.3	DSC	Thermal	80.2	32.9	-	1.07	-	-	-	-	-
+18498	P00644	V148L G161S G170V (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:G79S 1stn_A:G88V	7.0	47	DSC	Thermal	-	-	-	2.22	-	-	0.3	-	-
+18500	P00644	V148L G161S G170V (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:G79S 1stn_A:G88V	5.0	47	DSC	Thermal	-	-	-	1.78	-	-	0.5	-	-
+18526	P01053	S32A E34A E35A (Based on UniProt)	2CI2	2ci2_I:S31A 2ci2_I:E33A 2ci2_I:E34A	6.3	46.6	Fluorescence	Thermal	-	-	-	-	-	-	-1.67	-	-
+18603	P03069	S262R H266E N269R (Based on UniProt)	2ZTA	2zta_A:S14R 2zta_A:H18E 2zta_A:N21R	7.0	45	CD	Thermal	-	-	-	1.35	-	-	1.72	-	-
+18604	P03069	S262R H266E N269A (Based on UniProt)	2ZTA	2zta_A:S14R 2zta_A:H18E 2zta_A:N21A	7.0	45	CD	Thermal	-	-	-	1.35	-	-	1.64	-	-
+18605	P03069	S262A H266A N269R (Based on UniProt)	2ZTA	2zta_A:S14A 2zta_A:H18A 2zta_A:N21R	7.0	45	CD	Thermal	-	-	-	1.35	-	-	1.23	-	-
+18606	P03069	S262R H266A N269R (Based on UniProt)	2ZTA	2zta_A:S14R 2zta_A:H18A 2zta_A:N21R	7.0	45	CD	Thermal	-	-	-	1.35	-	-	1.15	-	-
+18607	P03069	S262A H266E N269R (Based on UniProt)	2ZTA	2zta_A:S14A 2zta_A:H18E 2zta_A:N21R	7.0	45	CD	Thermal	-	-	-	1.35	-	-	1.15	-	-
+18608	P03069	S262R H266A N269A (Based on UniProt)	2ZTA	2zta_A:S14R 2zta_A:H18A 2zta_A:N21A	7.0	45	CD	Thermal	-	-	-	1.35	-	-	1.07	-	-
+18609	P03069	S262A H266A N269A (Based on UniProt)	2ZTA	2zta_A:S14A 2zta_A:H18A 2zta_A:N21A	7.0	45	CD	Thermal	-	-	-	1.35	-	-	1.07	-	-
+18610	P03069	S262A H266E N269A (Based on UniProt)	2ZTA	2zta_A:S14A 2zta_A:H18E 2zta_A:N21A	7.0	45	CD	Thermal	-	-	-	1.35	-	-	0.76	-	-
+18908	P00720	E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	2.0	40.8	CD	Thermal	-	-	-	-	-	-	0.94	-	-
+18915	P00720	E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	2.02	40.75	CD	Thermal	-	-	-	2.4	-	-	0.91	-	-
+18916	P00720	D127A E128A V131A N132A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A	2.02	40.75	CD	Thermal	-	-	-	2.4	-	-	1.01	-	-
+18917	P00720	E128A V131A N132A L133A(Based on UniProt and PDB)	2LZM	2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:L133A	2.02	40.75	CD	Thermal	-	-	-	2.4	-	-	-2.59	-	-
+18918	P00720	D127A E128A V131A N132A L133A(Based on UniProt and PDB)	2LZM	2lzm_A:D127A 2lzm_A:E128A 2lzm_A:V131A 2lzm_A:N132A 2lzm_A:L133A	2.02	40.75	CD	Thermal	-	-	-	2.4	-	-	-2.27	-	-
+18929	P05230	H36Y L59F H117Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:H102Y	7.3	40.7	CD	Thermal	-	-	-	-	-	-	0.98	-	-
+18930	P05230	H36Y L59F F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:F108Y	7.3	40.7	CD	Thermal	-	-	-	-	-	-	1.15	-	-
+18931	P05230	H36Y H117Y F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:H102Y 2afg_A:F108Y	7.3	40.7	CD	Thermal	-	-	-	-	-	-	0.81	-	-
+18932	P05230	L59F H117Y F123Y (Based on UniProt)	2AFG	2afg_A:L44F 2afg_A:H102Y 2afg_A:F108Y	7.3	40.7	CD	Thermal	-	-	-	-	-	-	0.96	-	-
+18933	P05230	H36Y L59F H117Y F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:H102Y 2afg_A:F108Y	7.3	40.7	CD	Thermal	-	-	-	-	-	-	1.28	-	-
+18942	P05230	L59P L88V V124L (Based on UniProt)	2AFG	2afg_A:L44P 2afg_A:L73V 2afg_A:V109L	6.6	40.2	DSC	Thermal	-	-	-	-	-	-	-0.14	-	-
+18963	P00720	A98V V149C T152S(Based on UniProt and PDB)	2LZM	2lzm_A:A98V 2lzm_A:V149C 2lzm_A:T152S	3.0	40	CD	Thermal	-	-	-	2.41	-	-	-4.4	-	-
+18964	P00720	A98V V149I T152S(Based on UniProt and PDB)	2LZM	2lzm_A:A98V 2lzm_A:V149I 2lzm_A:T152S	3.0	40	CD	Thermal	-	-	-	2.41	-	-	-4.4	-	-
+19161	P05230	H36Y L59F H117Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:H102Y	7.3	39.8	Fluorescence	Thermal	-	-	-	-	-	-	1.41	-	-
+19162	P05230	H36Y L59F F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:F108Y	7.3	39.8	Fluorescence	Thermal	-	-	-	-	-	-	1.27	-	-
+19163	P05230	H36Y H117Y F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:H102Y 2afg_A:F108Y	7.3	39.8	Fluorescence	Thermal	-	-	-	-	-	-	1.36	-	-
+19164	P05230	L59F H117Y F123Y (Based on UniProt)	2AFG	2afg_A:L44F 2afg_A:H102Y 2afg_A:F108Y	7.3	39.8	Fluorescence	Thermal	-	-	-	-	-	-	0.94	-	-
+19165	P05230	H36Y L59F H117Y F123Y (Based on UniProt)	2AFG	2afg_A:H21Y 2afg_A:L44F 2afg_A:H102Y 2afg_A:F108Y	7.3	39.8	Fluorescence	Thermal	-	-	-	-	-	-	1.64	-	-
+19365	P42212	S65A V68L S72A(Based on UniProt and PDB)	1GFL	1gfl_A:S65A 1gfl_A:V68L 1gfl_A:S72A	7.4	37	CD	GdnHCl	-	-	-	-	-	-	-	2.6	-
+19366	P42212	S65A V68L S72A(Based on UniProt and PDB)	1GFL	1gfl_A:S65A 1gfl_A:V68L 1gfl_A:S72A	7.4	37	CD	GdnHCl	-	-	-	-	-	-	-	4.3	-
+19421	P04637	M133L V203A N239Y N268D(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D	7.2	37	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+19422	P04637	M133L V203A N239Y N268D Y236F T253I(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D 2ocj_A:Y236F 2ocj_A:T253I	7.2	37	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+19475	P0A910	F144A Y162A W164A (Based on UniProt)	1QJP	1qjp_A:F123A 1qjp_A:Y141A 1qjp_A:W143A	9.2	37	Fluorescence	Urea	-	-	-	-	-	-	-	2.5	-6.8
+19480	P03034	A16G G47A G49A (Based on UniProt)	1LRP	1lrp_A:A15G 1lrp_A:G46A 1lrp_A:G48A	8.0	37	CD	Urea	-	-	-	-	-	-	-	0.31	-0.55
+19481	P03034	A21G G47A G49A (Based on UniProt)	1LRP	1lrp_A:A20G 1lrp_A:G46A 1lrp_A:G48A	8.0	37	CD	Urea	-	-	-	-	-	-	-	1.73	0.87
+19482	P03034	A38G G47A G49A (Based on UniProt)	1LRP	1lrp_A:A37G 1lrp_A:G46A 1lrp_A:G48A	8.0	37	CD	Urea	-	-	-	-	-	-	-	1.48	0.62
+19483	P03034	A50G G47A G49A (Based on UniProt)	1LRP	1lrp_A:A49G 1lrp_A:G46A 1lrp_A:G48A	8.0	37	CD	Urea	-	-	-	-	-	-	-	2.11	1.25
+19484	P03034	A64G G47A G49A (Based on UniProt)	1LRP	1lrp_A:A63G 1lrp_A:G46A 1lrp_A:G48A	8.0	37	CD	Urea	-	-	-	-	-	-	-	2.35	1.49
+19485	P03034	A67G G47A G49A (Based on UniProt)	1LRP	1lrp_A:A66G 1lrp_A:G46A 1lrp_A:G48A	8.0	37	CD	Urea	-	-	-	-	-	-	-	0.93	0.07
+19486	P03034	A82G G47A G49A (Based on UniProt)	1LRP	1lrp_A:A81G 1lrp_A:G46A 1lrp_A:G48A	8.0	37	CD	Urea	-	-	-	-	-	-	-	1.63	0.77
+19565	P69488	S11V E61T Q73V(Based on UniProt and PDB)	3X3U	3x3u_A:S11V 3x3u_A:E61T 3x3u_A:Q73V	8.0	37	CD	GdnHCl	-	-	-	-	-	-	-	48.375 (3.633)	8.89
+19566	P69488	S11V E61V Q73V(Based on UniProt and PDB)	3X3U	3x3u_A:S11V 3x3u_A:E61V 3x3u_A:Q73V	8.0	37	CD	GdnHCl	-	-	-	-	-	-	-	61.879 (10.086)	22.39
+19567	P69488	S11V E59K E61T(Based on UniProt and PDB)	3X3U	3x3u_A:S11V 3x3u_A:E59K 3x3u_A:E61T	8.0	37	CD	GdnHCl	-	-	-	-	-	-	-	50.096 (3.872)	10.61
+19729	P06654	T242I T244I T251E V255F (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25E 1pga_A:V29F	8.5	30	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.96	3.01
+19730	P06654	T242I T244I T251E V255Y (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25E 1pga_A:V29Y	8.5	30	Fluorescence	GdnHCl	-	-	-	-	-	-	-	7.39	3.44
+19731	P06654	T242I T244I V255W (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:V29W	8.5	30	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.57	2.63
+19732	P06654	T242L T244I T251S V255Y (Based on UniProt)	1PGA	1pga_A:T16L 1pga_A:T18I 1pga_A:T25S 1pga_A:V29Y	8.5	30	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.31	2.37
+19734	P06654	T242I T244I T251E V255I (Based on UniProt)	1PGA	1pga_A:T16I 1pga_A:T18I 1pga_A:T25E 1pga_A:V29I	8.5	30	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.41	2.46
+19858	P04637	M133L V203A N239Y N268D(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D	7.2	30	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+19859	P04637	M133L V203A N239Y N268D Y236F T253I(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D 2ocj_A:Y236F 2ocj_A:T253I	7.2	30	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+19910	P00044	R19C D96C C108T (Based on UniProt)	1YCC	1ycc_A:R13C 1ycc_A:D90C 1ycc_A:C102T	7.0	30	Fluorescence	Urea	-	-	-	-	-	-	-	3.3	0.91
+19927	P02751	V1457M A1458S L1465T (Based on UniProt)	1TTF	1ttf_A:V11M 1ttf_A:A12S 1ttf_A:L19T	6.0	30	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	0.3 (0.06)
+19931	P02751	V1457L A1458V L1465T (Based on UniProt)	1TTF	1ttf_A:V11L 1ttf_A:A12V 1ttf_A:L19T	6.0	30	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	0.7 (0.05)
+19932	P02751	V1457R A1458L L1465V (Based on UniProt)	1TTF	1ttf_A:V11R 1ttf_A:A12L 1ttf_A:L19V	6.0	30	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	-0.2 (0.02)
+19933	P02751	V1457S A1458R L1465Y (Based on UniProt)	1TTF	1ttf_A:V11S 1ttf_A:A12R 1ttf_A:L19Y	6.0	30	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	-0.73 (0.1)
+19934	P02751	V1457S A1458K L1465S (Based on UniProt)	1TTF	1ttf_A:V11S 1ttf_A:A12K 1ttf_A:L19S	6.0	30	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	-1.4 (0.1)
+19936	P02751	V1457P A1458Q L1465V (Based on UniProt)	1TTF	1ttf_A:V11P 1ttf_A:A12Q 1ttf_A:L19V	6.0	30	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	-1.1 (0.08)
+19937	P02751	V1457D A1458S L1465S (Based on UniProt)	1TTF	1ttf_A:V11D 1ttf_A:A12S 1ttf_A:L19S	6.0	30	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	-0.9 (0.07)
+19938	P02751	V1457K A1458T L1465C (Based on UniProt)	1TTF	1ttf_A:V11K 1ttf_A:A12T 1ttf_A:L19C	6.0	30	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	-1.2 (0.1)
+20234	P02647	L246K F249K F253K (Based on UniProt)	1AV1	1av1_A:L222K 1av1_A:F225K 1av1_A:F229K	7.4	25	CD	GdnHCl	-	-	-	-	-	-	-	2.5	-
+20677	P04141	G56A G182A G183A (Based on UniProt)	1RHG	1rhg_A:G26A 1rhg_A:G149A 1rhg_A:G150A	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	12.9	3.46
+20678	P04141	G58A G182A G183A (Based on UniProt)	1RHG	1rhg_A:G28A 1rhg_A:G149A 1rhg_A:G150A	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	15.6	6.16
+20771	P03050	N29A S44A E48A(Based on UniProt and PDB)	1ARR	1arr_A:N29A 1arr_A:S44A 1arr_A:E48A	7.5	25	CD	GdnHCl	-	-	-	-	-	-	-	15.6	1.32
+20776	P03050	N29A S44A E48A(Based on UniProt and PDB)	1ARR	1arr_A:N29A 1arr_A:S44A 1arr_A:E48A	7.5	25	CD	Thermal	66	-	-	-	-	-	-	-	-
+20833	P01308	H34D P52K K53P (Based on UniProt)	1ZNJ	1znj_B:H10D 1znj_B:P28K 1znj_B:K29P	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	4.9	-
+20971	P01607	M24L Y51D T120H (Based on UniProt)	1LVE	1lve_A:M4L 1lve_A:Y27DD 1lve_A:T94H	7.5	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	12.1	4.4
+21097	P00099	F29A V35M F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y 451c_A:V78I	5.0	25	DSC	GdnHCl	-	-	-	-	-	-	-	-	-
+21143	P07751	Y976F K981Y K1022F (Based on UniProt)	1SHG	1shg_A:Y13F 1shg_A:K18Y 1shg_A:K59F	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	-	-0.06
+21145	P07751	K981Y K1022F Y1020F (Based on UniProt)	1SHG	1shg_A:K18Y 1shg_A:K59F 1shg_A:Y57F	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	-	-0.05
+21146	P07751	Y976F K981Y K1022F Y1020F (Based on UniProt)	1SHG	1shg_A:Y13F 1shg_A:K18Y 1shg_A:K59F 1shg_A:Y57F	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	-	0.07
+21153	P07751	K981Y F1015Y K1022Y (Based on UniProt)	1SHG	1shg_A:K18Y 1shg_A:F52Y 1shg_A:K59Y	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	1.9	2.11
+21161	P07751	K981Y K1022F Y1020F (Based on UniProt)	1SHG	1shg_A:K18Y 1shg_A:K59F 1shg_A:Y57F	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	1.55	2.46
+21162	P07751	Y976F K981F K1022F (Based on UniProt)	1SHG	1shg_A:Y13F 1shg_A:K18F 1shg_A:K59F	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	1.57	2.44
+21163	P07751	Y976F K981F K1022F Y1020F (Based on UniProt)	1SHG	1shg_A:Y13F 1shg_A:K18F 1shg_A:K59F 1shg_A:Y57F	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	1.53	2.48
+21267	P07751	A974V M988I V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:M25I 1shg_A:V44I 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	4.1	0.5
+21268	P07751	A974V M988V V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:M25V 1shg_A:V44I 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	5.1	1.5
+21269	P07751	A974V M988I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:M25I 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	5.8	2.2
+21270	P07751	A974V V986L M988I V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25I 1shg_A:V44I 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	3.8	0.2
+21271	P07751	A974V V986L M988V V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25V 1shg_A:V44I 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	4.6	1
+21272	P07751	A974V V986L M988I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25I 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	5.6	2
+21273	P07751	A974V V986L M988I V1016I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25I 1shg_A:V53I 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	3.5	-0.1
+21274	P07751	A974V V986L M988V V1016I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25V 1shg_A:V53I 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	5.3	1.7
+21275	P07751	A974V V986L M988I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25I 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	5.6	2
+21276	P07751	V972I A974I V986I M988I V1007I V1016I V1021I (Based on UniProt)	1SHG	1shg_A:V9I 1shg_A:A11I 1shg_A:V23I 1shg_A:M25I 1shg_A:V44I 1shg_A:V53I 1shg_A:V58I	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	2.1	-1.5
+21277	P07751	V972I A974V V986L M988I V1007I V1016I V1021I (Based on UniProt)	1SHG	1shg_A:V9I 1shg_A:A11V 1shg_A:V23L 1shg_A:M25I 1shg_A:V44I 1shg_A:V53I 1shg_A:V58I	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	1.6	-2
+21278	P07751	V972L A974V V986L M988I L996I V1007I V1016I V1021I (Based on UniProt)	1SHG	1shg_A:V9L 1shg_A:A11V 1shg_A:V23L 1shg_A:M25I 1shg_A:L33I 1shg_A:V44I 1shg_A:V53I 1shg_A:V58I	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	1.2	-2.4
+21279	P07751	V972L A974V V986L M988I L996I V1016I V1021I (Based on UniProt)	1SHG	1shg_A:V9L 1shg_A:A11V 1shg_A:V23L 1shg_A:M25I 1shg_A:L33I 1shg_A:V53I 1shg_A:V58I	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	1.1	-2.5
+21280	P07751	V972I A974V V986L M988I V1016F V1021L (Based on UniProt)	1SHG	1shg_A:V9I 1shg_A:A11V 1shg_A:V23L 1shg_A:M25I 1shg_A:V53F 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	1	-2.6
+21281	P07751	V972L A974V V986L M988L V1016L V1021L (Based on UniProt)	1SHG	1shg_A:V9L 1shg_A:A11V 1shg_A:V23L 1shg_A:M25L 1shg_A:V53L 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	0.8	-2.8
+21282	P07751	V972L A974V V986L M988I L994I L996I V1007L V1016F V1021L (Based on UniProt)	1SHG	1shg_A:V9L 1shg_A:A11V 1shg_A:V23L 1shg_A:M25I 1shg_A:L31I 1shg_A:L33I 1shg_A:V44L 1shg_A:V53F 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	0.5	-3.1
+21283	P07751	A974V V986L M988L V1007A V1016F V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25L 1shg_A:V44A 1shg_A:V53F 1shg_A:V58L	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	0.3	-3.3
+21352	-	1yyx_A:I98L 1yyx_A:N102D 1yyx_A:G106R (Based on PDB)	1yyx	1yyx_A:I98L 1yyx_A:N102D 1yyx_A:G106R	5.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	-	-0.23
+21354	-	1yyx_A:I98K 1yyx_A:N102I 1yyx_A:G106L (Based on PDB)	1yyx	1yyx_A:I98K 1yyx_A:N102I 1yyx_A:G106L	5.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	-	-2.39
+21392	P01607	Q115D Y51D M24L T120H (Based on UniProt)	1LVE	1lve_A:Q89D 1lve_A:Y27DD 1lve_A:M4L 1lve_A:T94H	7.5	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.5	-1.2
+21393	P01607	Q115N Y51D M24L T120H (Based on UniProt)	1LVE	1lve_A:Q89N 1lve_A:Y27DD 1lve_A:M4L 1lve_A:T94H	7.5	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	11.5	3.3
+21396	P02647	E149K E152K K157E E163K (Based on UniProt)	1AV1	1av1_A:E125K 1av1_A:E128K 1av1_A:K133E 1av1_A:E139K	7.4	25	CD	GdnHCl	-	-	-	-	-	-	-	3.1	0.6
+21399	P02647	E149K E152K K157E E163K (Based on UniProt)	1AV1	1av1_A:E125K 1av1_A:E128K 1av1_A:K133E 1av1_A:E139K	7.4	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.3	0.3
+21403	P00171	A34S I48L L63R (Based on UniProt)	1B5M	1b5m_A:A18S 1b5m_A:I32L 1b5m_A:L47R	7.0	25	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	-
+21404	P00171	A34S I48L L63R L87S (Based on UniProt)	1B5M	1b5m_A:A18S 1b5m_A:I32L 1b5m_A:L47R 1b5m_A:L71S	7.0	25	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	-
+21406	P00171	A34S I41L I48L L63R L87S (Based on UniProt)	1B5M	1b5m_A:A18S 1b5m_A:I25L 1b5m_A:I32L 1b5m_A:L47R 1b5m_A:L71S	7.0	25	Fluorescence	GdnSCN	-	-	-	-	-	-	-	-	-
+21409	P00171	A34S I48L L63R (Based on UniProt)	1B5M	1b5m_A:A18S 1b5m_A:I32L 1b5m_A:L47R	7.0	25	Fluorescence	GdnSCN	-	-	-	-	-	-	-	2.9	-0.3
+21454	P11540	W39F W45F C41A C83A A26C (Based on UniProt)	1BTA	1bta_A:W38F 1bta_A:W44F 1bta_A:C40A 1bta_A:C82A 1bta_A:A25C	8.0	25	CD	Urea	-	-	-	-	-	-	-	4.4	-
+21455	P11540	W39F W45F C83A (Based on UniProt)	1BTA	1bta_A:W38F 1bta_A:W44F 1bta_A:C82A	8.0	25	CD	Urea	-	-	-	-	-	-	-	4.2	-
+21456	P11540	W39F W45F C41A C83A L63C (Based on UniProt)	1BTA	1bta_A:W38F 1bta_A:W44F 1bta_A:C40A 1bta_A:C82A 1bta_A:L62C	8.0	25	CD	Urea	-	-	-	-	-	-	-	4	-
+21457	P11540	W39F W45F S13T C41A (Based on UniProt)	1BTA	1bta_A:W38F 1bta_A:W44F 1bta_A:S12T 1bta_A:C40A	8.0	25	CD	Urea	-	-	-	-	-	-	-	4.5	-
+21458	P11540	W39F W45F C41A C83A A26C (Based on UniProt)	1BTA	1bta_A:W38F 1bta_A:W44F 1bta_A:C40A 1bta_A:C82A 1bta_A:A25C	8.0	25	CD	Urea	-	-	-	-	-	-	-	4.3	-
+21459	P11540	W39F W45F C83A (Based on UniProt)	1BTA	1bta_A:W38F 1bta_A:W44F 1bta_A:C82A	8.0	25	CD	Urea	-	-	-	-	-	-	-	4.7	-
+21460	P11540	W39F W45F C41A C83A L63C (Based on UniProt)	1BTA	1bta_A:W38F 1bta_A:W44F 1bta_A:C40A 1bta_A:C82A 1bta_A:L62C	8.0	25	CD	Urea	-	-	-	-	-	-	-	4.1	-
+21461	P11540	W39F W45F C41A S13T (Based on UniProt)	1BTA	1bta_A:W38F 1bta_A:W44F 1bta_A:C40A 1bta_A:S12T	8.0	25	CD	Urea	-	-	-	-	-	-	-	4.5	-
+21580	P69168	T31I T119I Q147H D227Y (Based on UniProt)	2G3P	2g3p_A:T13I 2g3p_A:T101I 2g3p_A:Q129H 2g3p_A:D209Y	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	-	-
+21581	P69168	T31I T119I Q147H D227Y (Based on UniProt)	2G3P	2g3p_A:T13I 2g3p_A:T101I 2g3p_A:Q129H 2g3p_A:D209Y	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	-	-
+21665	P07751	A974V V986L M988V V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25V 1shg_A:V44I 1shg_A:V58L	2.0	25	DSC	Thermal	-	-	-	0.84	-	2.03	1.48	-	-
+21668	P07751	A974V V986L M988V V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25V 1shg_A:V44I 1shg_A:V58L	2.5	25	DSC	Thermal	-	-	-	0.79	-	2.49	0.84	-	-
+21671	P07751	A974V V986L M988V V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25V 1shg_A:V44I 1shg_A:V58L	3.0	25	DSC	Thermal	-	-	-	0.69	-	3.37	0.6	-	-
+21674	P07751	A974V V986L M988V V1007I V1021L (Based on UniProt)	1SHG	1shg_A:A11V 1shg_A:V23L 1shg_A:M25V 1shg_A:V44I 1shg_A:V58L	3.5	25	DSC	Thermal	-	-	-	0.6	-	4.11	0.79	-	-
+21777	-	-	-	-	7.0	25	CD	Urea	-	-	-	-	-	-	-	-	-2.16
+22076	P23907	A136V R171Q (Based on UniProt)	1UW3	1uw3_A:A133V 1uw3_A:R168Q	4.5	25	DSC	Thermal	-	-	-	0.21	-	9.32	-	-	-
+22080	P23907	A136V R171Q (Based on UniProt)	1UW3	1uw3_A:A133V 1uw3_A:R168Q	5.0	25	DSC	Thermal	-	-	-	0.5	-	7.07	-	-	-
+22232	P06654	T228Q I232A T270A (Based on UniProt)	1PGA	1pga_A:T2Q 1pga_A:I6A 1pga_A:T44A	5.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.76	-
+22233	P06654	T228Q I232A T270A (Based on UniProt)	1PGA	1pga_A:T2Q 1pga_A:I6A 1pga_A:T44A	5.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.74	-
+22234	P06654	T228Q I232A T270A (Based on UniProt)	1PGA	1pga_A:T2Q 1pga_A:I6A 1pga_A:T44A	5.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	3.92	-
+22235	P06654	T228Q I232A T270A (Based on UniProt)	1PGA	1pga_A:T2Q 1pga_A:I6A 1pga_A:T44A	5.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	3.88	-
+22236	P06654	T228Q I232A T270A (Based on UniProt)	1PGA	1pga_A:T2Q 1pga_A:I6A 1pga_A:T44A	5.0	25	CD	GdnHCl	-	-	-	-	-	-	-	2.31	-
+22237	P06654	T228Q I232A T270A (Based on UniProt)	1PGA	1pga_A:T2Q 1pga_A:I6A 1pga_A:T44A	5.0	25	CD	GdnHCl	-	-	-	-	-	-	-	2.77	-
+22238	P06654	T228Q I232A T270A (Based on UniProt)	1PGA	1pga_A:T2Q 1pga_A:I6A 1pga_A:T44A	5.0	25	CD	Urea	-	-	-	-	-	-	-	3.76	-
+22363	P01053	S32G E34A E35A (Based on UniProt)	2CI2	2ci2_I:S31G 2ci2_I:E33A 2ci2_I:E34A	6.25	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.79	-0.81
+22364	P01053	S32A E34A E35A (Based on UniProt)	2CI2	2ci2_I:S31A 2ci2_I:E33A 2ci2_I:E34A	6.25	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.85	-0.75
+22391	P01053	L52A V58A F70L (Based on UniProt)	2CI2	2ci2_I:L51A 2ci2_I:V57A 2ci2_I:F69L	6.25	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.26	-3.34
+22392	P01053	L52V V58A F70L (Based on UniProt)	2CI2	2ci2_I:L51V 2ci2_I:V57A 2ci2_I:F69L	6.25	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.76	-2.84
+22702	-	-	-	-	5.5	25	CD	Urea	-	-	-	-	-	-	-	5.45	3.15
+22703	-	-	-	-	5.5	25	CD	Urea	-	-	-	-	-	-	-	6.74	4.45
+22704	-	-	-	-	5.5	25	CD	Urea	-	-	-	-	-	-	-	6.45	4.16
+22705	P48052	H66E S89K M91K D94 (Based on UniProt)	1AYE	1aye_A:H53AE 1aye_A:S76AK 1aye_A:M78AK 1aye_A:D81A)	5.5	25	CD	Thermal	-	-	-	-	-	-	0.98	-	-
+22706	P48052	E82E Q47K E63K Q84K S89K E93) (Based on UniProt)	1AYE	1aye_A:E69AE 1aye_A:Q32AK 1aye_A:E50AK 1aye_A:Q71AK 1aye_A:S76AK 1aye_A:E80A)	5.5	25	CD	Thermal	-	-	-	-	-	-	2.56	-	-
+22707	P24821	Q808K  L820K  D850K  T890K(Based on UniProt and PDB)	1TEN	1ten_A:Q808K  1ten_A:L820K  1ten_A:D850K  1ten_A:T890K	5.5	25	CD	Thermal	-	-	-	-	-	-	1.29	-	-
+22708	P24821	Q808K  L820K  D850K  T890K(Based on UniProt and PDB)	1TEN	1ten_A:Q808K  1ten_A:L820K  1ten_A:D850K  1ten_A:T890K	7.0	25	DSC	Thermal	-	-	-	-	-	-	1.29	-	-
+22709	P41500	K27E E66K N85K Q98K (Based on UniProt)	2ACY	2acy_A:K24E 2acy_A:E63K 2acy_A:N82K 2acy_A:Q95K	5.5	25	CD	Thermal	-	-	-	-	-	-	1.67	-	-
+22710	P41500	K27E E66K N85K Q98K (Based on UniProt)	2ACY	2acy_A:K24E 2acy_A:E63K 2acy_A:N82K 2acy_A:Q95K	7.0	25	DSC	Thermal	-	-	-	-	-	-	1.67	-	-
+22712	P09012	N15E Q39E N67E Q85K(Based on UniProt and PDB)	1OIA	1oia_A:N15E 1oia_A:Q39E 1oia_A:N67E 1oia_A:Q85K	5.5	25	CD	Urea	-	-	-	-	-	-	-	6.98	0.98
+22762	P02647	L254P L257P Y260P (Based on UniProt)	1av1	1av1_A:L230P 1av1_A:L233P 1av1_A:Y236P	7.4	25	CD	GdnHCl	-	-	-	-	-	-	-	4	0.6
+22768	P02647	L254P L257P Y260P (Based on UniProt)	1av1	1av1_A:L230P 1av1_A:L233P 1av1_A:Y236P	7.4	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.9	-0.2
+23106	P03034	V37L M41V V48I (Based on UniProt)	1LRP	1lrp_A:V36L 1lrp_A:M40V 1lrp_A:V47I	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	3.7	-1.1
+23107	P03034	V37I M41V V48L (Based on UniProt)	1LRP	1lrp_A:V36I 1lrp_A:M40V 1lrp_A:V47L	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	3.9	-0.9
+23108	P03034	V37I M41V V48I (Based on UniProt)	1LRP	1lrp_A:V36I 1lrp_A:M40V 1lrp_A:V47I	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	4	-0.8
+23109	P03034	V37L M41L V48I (Based on UniProt)	1LRP	1lrp_A:V36L 1lrp_A:M40L 1lrp_A:V47I	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	5.3	0.5
+23111	P03034	V37F M41F V48I (Based on UniProt)	1LRP	1lrp_A:V36F 1lrp_A:M40F 1lrp_A:V47I	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	2.6	-2.2
+23112	P03034	V37F M41F V48F (Based on UniProt)	1LRP	1lrp_A:V36F 1lrp_A:M40F 1lrp_A:V47F	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	1.8	-3
+23113	P03034	V37F M41F V48I L66F (Based on UniProt)	1LRP	1lrp_A:V36F 1lrp_A:M40F 1lrp_A:V47I 1lrp_A:L65F	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	3	-1.8
+23142	P00648	D55A D59A R157A (Based on UniProt)	1BNI	1bni_A:D8A 1bni_A:D12A 1bni_A:R110A	6.3	25	Fluorescence	Urea	-	-	-	-	-	-	-	9	0.18
+23332	P02752	R1543I V1548R A1549V (Based on UniProt)	1FNF	1fnf_A:R1421I 1fnf_A:V1426R 1fnf_A:A1427V	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.48	-
+23333	P02752	R1493I D1495I (Based on UniProt)	1FNF	1fnf_A:R1371I 1fnf_A:D1373I	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	7.33	-
+23334	P02752	R1543I V1548R A1549V (Based on UniProt)	1FNF	1fnf_A:R1421I 1fnf_A:V1426R 1fnf_A:A1427V	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	12.8	-
+23337	P02752	A1462C L1530P V1564C (Based on UniProt)	1FNF	1fnf_A:A1340C 1fnf_A:L1408P 1fnf_A:V1442C	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.32	0.54
+23338	P02752	R1543I V1548R A1549V (Based on UniProt)	1FNF	1fnf_A:R1421I 1fnf_A:V1426R 1fnf_A:A1427V	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.54	-0.24
+23340	P00648	Q62I T63R K66R (Based on UniProt)	1BNI	1bni_A:Q15I 1bni_A:T16R 1bni_A:K19R	6.3	25	Fluorescence	Urea	-	-	-	-	-	-	-	10.8	1.98
+23341	P00648	Q62I T63R K66R G112S K113A K155R (Based on UniProt)	1BNI	1bni_A:Q15I 1bni_A:T16R 1bni_A:K19R 1bni_A:G65S 1bni_A:K66A 1bni_A:K108R	6.3	25	Fluorescence	Urea	-	-	-	-	-	-	-	11.8	2.98
+24087	P00099	F29A V35M F56Y E65Y (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y	5.0	25	CD	GdnHCl	-	-	-	-	-	-	-	9.21	3.76
+24088	P00099	F29A V35M V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:V78I	5.0	25	CD	GdnHCl	-	-	-	-	-	-	-	7.74	2.29
+24089	P00099	F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F34Y 451c_A:E43Y 451c_A:V78I	5.0	25	CD	GdnHCl	-	-	-	-	-	-	-	8.39	2.95
+24090	P00099	F29A V35M F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y 451c_A:V78I	5.0	25	CD	GdnHCl	-	-	-	-	-	-	-	10.23	4.78
+24097	P00099	F29A V35M F56Y E65Y (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y	3.6	25	CD	GdnHCl	-	-	-	-	-	-	-	6.52	2.39
+24098	P00099	F29A V35M V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:V78I	3.6	25	CD	GdnHCl	-	-	-	-	-	-	-	6.04	1.9
+24099	P00099	F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F34Y 451c_A:E43Y 451c_A:V78I	3.6	25	CD	GdnHCl	-	-	-	-	-	-	-	5.77	1.63
+24100	P00099	F29A V35M F56Y E65Y V100I (Based on UniProt)	451C	451c_A:F7A 451c_A:V13M 451c_A:F34Y 451c_A:E43Y 451c_A:V78I	3.6	25	CD	GdnHCl	-	-	-	-	-	-	-	7.48	3.34
+24121	P01236	H55A H58A H208A (Based on UniProt)	2Q98	2q98_A:H27A 2q98_A:H30A 2q98_A:H180A	5.8	25	Fluorescence	Urea	-	-	-	-	-	-	-	7.71	3.41
+24122	P01236	H58A H201A H208A (Based on UniProt)	2Q98	2q98_A:H30A 2q98_A:H173A 2q98_A:H180A	5.8	25	Fluorescence	Urea	-	-	-	-	-	-	-	8.28	3.98
+24138	P01236	H55A H58A H208A (Based on UniProt)	2Q98	2q98_A:H27A 2q98_A:H30A 2q98_A:H180A	7.8	25	Fluorescence	Urea	-	-	-	-	-	-	-	11.31	3.11
+24139	P01236	H58A H201A H208A (Based on UniProt)	2Q98	2q98_A:H30A 2q98_A:H173A 2q98_A:H180A	7.8	25	Fluorescence	Urea	-	-	-	-	-	-	-	9.07	0.87
+24147	P02633	E21Q D23N E30Q (Based on UniProt)	1IGV	1igv_A:E17Q 1igv_A:D19N 1igv_A:E26Q	7.0	25	CD	Urea	-	-	-	-	-	-	-	1.22	0.93
+24167	P0A7Y4	K91R D94E K95G(Based on UniProt and PDB)	2RN2	2rn2_A:K91R 2rn2_A:D94E 2rn2_A:K95G	5.5	25	CD	GdnHCl	-	-	-	-	-	-	-	9.14	-0.01
+24257	P05798	D25K E74K S31P S42G S48P T76P Q77G(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	11.2	3.9
+24258	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	13.6	6.3
+24261	P05798	D25K E74K S31P S42G S48P T76P Q77G I92D(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:I92D	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	2.2	-5.1
+24262	P05798	D25K E74K S31P S42G S48P T76P Q77G D79A(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79A	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	12.1	4.9
+24263	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F I92D(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:I92D	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	5.5	-2.2
+24264	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F I70D(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:I70D	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	3.7	-3.6
+24265	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F I92A(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:I92A	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	9.2	1.9
+24266	P05798	D25K E74K S31P S42G S48P T76P Q77G D79F Y80A(Based on UniProt and PDB)	1RGG	1rgg_A:D25K 1rgg_A:E74K 1rgg_A:S31P 1rgg_A:S42G 1rgg_A:S48P 1rgg_A:T76P 1rgg_A:Q77G 1rgg_A:D79F 1rgg_A:Y80A	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	7.4	0.1
+24267	P05798	D1K D17K E41K D25K E74K D79K S31K(Based on UniProt and PDB)	1RGG	1rgg_A:D1K 1rgg_A:D17K 1rgg_A:E41K 1rgg_A:D25K 1rgg_A:E74K 1rgg_A:D79K 1rgg_A:S31K	3.0	25	CD	Urea	-	-	-	-	-	-	-	2.6	0
+24268	P05798	D1K D17K E41K D25K E74K D79K(Based on UniProt and PDB)	1RGG	1rgg_A:D1K 1rgg_A:D17K 1rgg_A:E41K 1rgg_A:D25K 1rgg_A:E74K 1rgg_A:D79K	3.0	25	CD	Urea	-	-	-	-	-	-	-	2.7	0.2
+24269	P05798	D1K D17K E41K D25K E74K(Based on UniProt and PDB)	1RGG	1rgg_A:D1K 1rgg_A:D17K 1rgg_A:E41K 1rgg_A:D25K 1rgg_A:E74K	3.0	25	CD	Urea	-	-	-	-	-	-	-	3.5	0.9
+24270	P05798	D1K D17K E41K(Based on UniProt and PDB)	1RGG	1rgg_A:D1K 1rgg_A:D17K 1rgg_A:E41K	3.0	25	CD	Urea	-	-	-	-	-	-	-	3.3	0.7
+24274	P05798	R40E R63E R65A(Based on UniProt and PDB)	1RGG	1rgg_A:R40E 1rgg_A:R63E 1rgg_A:R65A	3.0	25	CD	Urea	-	-	-	-	-	-	-	2.1	-0.5
+24275	P05798	R40E R63E R65A R68A R69A(Based on UniProt and PDB)	1RGG	1rgg_A:R40E 1rgg_A:R63E 1rgg_A:R65A 1rgg_A:R68A 1rgg_A:R69A	3.0	25	CD	Urea	-	-	-	-	-	-	-	5.3	2.7
+24276	P05798	D1K D17K E41K D25K E74K D79K S31K(Based on UniProt and PDB)	1RGG	1rgg_A:D1K 1rgg_A:D17K 1rgg_A:E41K 1rgg_A:D25K 1rgg_A:E74K 1rgg_A:D79K 1rgg_A:S31K	7.0	25	CD	Urea	-	-	-	-	-	-	-	6.6	0.2
+24277	P05798	D1K D17K E41K D25K E74K D79K(Based on UniProt and PDB)	1RGG	1rgg_A:D1K 1rgg_A:D17K 1rgg_A:E41K 1rgg_A:D25K 1rgg_A:E74K 1rgg_A:D79K	7.0	25	CD	Urea	-	-	-	-	-	-	-	7.1	0.7
+24278	P05798	D1K D17K E41K D25K E74K(Based on UniProt and PDB)	1RGG	1rgg_A:D1K 1rgg_A:D17K 1rgg_A:E41K 1rgg_A:D25K 1rgg_A:E74K	7.0	25	CD	Urea	-	-	-	-	-	-	-	5.7	-0.7
+24279	P05798	D1K D17K E41K(Based on UniProt and PDB)	1RGG	1rgg_A:D1K 1rgg_A:D17K 1rgg_A:E41K	7.0	25	CD	Urea	-	-	-	-	-	-	-	3.7	-2.7
+24283	P05798	R40E R63E R65A(Based on UniProt and PDB)	1RGG	1rgg_A:R40E 1rgg_A:R63E 1rgg_A:R65A	7.0	25	CD	Urea	-	-	-	-	-	-	-	4.6	-1.8
+24284	P05798	R40E R63E R65A R68A R69A(Based on UniProt and PDB)	1RGG	1rgg_A:R40E 1rgg_A:R63E 1rgg_A:R65A 1rgg_A:R68A 1rgg_A:R69A	7.0	25	CD	Urea	-	-	-	-	-	-	-	3.9	-2.5
+24545	P0A9X9	F18L F20L F31L(Based on UniProt and PDB)	1MJC	1mjc_A:F18L 1mjc_A:F20L 1mjc_A:F31L	7.0	25	CD	Urea	-	-	-	-	-	-	-	2.12	-0.88
+24660	P00509	C77A C180A C181A C258A C389A (Based on UniProt)	1AMQ	1amq_A:C82A 1amq_A:C191A 1amq_A:C192A 1amq_A:C270A 1amq_A:C401A	7.5	25	DSC	Urea	-	-	-	-	-	-	-	8.92	-1
+24738	P00044	R44A N58I C108A (Based on UniProt)	1YCC	1ycc_A:R38A 1ycc_A:N52I 1ycc_A:C102A	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	8.2	-
+24739	P00044	R44A F88S C108A (Based on UniProt)	1YCC	1ycc_A:R38A 1ycc_A:F82S 1ycc_A:C102A	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.3	-
+24740	P00044	N58I F88S C108A (Based on UniProt)	1YCC	1ycc_A:N52I 1ycc_A:F82S 1ycc_A:C102A	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	5.5	-
+24741	P00044	R44A N58I F88S C108A (Based on UniProt)	1YCC	1ycc_A:R38A 1ycc_A:N52I 1ycc_A:F82S 1ycc_A:C102A	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.2	-
+24750	P18912	W290Y W315Y F379W(Based on UniProt and PDB)	1PHP	1php_A:W290Y 1php_A:W315Y 1php_A:F379W	7.5	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.95	-
+24751	P18912	W290Y W315Y F379W(Based on UniProt and PDB)	1PHP	1php_A:W290Y 1php_A:W315Y 1php_A:F379W	7.5	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	10.85	-
+24752	P18912	W290Y W315Y F379W(Based on UniProt and PDB)	1PHP	1php_A:W290Y 1php_A:W315Y 1php_A:F379W	7.5	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	8.93	-
+24753	P18912	W290Y W315Y F379W(Based on UniProt and PDB)	1PHP	1php_A:W290Y 1php_A:W315Y 1php_A:F379W	7.5	25	Fluorescence	Urea	-	-	-	-	-	-	-	3.77	-
+24754	P18912	W290Y W315Y F379W(Based on UniProt and PDB)	1PHP	1php_A:W290Y 1php_A:W315Y 1php_A:F379W	7.5	25	Fluorescence	Urea	-	-	-	-	-	-	-	10.78	-
+24755	P18912	W290Y W315Y F379W(Based on UniProt and PDB)	1PHP	1php_A:W290Y 1php_A:W315Y 1php_A:F379W	7.5	25	Fluorescence	Urea	-	-	-	-	-	-	-	8.15	-
+24781	P01308	T97H H34D F49H (Based on UniProt)	1ZNJ	1znj_A:T8H 1znj_B:H10D 1znj_B:F25H	8.0	25	CD	GdnHCl	-	-	-	-	-	-	-	6.9	3.14
+24791	P00648	I51A I72V I98V Y125F (Based on UniProt)	1BNI	1bni_A:I4A 1bni_A:I25V 1bni_A:I51V 1bni_A:Y78F	6.3	25	Fluorescence	Urea	-	-	-	-	-	-	-	3.59	-5.2
+24854	P60174	Q217D K231A A253P (Based on UniProt)	1HTI	1hti_A:Q179D 1hti_A:K193A 1hti_A:A215P	8.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	22.3	3
+24897	Q7SSI0	Q7K L33I L63I(Based on UniProt and PDB)	2AVO	2avo_A:Q7K 2avo_A:L33I 2avo_A:L63I	7.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	2.49	0.33
+24898	Q7SSI0	Q7K L33I L63I(Based on UniProt and PDB)	2AVO	2avo_A:Q7K 2avo_A:L33I 2avo_A:L63I	5.0	25	Fluorescence	Urea	-	-	-	-	-	-	-	3.02	0.25
+24917	P06654	I232V L233I E245K A250E V255A E268V (Based on UniProt)	1PGA	1pga_A:I6V 1pga_A:L7I 1pga_A:E19K 1pga_A:A24E 1pga_A:V29A 1pga_A:E42V	11.2	25	CD	Thermal	-	-	-	2.9	93.9	3.9	-	-	-
+24973	P01607	Y51D K56T (Based on UniProt)	1LVE	1lve_A:Y27DD 1lve_A:K30T	7.5	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	8.3	0.6
+25169	P02647	W74F W96F W132F (Based on UniProt)	1AV1	1av1_A:W50F 1av1_A:W72F 1av1_A:W108F	7.8	25	CD	GdnHCl	-	-	-	-	-	-	-	1.1	-
+25170	P02647	W74F W96F W132F (Based on UniProt)	1AV1	1av1_A:W50F 1av1_A:W72F 1av1_A:W108F	7.8	25	CD	GdnHCl	-	-	-	-	-	-	-	1.6	-
+25171	P02647	W96F W132F (Based on UniProt)	1AV1	1av1_A:W72F 1av1_A:W108F	7.8	25	CD	GdnHCl	-	-	-	-	-	-	-	1.5	-
+25172	P02647	W74F W132F (Based on UniProt)	1AV1	1av1_A:W50F 1av1_A:W108F	7.8	25	CD	GdnHCl	-	-	-	-	-	-	-	1.3	-
+25173	P02647	W74F W96F (Based on UniProt)	1AV1	1av1_A:W50F 1av1_A:W72F	7.8	25	CD	GdnHCl	-	-	-	-	-	-	-	1.3	-
+25362	P03050	R16A E17A V18A D20A R23A K24A V25A E27A E28A N34A S35A Q39A(Based on UniProt and PDB)	1ARR	1arr_A:R16A 1arr_A:E17A 1arr_A:V18A 1arr_A:D20A 1arr_A:R23A 1arr_A:K24A 1arr_A:V25A 1arr_A:E27A 1arr_A:E28A 1arr_A:N34A 1arr_A:S35A 1arr_A:Q39A	7.5	25	CD	Thermal	-	-	-	-	-	16	-	-	-
+25363	P03050	R16A E17A V18A D20A R23A K24A V25A E27A E28A N34A S35A Q39A E43A K46A G52A(Based on UniProt and PDB)	1ARR	1arr_A:R16A 1arr_A:E17A 1arr_A:V18A 1arr_A:D20A 1arr_A:R23A 1arr_A:K24A 1arr_A:V25A 1arr_A:E27A 1arr_A:E28A 1arr_A:N34A 1arr_A:S35A 1arr_A:Q39A 1arr_A:E43A 1arr_A:K46A 1arr_A:G52A	7.5	25	CD	Thermal	-	-	-	-	-	15.2	-	-	-
+25448	P04637	I332V M340I F341L(Based on UniProt and PDB)	1SAK	1sak_A:I332V 1sak_A:M340I 1sak_A:F341L	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	29.4	-3.1
+25450	P04637	I332V F341L L344I(Based on UniProt and PDB)	1SAK	1sak_A:I332V 1sak_A:F341L 1sak_A:L344I	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	32.4	-0.1
+25451	P04637	F328L I332V F341L L344I(Based on UniProt and PDB)	1SAK	1sak_A:F328L 1sak_A:I332V 1sak_A:F341L 1sak_A:L344I	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	26.8	-5.7
+25662	P00648	D55A D59A R157A (Based on UniProt)	1BNI	1bni_A:D8A 1bni_A:D12A 1bni_A:R110A	6.3	25	Fluorescence	Urea	-	-	-	-	-	-	-	-	0.11
+25773	P03050	Q9A N11A R13A(Based on UniProt and PDB)	1ARR	1arr_A:Q9A 1arr_A:N11A 1arr_A:R13A	7.5	25	CD	Urea	-	-	-	-	-	-	-	11.83	1.21
+25774	P03050	Q9G N11G R13G(Based on UniProt and PDB)	1ARR	1arr_A:Q9G 1arr_A:N11G 1arr_A:R13G	7.5	25	CD	Urea	-	-	-	-	-	-	-	10.82	0.2
+25789	P03050	K2T M4R S5R K6E P8T(Based on UniProt and PDB)	1ARR	1arr_A:K2T 1arr_A:M4R 1arr_A:S5R 1arr_A:K6E 1arr_A:P8T	7.5	25	CD	GdnHCl	-	-	-	-	-	-	-	-	2.8
+25790	P03050	K2T G3A S5N M7T P8Q(Based on UniProt and PDB)	1ARR	1arr_A:K2T 1arr_A:G3A 1arr_A:S5N 1arr_A:M7T 1arr_A:P8Q	7.5	25	CD	GdnHCl	-	-	-	-	-	-	-	-	2.9
+25791	P03050	Q9R F10L N11I R13K R16G(Based on UniProt and PDB)	1ARR	1arr_A:Q9R 1arr_A:F10L 1arr_A:N11I 1arr_A:R13K 1arr_A:R16G	7.5	25	CD	GdnHCl	-	-	-	-	-	-	-	-	0.4
+25793	P03050	K46R E48V I51S A53K(Based on UniProt and PDB)	1ARR	1arr_A:K46R 1arr_A:E48V 1arr_A:I51S 1arr_A:A53K	7.5	25	CD	GdnHCl	-	-	-	-	-	-	-	-	-0.9
+25794	P03050	F45L R50G I51S(Based on UniProt and PDB)	1ARR	1arr_A:F45L 1arr_A:R50G 1arr_A:I51S	7.5	25	CD	GdnHCl	-	-	-	-	-	-	-	-	-1.2
+26172	P00648	D55A D59A R157A (Based on UniProt)	1BNI	1bni_A:D8A 1bni_A:D12A 1bni_A:R110A	6.3	25	Fluorescence	Urea	-	-	-	-	-	-	-	10.04	0.11
+26189	P01009	T83A T92A A94G (Based on UniProt)	1QLP	1qlp_A:T59A 1qlp_A:T68A 1qlp_A:A70G	6.5	25	CD	Urea	-	-	-	-	-	-	-	-	3.4
+26275	P06654	L231V I232V L233F V280L (Based on UniProt)	1PGA	1pga_A:L5V 1pga_A:I6V 1pga_A:L7F 1pga_A:V54L	5.4	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.79	-
+26277	P06654	I232V L233V F278L (Based on UniProt)	1PGA	1pga_A:I6V 1pga_A:L7V 1pga_A:F52L	5.4	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	1.8	-
+26278	P06654	L231F I232L L233I F278V (Based on UniProt)	1PGA	1pga_A:L5F 1pga_A:I6L 1pga_A:L7I 1pga_A:F52V	5.4	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	1.17	-
+26279	P06654	L231M L233I F278L V280I (Based on UniProt)	1PGA	1pga_A:L5M 1pga_A:L7I 1pga_A:F52L 1pga_A:V54I	5.4	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	0.96	-
+26284	P01053	S32G E34A E35A (Based on UniProt)	2CI2	2ci2_I:S31G 2ci2_I:E33A 2ci2_I:E34A	6.25	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.79	-
+26285	P01053	S32A E34A E35A (Based on UniProt)	2CI2	2ci2_I:S31A 2ci2_I:E33A 2ci2_I:E34A	6.25	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.86	-
+26295	P01053	S32G E34A E35A (Based on UniProt)	2CI2	2ci2_I:S31G 2ci2_I:E33A 2ci2_I:E34A	3.0	25	DSC	Thermal	-	-	-	-	-	-	1.28	-	-
+26296	P01053	S32A E34A E35A (Based on UniProt)	2CI2	2ci2_I:S31A 2ci2_I:E33A 2ci2_I:E34A	3.0	25	DSC	Thermal	-	-	-	-	-	-	1.33	-	-
+26505	P04166	A34S I48L L63R (Based on UniProt)	1B5M	1b5m_A:A18S 1b5m_A:I32L 1b5m_A:L47R	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+26510	P04166	A34S I48L L63R (Based on UniProt)	1B5M	1b5m_A:A18S 1b5m_A:I32L 1b5m_A:L47R	7.0	25	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+26647	P81180	P51G S11A S20A(Based on UniProt and PDB)	1IIY	1iiy_A:P51G 1iiy_A:S11A 1iiy_A:S20A	6.0	25	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+26648	P81180	P51G S11V S20A(Based on UniProt and PDB)	1IIY	1iiy_A:P51G 1iiy_A:S11V 1iiy_A:S20A	6.0	25	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+26649	P81180	P51G S11I S20A(Based on UniProt and PDB)	1IIY	1iiy_A:P51G 1iiy_A:S11I 1iiy_A:S20A	6.0	25	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+26650	P81180	P51G S11V S20A T61V(Based on UniProt and PDB)	1IIY	1iiy_A:P51G 1iiy_A:S11V 1iiy_A:S20A 1iiy_A:T61V	6.0	25	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+26651	P81180	P51G S11A S20A T61I(Based on UniProt and PDB)	1IIY	1iiy_A:P51G 1iiy_A:S11A 1iiy_A:S20A 1iiy_A:T61I	6.0	25	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+27609	P05230	K27V C132V P149V (Based on UniProt)	1JQZ	1jqz_A:K12V 1jqz_A:C117V 1jqz_A:P134V	8.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	9.53 (0.09)	3.42
+27766	P69168	T31I T119I D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:D209Y	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	7.32	0.94
+27767	P69168	T31I T119I Q147H D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:Q129H 1g3p_A:D209Y	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	8.93	2.55
+27772	P69168	T31I T119I D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:D209Y	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	7.2	1.78
+27773	P69168	T31I T119I Q147H D227Y (Based on UniProt)	1G3P	1g3p_A:T13I 1g3p_A:T101I 1g3p_A:Q129H 1g3p_A:D209Y	7.0	25	Fluorescence	GdnHCl	-	-	-	-	-	-	-	6.86	1.44
+28087	P01308	H34D P52K K53P (Based on UniProt)	1ZNJ	1znj_B:H10D 1znj_B:P28K 1znj_B:K29P	7.5	23	CD	GdnHCl	-	-	-	-	-	-	-	4.7	-
+28089	P01308	H34D P52V K53P (Based on UniProt)	1ZNJ	1znj_B:H10D 1znj_B:P28V 1znj_B:K29P	7.5	23	CD	GdnHCl	-	-	-	-	-	-	-	4.9	-
+28090	P01308	H34D P52D K53P (Based on UniProt)	1ZNJ	1znj_B:H10D 1znj_B:P28D 1znj_B:K29P	7.5	23	CD	GdnHCl	-	-	-	-	-	-	-	5.7	-
+28091	P01308	H34D P52E K53P (Based on UniProt)	1ZNJ	1znj_B:H10D 1znj_B:P28E 1znj_B:K29P	7.5	23	CD	GdnHCl	-	-	-	-	-	-	-	5.2	-
+28092	P01308	H34D P52Q K53P (Based on UniProt)	1ZNJ	1znj_B:H10D 1znj_B:P28Q 1znj_B:K29P	7.5	23	CD	GdnHCl	-	-	-	-	-	-	-	5.4	-
+28152	P00044	H32N H39N H45Q C108S (Based on UniProt)	1YCC	1ycc_A:H26N 1ycc_A:H33N 1ycc_A:H39Q 1ycc_A:C102S	7.5	22	CD	GdnHCl	-	-	-	-	-	-	-	4	-1.05
+28314	P62942	E32Q D33N H95N (Based on UniProt)	1FKB	1fkb_A:E31Q 1fkb_A:D32N 1fkb_A:H94N	6.5	21.5	Fluorescence	Urea	-	-	-	-	-	-	-	5.94 (0.18)	0.87
+28317	P62942	R41I D42E R43E N44Y K45E (Based on UniProt)	1FKB	1fkb_A:R40I 1fkb_A:D41E 1fkb_A:R42E 1fkb_A:N43Y 1fkb_A:K44E	6.5	21.5	Fluorescence	Urea	-	-	-	-	-	-	-	3.18	-1.89
+28320	P62942	T22K V24K K48E (Based on UniProt)	1FKB	1fkb_A:T21K 1fkb_A:V23K 1fkb_A:K47E	6.5	21.5	Fluorescence	Urea	-	-	-	-	-	-	-	2.19	-2.88
+28321	P62942	T22K V24K K48E K53E (Based on UniProt)	1FKB	1fkb_A:T21K 1fkb_A:V23K 1fkb_A:K47E 1fkb_A:K52E	6.5	21.5	Fluorescence	Urea	-	-	-	-	-	-	-	2.31	-2.76
+28322	P62942	T22K V24K K48E K53E K106E (Based on UniProt)	1FKB	1fkb_A:T21K 1fkb_A:V23K 1fkb_A:K47E 1fkb_A:K52E 1fkb_A:K105E	6.5	21.5	Fluorescence	Urea	-	-	-	-	-	-	-	3.22	-1.85
+28342	P62942	E32Q D33N H95N (Based on UniProt)	1FKB	1fkb_A:E31Q 1fkb_A:D32N 1fkb_A:H94N	6.5	21.5	Fluorescence	Urea	-	-	-	-	-	-	-	5.94 (0.18)	0.87
+28345	P62942	R41I D42E R43E N44Y K45E (Based on UniProt)	1FKB	1fkb_A:R40I 1fkb_A:D41E 1fkb_A:R42E 1fkb_A:N43Y 1fkb_A:K44E	6.5	21.5	Fluorescence	Urea	-	-	-	-	-	-	-	3.18	-1.89
+28348	P62942	T22K V24K K48E (Based on UniProt)	1FKB	1fkb_A:T21K 1fkb_A:V23K 1fkb_A:K47E	6.5	21.5	Fluorescence	Urea	-	-	-	-	-	-	-	2.19	-2.88
+28349	P62942	T22K V24K K48E K53E (Based on UniProt)	1FKB	1fkb_A:T21K 1fkb_A:V23K 1fkb_A:K47E 1fkb_A:K52E	6.5	21.5	Fluorescence	Urea	-	-	-	-	-	-	-	2.31	-2.76
+28350	P62942	T22K V24K K48E K53E K106E (Based on UniProt)	1FKB	1fkb_A:T21K 1fkb_A:V23K 1fkb_A:K47E 1fkb_A:K52E 1fkb_A:K105E	6.5	21.5	Fluorescence	Urea	-	-	-	-	-	-	-	3.22	-1.85
+28378	P00644	H206L P129G P199G (Based on UniProt)	1STN	1stn_A:H124L 1stn_A:P47G 1stn_A:P117G	5.5	21	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.47	-
+28518	P00644	V105I L107I V148I (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25I 1stn_A:V66I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.5	-2.9
+28519	P00644	V105I L107I V148L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25I 1stn_A:V66L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.9	-2.5
+28520	P00644	V105I L107V V148I (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:V66I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.7	-2.7
+28521	P00644	V105I L107V V148L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:V66L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.3	-2.1
+28522	P00644	V105L L107V V148L (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25V 1stn_A:V66L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.4	-2
+28523	P00644	V105L L107V V148I (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25V 1stn_A:V66I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.6	-2.8
+28524	P00644	V105L L107I V148I (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25I 1stn_A:V66I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.3	-3.1
+28525	P00644	V105L L107I V148L (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25I 1stn_A:V66L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3	-2.4
+28526	P00644	V105I L107I I154V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25I 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.6	-2.8
+28527	P00644	V105I L107I I154L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25I 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.7	-1.7
+28528	P00644	V105I L107V I154V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.1	-2.3
+28529	P00644	V105I L107V I154L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.3	-1.1
+28530	P00644	V105L L107V I154V (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25V 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.6	-2.8
+28531	P00644	V105L L107V I154L (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25V 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.9	-1.5
+28532	P00644	V105L L107I I154V (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25I 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.9	-2.5
+28533	P00644	V105L L107I I154L (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25I 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4	-1.4
+28534	P00644	V148I I174V V181I (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I92V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.9	-0.5
+28535	P00644	V148L I174V V181I (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I92V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	5	-0.4
+28536	P00644	V148I I174V V181L (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I92V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.5	-0.9
+28537	P00644	V148L I174V V181L (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I92V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	5.5	0.1
+28538	P00644	V148L I174L V181L (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I92L 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.7	-0.7
+28539	P00644	V148I I174L V181L (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I92L 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.3	-2.1
+28540	P00644	V148L I174L V181I (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I92L 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4	-1.4
+28541	P00644	V148I I174L V181I (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I92L 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.3	-2.1
+28542	P00644	I154V I174V V181I (Based on UniProt)	1STN	1stn_A:I72V 1stn_A:I92V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4	-1.4
+28543	P00644	I154L I174V V181I (Based on UniProt)	1STN	1stn_A:I72L 1stn_A:I92V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.7	-0.7
+28544	P00644	I154V I174V V181L (Based on UniProt)	1STN	1stn_A:I72V 1stn_A:I92V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.4	-2
+28545	P00644	I154L I174V V181L (Based on UniProt)	1STN	1stn_A:I72L 1stn_A:I92V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.3	-1.1
+28546	P00644	I154L I174L V181L (Based on UniProt)	1STN	1stn_A:I72L 1stn_A:I92L 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4	-1.4
+28547	P00644	I154V I174L V181L (Based on UniProt)	1STN	1stn_A:I72V 1stn_A:I92L 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3	-2.4
+28548	P00644	I154L I174L V181I (Based on UniProt)	1STN	1stn_A:I72L 1stn_A:I92L 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4	-1.4
+28549	P00644	I154V I174L V181I (Based on UniProt)	1STN	1stn_A:I72V 1stn_A:I92L 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.3	-2.1
+28550	P00644	V105I V148I I154L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:V66I 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.4	-2
+28551	P00644	V105I V148I I154V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:V66I 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.8	-1.6
+28552	P00644	V105I V148L I154L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:V66L 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4	-1.4
+28553	P00644	V105I V148L I154V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:V66L 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.5	-0.9
+28554	P00644	V105L V148I I154L (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:V66I 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.4	-2
+28555	P00644	V105L V148I I154V (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:V66I 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.8	-1.6
+28556	P00644	V105L V148L I154L (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:V66L 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.1	-1.3
+28557	P00644	V105L V148L I154V (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:V66L 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.1	-1.3
+28558	P00644	L107I V148I I154L (Based on UniProt)	1STN	1stn_A:L25I 1stn_A:V66I 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.4	-3
+28559	P00644	L107I V148I I154V (Based on UniProt)	1STN	1stn_A:L25I 1stn_A:V66I 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.2	-3.2
+28560	P00644	L107I V148L I154L (Based on UniProt)	1STN	1stn_A:L25I 1stn_A:V66L 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.1	-2.3
+28561	P00644	L107I V148L I154V (Based on UniProt)	1STN	1stn_A:L25I 1stn_A:V66L 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.2	-2.2
+28562	P00644	L107V V148I I154L (Based on UniProt)	1STN	1stn_A:L25V 1stn_A:V66I 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.4	-3
+28563	P00644	L107V V148I I154V (Based on UniProt)	1STN	1stn_A:L25V 1stn_A:V66I 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.3	-3.1
+28564	P00644	L107V V148L I154L (Based on UniProt)	1STN	1stn_A:L25V 1stn_A:V66L 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.2	-2.2
+28565	P00644	L107V V148L I154V (Based on UniProt)	1STN	1stn_A:L25V 1stn_A:V66L 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.4	-2
+28566	P00644	V148I I154L I174L (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72L 1stn_A:I92L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.1	-2.3
+28567	P00644	V148I I154V I174L (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72V 1stn_A:I92L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.4	-2
+28568	P00644	V148L I154L I174L (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72L 1stn_A:I92L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.9	-1.5
+28569	P00644	V148L I154V I174L (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72V 1stn_A:I92L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.1	-1.3
+28570	P00644	V148I I154L I174V (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72L 1stn_A:I92V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4	-1.4
+28571	P00644	V148I I154V I174V (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72V 1stn_A:I92V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4	-1.4
+28572	P00644	V148L I154L I174V (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72L 1stn_A:I92V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.6	-0.8
+28573	P00644	V148L I154V I174V (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72V 1stn_A:I92V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.9	-0.5
+28574	P00644	V148I I154L V181L (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72L 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.5	-1.9
+28575	P00644	V148I I154V V181L (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.8	-1.6
+28576	P00644	V148L I154L V181L (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72L 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.6	-0.8
+28577	P00644	V148L I154V V181L (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.9	-0.5
+28578	P00644	V148I I154L V181I (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72L 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.5	-1.9
+28579	P00644	V148I I154V V181I (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.6	-0.8
+28580	P00644	V148L I154L V181I (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72L 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.4	-1
+28581	P00644	V148L I154V V181I (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.6	-0.8
+28582	P00644	V105I L107I V148I I154V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25I 1stn_A:V66I 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.2	-3.2
+28583	P00644	V105I L107I V148I I154L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25I 1stn_A:V66I 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.2	-3.2
+28584	P00644	V105I L107I V148L I154L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25I 1stn_A:V66L 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.7	-2.7
+28585	P00644	V105I L107I V148L I154V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25I 1stn_A:V66L 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.8	-2.6
+28586	P00644	V105I L107V V148I I154V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:V66I 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.4	-3
+28587	P00644	V105I L107V V148I I154L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:V66I 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.6	-2.8
+28588	P00644	V105I L107V V148L I154L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:V66L 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.9	-2.5
+28589	P00644	V105I L107V V148L I154V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:V66L 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.3	-2.1
+28590	P00644	V105L L107I V148I I154V (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25I 1stn_A:V66I 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2	-3.4
+28591	P00644	V105L L107I V148I I154L (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25I 1stn_A:V66I 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.2	-3.2
+28592	P00644	V105L L107I V148L I154L (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25I 1stn_A:V66L 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3	-2.4
+28593	P00644	V105L L107I V148L I154V (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25I 1stn_A:V66L 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.8	-2.6
+28594	P00644	V105L L107V V148I I154V (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25V 1stn_A:V66I 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2	-3.4
+28595	P00644	V105L L107V V148I I154L (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25V 1stn_A:V66I 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.6	-2.8
+28596	P00644	V105L L107V V148L I154L (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25V 1stn_A:V66L 1stn_A:I72L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.4	-2
+28597	P00644	V105L L107V V148L I154V (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25V 1stn_A:V66L 1stn_A:I72V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.9	-2.5
+28598	P00644	V148I I154V I174V V181I (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72V 1stn_A:I92V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.4	-1
+28599	P00644	V148I I154V I174V V181L (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72V 1stn_A:I92V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.7	-1.7
+28600	P00644	V148I I154V I174L V181I (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72V 1stn_A:I92L 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.4	-2
+28601	P00644	V148I I154V I174L V181L (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72V 1stn_A:I92L 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3	-2.4
+28602	P00644	V148I I154L I174V V181I (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72L 1stn_A:I92V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.8	-1.6
+28603	P00644	V148I I154L I174V V181L (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72L 1stn_A:I92V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.6	-1.8
+28604	P00644	V148I I154L I174L V181I (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72L 1stn_A:I92L 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.1	-3.3
+28605	P00644	V148I I154L I174L V181L (Based on UniProt)	1STN	1stn_A:V66I 1stn_A:I72L 1stn_A:I92L 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.4	-3
+28606	P00644	V148L I154V I174V V181I (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72V 1stn_A:I92V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.6	-0.8
+28607	P00644	V148L I154V I174V V181L (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72V 1stn_A:I92V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.7	-0.7
+28608	P00644	V148L I154V I174L V181I (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72V 1stn_A:I92L 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.6	-1.8
+28609	P00644	V148L I154V I174L V181L (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72V 1stn_A:I92L 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4	-1.4
+28610	P00644	V148L I154L I174V V181I (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72L 1stn_A:I92V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.4	-1
+28611	P00644	V148L I154L I174V V181L (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72L 1stn_A:I92V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.7	-0.7
+28612	P00644	V148L I154L I174L V181I (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72L 1stn_A:I92L 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.5	-1.9
+28613	P00644	V148L I154L I174L V181L (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:I72L 1stn_A:I92L 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.1	-1.3
+28615	P00644	V105I L107V I154V I174V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:I72V 1stn_A:I92V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3	-2.4
+28616	P00644	V105I L107V V148L I154V I174V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:V66L 1stn_A:I72V 1stn_A:I92V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.5	-1.9
+28617	P00644	V105I V148L I154V I174V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:V66L 1stn_A:I72V 1stn_A:I92V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	4.8	-0.6
+28618	P00644	V105I L107V I154V I174V V181L (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:I72V 1stn_A:I92V 1stn_A:V99L	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.4	-3
+28619	P00644	V105I L107V I154V I174V V181I (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25V 1stn_A:I72V 1stn_A:I92V 1stn_A:V99I	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.7	-2.7
+28620	P00644	V105I L107I V148L I154V I174V (Based on UniProt)	1STN	1stn_A:V23I 1stn_A:L25I 1stn_A:V66L 1stn_A:I72V 1stn_A:I92V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.1	-2.3
+28621	P00644	V105L L107V V148L I154V I174V (Based on UniProt)	1STN	1stn_A:V23L 1stn_A:L25V 1stn_A:V66L 1stn_A:I72V 1stn_A:I92V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	3.2	-2.2
+29039	P42771	W15D L37S L121R(Based on UniProt and PDB)	1A5E	1a5e_A:W15D 1a5e_A:L37S 1a5e_A:L121R	8.5	20	CD	Urea	-	-	-	-	-	-	-	4.77	1.42
+29068	P00560	W309F W334F Y123W (Based on UniProt)	3PGK	3pgk_A:W308F 3pgk_A:W333F 3pgk_A:Y122W	6.2	20	CD	GdnHCl	-	-	-	-	-	-	-	5.71	-
+29073	P00560	W309F W334F Y123W (Based on UniProt)	3PGK	3pgk_A:W308F 3pgk_A:W333F 3pgk_A:Y122W	6.2	20	CD	Thermal	-	-	-	-	-	5.23	-	-	-
+29122	P63159	D139H (Based on UniProt)	1HME	1hme_A:D51H	7.0	20	CD	Thermal	-	-	-	-	-	3.67	0.97	-	-
+29123	P63159	D140H (Based on UniProt)	1HME	1hme_A:D52H	7.0	20	CD	Thermal	-	-	-	-	-	3.65	0.95	-	-
+29124	P63159	N135H D139H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D51H	7.0	20	CD	Thermal	-	-	-	-	-	1.74	-0.96	-	-
+29125	P63159	N135H D139H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D51H	7.0	20	CD	Thermal	-	-	-	-	-	4.04	1.34	-	-
+29126	P63159	N135H D140H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D52H	7.0	20	CD	Thermal	-	-	-	-	-	1.8	-0.9	-	-
+29127	P63159	N135H D139H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D51H	7.0	20	CD	Thermal	-	-	-	-	-	4.32	1.62	-	-
+29128	P63159	N135H D140H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D52H	7.0	20	CD	Thermal	-	-	-	-	-	2.46	-0.24	-	-
+29133	P63159	D139H (Based on UniProt)	1HME	1hme_A:D51H	7.0	20	CD	Thermal	-	-	-	-	-	2.97	0.27	-	-
+29134	P63159	D140H (Based on UniProt)	1HME	1hme_A:D52H	7.0	20	CD	Thermal	-	-	-	-	-	2.34	-0.36	-	-
+29135	P63159	N135H D139H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D51H	7.0	20	CD	Thermal	-	-	-	-	-	1.69	-1.01	-	-
+29136	P63159	N135H D139H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D51H	7.0	20	CD	Thermal	-	-	-	-	-	2.42	-0.28	-	-
+29137	P63159	N135H D140H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D52H	7.0	20	CD	Thermal	-	-	-	-	-	1.4	-1.3	-	-
+29138	P63159	N135H D139H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D51H	7.0	20	CD	Thermal	-	-	-	-	-	1.67	-1.03	-	-
+29139	P63159	N135H D140H (Based on UniProt)	1HME	1hme_A:N47H 1hme_A:D52H	7.0	20	CD	Thermal	-	-	-	-	-	1.5	-1.2	-	-
+29147	P96110	R191A E232A K194A (Based on UniProt)	1B26	1b26_A:R190A 1b26_A:E231A 1b26_A:K193A	7.0	20	CD	Urea	-	-	-	-	-	-	-	4.89	0.04
+29155	P96110	R191A E232A K194A (Based on UniProt)	1B26	1b26_A:R190A 1b26_A:E231A 1b26_A:K193A	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	5.15	0.03
+29184	P03034	D15A Y23W Q34Y G45A G49A (Based on UniProt)	3bdn	3bdn_A:D14A 3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:G46A 3bdn_A:G48A	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+29185	P03034	Y23W Q34Y G47A G49A (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:G46A 3bdn_A:G48A	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+29186	P03034	Y23W Q34Y A38G (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:A37G	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+29187	P03034	Y23W Q34Y G47A S46A G49A (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:G46A 3bdn_A:S45A 3bdn_A:G48A	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+29188	P03034	Y23W Q34Y G47A S46A G49A S80A (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:G46A 3bdn_A:S45A 3bdn_A:G48A 3bdn_A:S79A	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+29190	P03034	Y23W G47A G49A (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:G46A 3bdn_A:G48A	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+29193	P03034	Y23W A38G A50G (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:A37G 3bdn_A:A49G	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+29194	P03034	Y23W Q34Y A38G A50G A82G (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:A37G 3bdn_A:A49G 3bdn_A:A81G	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+29195	P03034	Y23W Q34Y A38G S50G (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:A37G 3bdn_A:S49G	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+29196	P03034	Y23W Q34Y M43G S46A G47A G49A S80A (Based on UniProt)	3bdn	3bdn_A:Y22W 3bdn_A:Q33Y 3bdn_A:M42G 3bdn_A:S45A 3bdn_A:G46A 3bdn_A:G48A 3bdn_A:S79A	7.0	20	CD	GdnHCl	-	-	-	-	-	-	-	-	-
+29234	P02185	I29L I31L I76L I100L I102L I108L I112L I113L I143L (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:I30L 1mbd_A:I75L 1mbd_A:I99L 1mbd_A:I101L 1mbd_A:I107L 1mbd_A:I111L 1mbd_A:I112L 1mbd_A:I142L	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	1.9	-
+29235	P02185	I29L I31L I76L I100L I102L I108L I112L I113L I143L V2L V11L V14L V18L V22L V67L V69L V115L (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:I30L 1mbd_A:I75L 1mbd_A:I99L 1mbd_A:I101L 1mbd_A:I107L 1mbd_A:I111L 1mbd_A:I112L 1mbd_A:I142L 1mbd_A:V1L 1mbd_A:V10L 1mbd_A:V13L 1mbd_A:V17L 1mbd_A:V21L 1mbd_A:V66L 1mbd_A:V68L 1mbd_A:V114L	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	1.2	-
+29236	P02185	I29L L41V V67L I76V L87V I102V I112V V115I (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:L40V 1mbd_A:V66L 1mbd_A:I75V 1mbd_A:L86V 1mbd_A:I101V 1mbd_A:I111V 1mbd_A:V114I	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	2.9	-
+29237	P02185	I29V V67I L87V I112V V115L (Based on UniProt)	1MBD	1mbd_A:I28V 1mbd_A:V66I 1mbd_A:L86V 1mbd_A:I111V 1mbd_A:V114L	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	2.1	-
+29238	P02185	I29V L62I V67I I76L L87I I102V I112V (Based on UniProt)	1MBD	1mbd_A:I28V 1mbd_A:L61I 1mbd_A:V66I 1mbd_A:I75L 1mbd_A:L86I 1mbd_A:I101V 1mbd_A:I111V	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	3.6	-
+29239	P02185	I29L V67I I76L I102L I112V L136I (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:V66I 1mbd_A:I75L 1mbd_A:I101L 1mbd_A:I111V 1mbd_A:L135I	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	2.1	-
+29241	P02185	I29L I31L I76L I100L I102L I108L I112L I113L I143L (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:I30L 1mbd_A:I75L 1mbd_A:I99L 1mbd_A:I101L 1mbd_A:I107L 1mbd_A:I111L 1mbd_A:I112L 1mbd_A:I142L	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	0.67	-
+29242	P02185	I29L I31L I76L I100L I102L I108L I112L I113L I143L (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:I30L 1mbd_A:I75L 1mbd_A:I99L 1mbd_A:I101L 1mbd_A:I107L 1mbd_A:I111L 1mbd_A:I112L 1mbd_A:I142L	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	1.9	-
+29243	P02185	I29L L41V V67L I76V L87V I102V I112V V115I (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:L40V 1mbd_A:V66L 1mbd_A:I75V 1mbd_A:L86V 1mbd_A:I101V 1mbd_A:I111V 1mbd_A:V114I	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	3.1	-
+29244	P02185	I29V V67I L87V I112V V115L (Based on UniProt)	1MBD	1mbd_A:I28V 1mbd_A:V66I 1mbd_A:L86V 1mbd_A:I111V 1mbd_A:V114L	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	3.3	-
+29245	P02185	I29V L62I V67I I76L L87I I102V I112V (Based on UniProt)	1MBD	1mbd_A:I28V 1mbd_A:L61I 1mbd_A:V66I 1mbd_A:I75L 1mbd_A:L86I 1mbd_A:I101V 1mbd_A:I111V	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	2.5	-
+29246	P02185	I29L V67I I76L I102L I112V L136I (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:V66I 1mbd_A:I75L 1mbd_A:I101L 1mbd_A:I111V 1mbd_A:L135I	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	3.2	-
+29248	P02185	I29L I31L I76L I100L I102L I108L I112L I113L I143L (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:I30L 1mbd_A:I75L 1mbd_A:I99L 1mbd_A:I101L 1mbd_A:I107L 1mbd_A:I111L 1mbd_A:I112L 1mbd_A:I142L	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	2.6	-
+29249	P02185	I29L I31L I76L I100L I102L I108L I112L I113L I143L V2L V11L V14L V18L V22L V67L V69L V115L (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:I30L 1mbd_A:I75L 1mbd_A:I99L 1mbd_A:I101L 1mbd_A:I107L 1mbd_A:I111L 1mbd_A:I112L 1mbd_A:I142L 1mbd_A:V1L 1mbd_A:V10L 1mbd_A:V13L 1mbd_A:V17L 1mbd_A:V21L 1mbd_A:V66L 1mbd_A:V68L 1mbd_A:V114L	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	3.1	-
+29250	P02185	I29L L41V V67L I76V L87V I102V I112V V115I (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:L40V 1mbd_A:V66L 1mbd_A:I75V 1mbd_A:L86V 1mbd_A:I101V 1mbd_A:I111V 1mbd_A:V114I	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	5.9	-
+29251	P02185	I29V V67I L87V I112V V115L (Based on UniProt)	1MBD	1mbd_A:I28V 1mbd_A:V66I 1mbd_A:L86V 1mbd_A:I111V 1mbd_A:V114L	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	5.5	-
+29252	P02185	I29V L62I V67I I76L L87I I102V I112V (Based on UniProt)	1MBD	1mbd_A:I28V 1mbd_A:L61I 1mbd_A:V66I 1mbd_A:I75L 1mbd_A:L86I 1mbd_A:I101V 1mbd_A:I111V	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	6.1	-
+29253	P02185	I29L V67I I76L I102L I112V L136I (Based on UniProt)	1MBD	1mbd_A:I28L 1mbd_A:V66I 1mbd_A:I75L 1mbd_A:I101L 1mbd_A:I111V 1mbd_A:L135I	8.0	20	CD	GdnHCl	-	-	-	-	-	-	-	5.4	-
+29364	O68541	A26C A334V G348D L380C (Based on UniProt)	1ur1	1ur1_A:A325V 1ur1_A:G339D 1ur1_A:L371C	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	9.18	5.24
+29456	P00644	V148L G161S G170V (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:G79S 1stn_A:G88V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.6	-3
+29486	P04637	M133L V203A N239Y N268D(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D	7.2	20	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+29487	P04637	M133L V203A N239Y N268D Y236F T253I(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D 2ocj_A:Y236F 2ocj_A:T253I	7.2	20	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+29781	P00644	V148L G161S G170V (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:G79S 1stn_A:G88V	7.0	20	Fluorescence	GdnHCl	-	-	-	-	-	-	-	2.6	-3
+29793	P00644	V148L G161S G170V (Based on UniProt)	1STN	1stn_A:V66L 1stn_A:G79S 1stn_A:G88V	7.0	20	Fluorescence	Urea	-	-	-	-	-	-	-	2.7	-3.4
+29810	P03034	G47A G49A P79A (Based on UniProt)	1LRP	1lrp_A:G46A 1lrp_A:G48A 1lrp_A:P78A	6.6	20	CD	GdnHCl	-	-	-	-	-	-	-	5.4	0.2
+29878	P55051	L65S G66A V67N (Based on UniProt)	2IFB	2ifb_A:L64S 2ifb_A:G65A 2ifb_A:V66N	7.4	20	CD	GdnHCl	-	-	-	-	-	-	-	2.39	-4.67
+29879	P55051	L65K G66V V67D (Based on UniProt)	2IFB	2ifb_A:L64K 2ifb_A:G65V 2ifb_A:V66D	7.4	20	CD	GdnHCl	-	-	-	-	-	-	-	1.98	-5.08
+29880	P55051	L65T G66V V67P (Based on UniProt)	2IFB	2ifb_A:L64T 2ifb_A:G65V 2ifb_A:V66P	7.4	20	CD	GdnHCl	-	-	-	-	-	-	-	1.76	-5.3
+29881	P55051	L65G G66A V67F (Based on UniProt)	2IFB	2ifb_A:L64G 2ifb_A:G65A 2ifb_A:V66F	7.4	20	CD	GdnHCl	-	-	-	-	-	-	-	1.41	-5.65
+29882	P55051	L65T G66A V67G (Based on UniProt)	2IFB	2ifb_A:L64T 2ifb_A:G65A 2ifb_A:V66G	7.4	20	CD	GdnHCl	-	-	-	-	-	-	-	2.31	-4.75
+29883	P55051	L65R G66A V67C (Based on UniProt)	2IFB	2ifb_A:L64R 2ifb_A:G65A 2ifb_A:V66C	7.4	20	CD	GdnHCl	-	-	-	-	-	-	-	1.53	-5.53
+30700	P02833	R306E L310R H317R F318R (Based on UniProt)	1san	1san_A:R10E 1san_A:L14R 1san_A:H21R 1san_A:F22R	7.5	15	CD	GdnHCl	-	-	-	-	-	-	-	3.43	1.29
+30701	P02833	R306E L310R H317R F318R (Based on UniProt)	1san	1san_A:R10E 1san_A:L14R 1san_A:H21R 1san_A:F22R	7.5	15	CD	GdnHCl	-	-	-	-	-	-	-	1.04	-0.12
+30720	P03069	E259Q E268Q E270Q (Based on UniProt)	2ZTA	2zta_A:E11Q 2zta_A:E20Q 2zta_A:E22Q	7.0	15	CD	Urea	-	-	-	-	-	-	-	7.73	-2.37
+31037	P13479	V37L E41V V71I(Based on UniProt and PDB)	1IMQ	1imq_A:V37L 1imq_A:E41V 1imq_A:V71I	6.0	10	Fluorescence	Urea	-	-	-	-	-	-	-	6.43	0.53
+31042	P13479	V37L E41V V71I(Based on UniProt and PDB)	1IMQ	1imq_A:V37L 1imq_A:E41V 1imq_A:V71I	7.0	10	Fluorescence	Urea	-	-	-	-	-	-	-	7.53	1.05
+31183	P04637	M133L V203A N239Y N268D(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D	7.2	10	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+31184	P04637	M133L V203A N239Y N268D(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D	7.2	10	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+31185	P04637	M133L V203A N239Y N268D(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D	7.2	10	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+31186	P04637	M133L V203A N239Y N268D Y236F T253I(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D 2ocj_A:Y236F 2ocj_A:T253I	7.2	10	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+31187	P04637	M133L V203A N239Y N268D Y236F T253I(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D 2ocj_A:Y236F 2ocj_A:T253I	7.2	10	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+31188	P04637	M133L V203A N239Y N268D Y236F T253I(Based on UniProt and PDB)	2OCJ	2ocj_A:M133L 2ocj_A:V203A 2ocj_A:N239Y 2ocj_A:N268D 2ocj_A:Y236F 2ocj_A:T253I	7.2	10	Fluorescence	Urea	-	-	-	-	-	-	-	-	-
+31222	P0A9X9	F18S F20S F31S(Based on UniProt and PDB)	1MJC	1mjc_A:F18S 1mjc_A:F20S 1mjc_A:F31S	7.0	10	CD	Urea	-	-	-	-	-	-	-	1.15	-1.77
+31420	P03034	V37L M41L V48I (Based on UniProt)	1LRP	1lrp_A:V36L 1lrp_A:M40L 1lrp_A:V47I	7.0	5	CD	GdnHCl	-	-	-	-	-	-	-	5.9	-0.1
+31421	P03034	V37F M41F V48F (Based on UniProt)	1LRP	1lrp_A:V36F 1lrp_A:M40F 1lrp_A:V47F	7.0	5	CD	GdnHCl	-	-	-	-	-	-	-	2.9	-3.1
+31422	P03034	V37F M41F V48I L66F (Based on UniProt)	1LRP	1lrp_A:V36F 1lrp_A:M40F 1lrp_A:V47I 1lrp_A:L65F	7.0	5	CD	GdnHCl	-	-	-	-	-	-	-	4.4	-1.6
+31430	P06654	I232V L233I E245K A250E V255A E268V (Based on UniProt)	1PGA	1pga_A:I6V 1pga_A:L7I 1pga_A:E19K 1pga_A:A24E 1pga_A:V29A 1pga_A:E42V	12.0	5	CD	Thermal	-	-	-	2.9	60.2	4	-	-	-
+31549	P01308	H34D P52K K53P (Based on UniProt)	1ZNJ	1znj_B:H10D 1znj_B:P28K 1znj_B:K29P	7.4	4	CD	GdnHCl	-	-	-	-	-	-	-	4.9	-
+31550	P01308	H34D P52K K53P V36A (Based on UniProt)	1ZNJ	1znj_B:H10D 1znj_B:P28K 1znj_B:K29P 1znj_B:V12A	7.4	4	CD	GdnHCl	-	-	-	-	-	-	-	4.6	-
+31551	P01308	H34D P52K K53P V36T (Based on UniProt)	1ZNJ	1znj_B:H10D 1znj_B:P28K 1znj_B:K29P 1znj_B:V12T	7.4	4	CD	GdnHCl	-	-	-	-	-	-	-	4.1	-
+31662	P02647	L254P L257P Y260P (Based on UniProt)	1AV1	1av1_A:L230P 1av1_A:L233P 1av1_A:Y236P	7.4	4	CD	Urea	-	-	-	-	-	-	-	4 (0.3)	0.1
+31665	P02647	L254P L257P Y260P (Based on UniProt)	1AV1	1av1_A:L230P 1av1_A:L233P 1av1_A:Y236P	7.5	4	CD	Urea	-	-	-	-	-	-	-	4 (0.3)	-
+31740	P24297	C6L C9T C39A C42T (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T	6.3	1	CD	GdnHCl	-	-	-	-	-	-	-	3.2	-
+31741	P24297	C6L C9T C39A C42T A2Q (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:A1Q	6.3	1	CD	GdnHCl	-	-	-	-	-	-	-	2.1	-
+31742	P24297	C6L C9T C39A C42T E15Q (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:E14Q	6.3	1	CD	GdnHCl	-	-	-	-	-	-	-	1.7	-
+31743	P24297	C6L C9T C39A C42T A2Q E15Q (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:A1Q 1brf_A:E14Q	6.3	1	CD	GdnHCl	-	-	-	-	-	-	-	1.5	-
+31744	P24297	C6L C9T C39A C42T K7A (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:K6A	6.3	1	CD	GdnHCl	-	-	-	-	-	-	-	3.2	-
+31745	P24297	C6L C9T C39A C42T E50A (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:E49A	6.3	1	CD	GdnHCl	-	-	-	-	-	-	-	3.1	-
+31746	P24297	C6L C9T C39A C42T K7A E50A (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:K6A 1brf_A:E49A	6.3	1	CD	GdnHCl	-	-	-	-	-	-	-	2.8	-
+31747	P24297	C6L C9T C39A C42T (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T	6.3	1	CD	Urea	-	-	-	-	-	-	-	4.6	-
+31748	P24297	C6L C9T C39A C42T A2Q (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:A1Q	6.3	1	CD	Urea	-	-	-	-	-	-	-	3.5	-
+31749	P24297	C6L C9T C39A C42T E15Q (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:E14Q	6.3	1	CD	Urea	-	-	-	-	-	-	-	2.7	-
+31750	P24297	C6L C9T C39A C42T A2Q E15Q (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:A1Q 1brf_A:E14Q	6.3	1	CD	Urea	-	-	-	-	-	-	-	2.1	-
+31751	P24297	C6L C9T C39A C42T E15T (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:E14T	6.3	1	CD	Urea	-	-	-	-	-	-	-	1.3	-
+31752	P24297	C6L C9T C39A C42T A2Q E15T (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:A1Q 1brf_A:E14T	6.3	1	CD	Urea	-	-	-	-	-	-	-	1.7	-
+31753	P24297	C6L C9T C39A C42T K7A (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:K6A	6.3	1	CD	Urea	-	-	-	-	-	-	-	4	-
+31754	P24297	C6L C9T C39A C42T E50A (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:E49A	6.3	1	CD	Urea	-	-	-	-	-	-	-	4.1	-
+31755	P24297	C6L C9T C39A C42T K7A E50A (Based on UniProt)	1BRF	1brf_A:C5L 1brf_A:C8T 1brf_A:C38A 1brf_A:C41T 1brf_A:K6A 1brf_A:E49A	6.3	1	CD	Urea	-	-	-	-	-	-	-	3.8	-

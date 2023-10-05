@@ -1,0 +1,1083 @@
+tm,stability,entry,proteinname
+61.00781308,Unstable,O50606,Formamidopyrimidine-DNA glycosylase (Fapy-DNA glycosylase) (EC 3.2.2.23) (DNA-(apurinic or apyrimidinic site) lyase MutM) (AP lyase MutM) (EC 4.2.99.18)
+85.8362104,Medium,P05378,Anthranilate synthase component 1 (AS) (ASI) (EC 4.1.3.27)
+72.85129601,Medium,P05379,"Anthranilate synthase component 2 (AS) (ASII) (EC 4.1.3.27) (Anthranilate synthase, GATase component) (Anthranilate synthase, glutamine amidotransferase component)"
+87.46451245,Medium,P09403,Phosphoglycerate kinase (EC 2.7.2.3)
+82.99101272,Medium,P0CG48,Polyubiquitin-C [Cleaved into: Ubiquitin]
+89.31735779,Stable,P17291,30S ribosomal protein S7
+80.41121702,Medium,P19436,DNA-binding protein HU (DNA-binding protein II) (TL29)
+88.09197755,Medium,P21777,ATP-dependent 6-phosphofructokinase 1 (ATP-PFK 1) (Phosphofructokinase 1) (EC 2.7.1.11) (Phosphohexokinase 1)
+88.67939811,Medium,P23395,Methionine--tRNA ligase (EC 6.1.1.10) (Methionyl-tRNA synthetase) (MetRS)
+84.01656827,Medium,P26996,DNA ligase (EC 6.5.1.2) (Polydeoxyribonucleotide synthase [NAD(+)]) (Tth DNA ligase)
+90.24881187,Stable,P27000,Glutamate--tRNA ligase (EC 6.1.1.17) (Glutamyl-tRNA synthetase) (GluRS)
+70.36625846,Unstable,P29748,Type-2 restriction enzyme TthHB8I (R.TthHB8I) (EC 3.1.21.4) (Endonuclease TthHB8I) (Type II restriction enzyme TthHB8I)
+69.21440906,Unstable,P29749,Modification methylase TthHB8I (M.TthHB8I) (EC 2.1.1.72) (Adenine-specific methyltransferase TthHB8I)
+88.73616761,Medium,P33197,Isocitrate dehydrogenase [NADP] (IDH) (EC 1.1.1.42) (IDP) (NADP(+)-specific ICDH) (Oxalosuccinate decarboxylase)
+80.96031131,Medium,P35872,Transcription termination/antitermination protein NusG
+87.75736596,Medium,P43891,Uridylate kinase (UK) (EC 2.7.4.22) (Uridine monophosphate kinase) (UMP kinase) (UMPK)
+82.58763962,Medium,P43895,Elongation factor Ts (EF-Ts)
+77.90210835,Medium,P48514,Transcription termination/antitermination protein NusA
+88.7002635,Medium,P48515,Translation initiation factor IF-2
+76.34522188,Medium,P52028,"DNA polymerase I, thermostable (EC 2.7.7.7) (Tth polymerase 1)"
+88.33809198,Medium,P54263,Asparagine--tRNA ligase (EC 6.1.1.22) (Asparaginyl-tRNA synthetase) (AsnRS)
+79.27566123,Medium,P56194,Histidine--tRNA ligase (EC 6.1.1.21) (Histidyl-tRNA synthetase) (HisRS)
+88.0923596,Medium,P56206,Glycine--tRNA ligase (EC 6.1.1.14) (Glycyl-tRNA synthetase) (GlyRS)
+81.86488049,Medium,P56690,Isoleucine--tRNA ligase (EC 6.1.1.5) (Isoleucyl-tRNA synthetase) (IleRS)
+79.60752187,Medium,P56881,Threonine--tRNA ligase (EC 6.1.1.3) (Threonyl-tRNA synthetase) (ThrRS)
+89.89387211,Stable,P59846,Argininosuccinate synthase (EC 6.3.4.5) (Citrulline--aspartate ligase)
+76.26396913,Medium,P60339,Elongation factor Tu-B (EF-Tu-B)
+90.38552,Stable,P60405,50S ribosomal protein L2
+82.36667629,Medium,P60488,50S ribosomal protein L13
+90.22561226,Stable,P60491,50S ribosomal protein L20
+90.46031108,Stable,P60492,50S ribosomal protein L21
+86.67886758,Medium,P61497,Deoxyribodipyrimidine photo-lyase (EC 4.1.99.3) (DNA photolyase) (Photoreactivating enzyme)
+83.76996739,Medium,P61503,Superoxide dismutase [Mn] (EC 1.15.1.1)
+67.14125749,Unstable,P68082,Myoglobin
+83.11519064,Medium,P68591,UPF0340 protein TTHA0583 (TT1679)
+88.39233345,Medium,P74903,V-type ATP synthase subunit F (V-ATPase subunit F)
+85.91775369,Medium,P74941,Alanine--tRNA ligase (EC 6.1.1.7) (Alanyl-tRNA synthetase) (AlaRS)
+69.27856996,Unstable,P80339,50S ribosomal protein L32
+88.9084073,Medium,P80371,30S ribosomal protein S2
+89.03815106,Stable,P80372,30S ribosomal protein S3
+88.1933281,Medium,P80373,30S ribosomal protein S4
+88.86371191,Medium,P80374,30S ribosomal protein S9
+85.53768394,Medium,P80376,30S ribosomal protein S11
+87.90539497,Medium,P80377,30S ribosomal protein S13
+88.57707148,Medium,P80380,30S ribosomal protein S20
+73.44708364,Medium,P83700,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (CMK) (EC 2.7.1.148) (4-(cytidine-5'-diphospho)-2-C-methyl-D-erythritol kinase)
+67.24896282,Unstable,P96077,Peptide chain release factor 1 (RF-1)
+81.34129478,Medium,Q53VT9,5-carboxy-2-hydroxymuconate semialdehyde dehydrogenase
+72.2134369,Medium,Q53VU3,Uncharacterized protein
+90.60229322,Stable,Q53VU6,Uncharacterized protein
+89.17099104,Stable,Q53VU9,Putative ATP-dependent RNA helicase
+88.96048252,Medium,Q53VV1,Uncharacterized protein
+84.60616983,Medium,Q53VV2,Uncharacterized protein
+78.87128732,Medium,Q53VV3,Uncharacterized protein
+60.97879766,Unstable,Q53VV8,Uncharacterized protein
+89.74702413,Stable,Q53VW3,"ABC transporter, periplasmic solute-binding protein-related protein"
+75.10158202,Medium,Q53VX0,"Ribonucleoside-diphosphate reductase, alpha subunit"
+88.99385478,Medium,Q53VX2,Uncharacterized protein
+88.3123061,Medium,Q53VX9,Uncharacterized protein
+89.53210576,Stable,Q53VY0,CRISPR-associated protein Cse2 (CRISPR type I-E/ECOLI-associated protein CasB/Cse2)
+74.50882193,Medium,Q53VY1,CRISPR-associated protein CasA/Cse1 (CRISPR type I-E/Ecoli-associated protein CasA/Cse1)
+77.0093985,Medium,Q53VY2,CRISPR-associated endonuclease/helicase Cas3 (EC 3.1.-.-) (EC 3.6.4.-) (CRISPR-associated ssDNA endonuclease/helicase Cas3)
+73.34715748,Medium,Q53VY4,Uncharacterized protein
+80.75781168,Medium,Q53VY8,Uncharacterized protein
+83.06602372,Medium,Q53VZ2,"Iron ABC transporter, periplasmic iron-binding protein"
+65.0646111,Unstable,Q53VZ4,"ABC transporter, ATP-binding protein"
+89.43981237,Stable,Q53W04,Uncharacterized protein
+85.62344557,Medium,Q53W07,Uncharacterized protein
+63.38897961,Unstable,Q53W08,Uncharacterized protein
+78.73404808,Medium,Q53W09,Uncharacterized protein
+87.70512738,Medium,Q53W17,Uncharacterized protein
+77.2855153,Medium,Q53W19,Uncharacterized protein
+86.11208842,Medium,Q53W22,Uncharacterized protein
+80.05882876,Medium,Q53W23,Putative glycerol-3-phohsphate dehydrogenase
+85.51115281,Medium,Q53W25,Putative glycerophosphoryl diester phosphodiesterase
+71.74459057,Medium,Q53W34,Peptide methionine sulfoxide reductase MsrA (Protein-methionine-S-oxide reductase) (EC 1.8.4.11) (Peptide-methionine (S)-S-oxide reductase) (Peptide Met(O) reductase)
+74.92669577,Medium,Q53W35,Uncharacterized protein
+72.07256139,Medium,Q53W36,Putative transcriptional regulator
+82.02952699,Medium,Q53W40,Uncharacterized protein
+66.60632461,Unstable,Q53W41,"Chromosome partitioning ATPase, ParA family"
+62.54665098,Unstable,Q53W42,"Chromosome partitioning protein, ParB family"
+83.19200726,Medium,Q53W50,"Acyl-CoA dehydrogenase, short-chain specific (Probable AidB protein)"
+76.41001853,Medium,Q53W57,Putative acyltransferase
+76.91869506,Medium,Q53W59,Cytochrome P450 (Cyp175a1)
+76.14970972,Medium,Q53W62,HTH-type transcriptional repressor CarH
+89.57895292,Stable,Q53W64,NADH-ubiquinone oxidoreductase 39 kDa subunit related protein
+80.76826339,Medium,Q53W68,Putative short-chain oxidoreductase
+77.28065697,Medium,Q53W72,Uncharacterized protein
+63.99052029,Unstable,Q53W80,"Sugar ABC transporter, periplasmic sugar-binding protein"
+65.74664469,Unstable,Q53W81,"Transcriptional regulator, lacI family"
+83.60810833,Medium,Q53W89,Transcriptional regulator
+64.74253094,Unstable,Q53W93,Uncharacterized protein
+83.60322112,Medium,Q53W94,Uncharacterized protein
+65.64924596,Unstable,Q53W96,Cobyric acid synthase
+85.41183762,Medium,Q53W97,Cobalamin biosynthesis aminotransferase
+85.78308719,Medium,Q53W99,Uncharacterized protein
+65.16707925,Unstable,Q53WA1,Cobalamin biosynthesis nitroreductase BluB
+90.71221804,Stable,Q53WA2,S-adenosyl-L-methionine uroporphyrinogen methyltransferase
+83.97403209,Medium,Q53WA3,Uncharacterized protein
+71.05692294,Unstable,Q53WA4,Cobalamin biosynthesis protein CbiX
+88.44076414,Medium,Q53WA5,Cobalamin biosynthesis protein CbiG
+72.49436848,Medium,Q53WA6,Precorrin-3 C17-methyltransferase
+89.64427303,Stable,Q53WA7,Precorrin-4 C11-methyltransferase
+90.4084986,Stable,Q53WA8,Precorrin-2 methylase
+85.34411571,Medium,Q53WA9,"Precorrin-6Y C5,15-methyltransferase [decarboxylating]"
+87.42035689,Medium,Q53WB0,Cobalamin biosynthesis precorrin-8X isomerase
+77.27607664,Medium,Q53WB1,Cobalt-precorrin-5B C(1)-methyltransferase (EC 2.1.1.195) (Cobalt-precorrin-6A synthase)
+83.91259978,Medium,Q53WB3,Alpha-ribazole-5'-phosphate phosphatase
+77.10885617,Medium,Q53WB5,Uncharacterized protein
+80.39552049,Medium,Q53WB9,"Cobyrinic acid A,C-diamide synthase"
+79.29400898,Medium,Q53WC5,Uncharacterized protein
+79.60736872,Medium,Q53WD8,Uncharacterized protein
+79.43178079,Medium,Q53WE0,Putative acyl-CoA dehydrogenase
+84.04722114,Medium,Q53WE1,Uncharacterized protein
+75.95358742,Medium,Q53WE2,Phosphoglycerate mutase family protein
+67.85945209,Unstable,Q53WF6,Uncharacterized protein
+84.19401131,Medium,Q53WG0,Uncharacterized protein
+88.31287447,Medium,Q53WG2,Uncharacterized protein
+86.17315849,Medium,Q53WG7,Uncharacterized protein
+73.97375926,Medium,Q53WG9,CRISPR-associated endoribonuclease Cse3 (EC 3.1.-.-) (Cse3 endoRNase) (Cse3 endoribonuclease)
+85.6427772,Medium,Q53WH2,3-oxoacyl-[acyl carrier protein] reductase
+87.86658683,Medium,Q53WH3,MaoC-related acyl dehydratase
+80.90151974,Medium,Q53WH4,Uncharacterized protein
+84.21453355,Medium,Q53WH6,"Oxidoreductase, short-chain dehydrogenase/reductase family"
+79.84356125,Medium,Q53WH7,Putative acyl-CoA dehydrogenase
+83.28552395,Medium,Q53WH8,Probable phosphotransferase
+78.39887502,Medium,Q53WH9,Acetaldehyde dehydrogenase (EC 1.2.1.10) (Acetaldehyde dehydrogenase [acetylating]) (Propanal dehydrogenase (CoA-propanoylating)) (EC 1.2.1.87) (Propanaldehyde dehydrogenase)
+90.64455648,Stable,Q53WI0,4-hydroxy-2-oxovalerate aldolase (HOA) (EC 4.1.3.39) (4-hydroxy-2-keto-pentanoic acid aldolase) (4-hydroxy-2-oxohexanoate aldolase) (EC 4.1.3.43) (4-hydroxy-2-oxopentanoate aldolase)
+87.93987493,Medium,Q53WI2,Phenol hydroxylase component B
+81.52214102,Medium,Q53WI4,4-oxalocrotonate tautomerase
+85.6987361,Medium,Q56213,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16) (D-fructose-6-phosphate amidotransferase) (GFAT) (Glucosamine-6-phosphate synthase) (Hexosephosphate aminotransferase) (L-glutamine--D-fructose-6-phosphate amidotransferase)
+63.68232462,Unstable,Q56218,NADH-quinone oxidoreductase subunit 6 (EC 1.6.5.11) (NADH dehydrogenase I subunit 6) (NDH-1 subunit 6)
+90.06282086,Stable,Q56219,NADH-quinone oxidoreductase subunit 5 (EC 1.6.5.11) (NADH dehydrogenase I chain 5) (NDH-1 subunit 5)
+73.38206061,Medium,Q56220,NADH-quinone oxidoreductase subunit 4 (EC 1.6.5.11) (NADH dehydrogenase I chain 4) (NDH-1 subunit 4)
+71.61645512,Medium,Q56221,NADH-quinone oxidoreductase subunit 2 (EC 1.6.5.11) (NADH dehydrogenase I chain 2) (NDH-1 subunit 2)
+77.27628042,Medium,Q56222,NADH-quinone oxidoreductase subunit 1 (EC 1.6.5.11) (NADH dehydrogenase I chain 1) (NDH-1 subunit 1)
+88.02871681,Medium,Q56223,NADH-quinone oxidoreductase subunit 3 (EC 1.6.5.11) (NADH dehydrogenase I chain 3) (NDH-1 subunit 3)
+85.17799655,Medium,Q56224,NADH-quinone oxidoreductase subunit 9 (EC 1.6.5.11) (NADH dehydrogenase I subunit 9) (NDH-1 subunit 9)
+86.50003801,Medium,Q56232,Aspartate aminotransferase (AspAT) (EC 2.6.1.1) (Transaminase A)
+76.90653417,Medium,Q56235,Chaperone protein DnaK (HSP70) (Heat shock 70 kDa protein) (Heat shock protein 70)
+82.71301739,Medium,Q56236,Protein GrpE (HSP-70 cofactor)
+83.74453262,Medium,Q56237,Chaperone protein DnaJ 2
+85.70261764,Medium,Q56242,UvrABC system protein A (UvrA protein) (Excinuclease ABC subunit A)
+73.56036336,Medium,Q56243,UvrABC system protein B (Protein UvrB) (Excinuclease ABC subunit B)
+82.99414224,Medium,Q56403,V-type ATP synthase alpha chain (EC 3.6.3.14) (V-ATPase subunit A)
+86.64778791,Medium,Q56404,V-type ATP synthase beta chain (V-ATPase subunit B)
+78.43403249,Medium,Q56416,Dephospho-CoA kinase (EC 2.7.1.24) (Dephosphocoenzyme A kinase)
+81.05875315,Medium,Q56419,MEMO1 family protein TTHA0924
+75.47239253,Medium,Q56425,Ribosome maturation factor RimP
+84.39429903,Medium,Q5SGN0,Uncharacterized protein
+62.52895038,Unstable,Q5SGV8,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG (Glucose-inhibited division protein A)
+66.74957509,Unstable,Q5SGW1,"Chromosome partitioning protein, ParB family"
+83.18745654,Medium,Q5SGW4,Uncharacterized protein
+79.93551773,Medium,Q5SGX1,Phenylalanine--tRNA ligase beta subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase beta subunit) (PheRS)
+73.1466431,Medium,Q5SGX2,Phenylalanine--tRNA ligase alpha subunit (EC 6.1.1.20) (Phenylalanyl-tRNA synthetase alpha subunit) (PheRS)
+89.51966854,Stable,Q5SGX4,2-oxoacid-ferredoxin oxidoreductase (EC 1.2.7.-) beta chain
+88.71852328,Medium,Q5SGX5,"2-oxoacid--ferredoxin oxidoreductase, alpha chain"
+66.60189173,Unstable,Q5SGX7,Uncharacterized protein
+71.01099759,Unstable,Q5SGX8,DNA polymerase III holoenzyme tau subunit
+84.44374459,Medium,Q5SGX9,Uncharacterized protein
+64.62994771,Unstable,Q5SGY3,MutT/nudix family protein
+70.94344707,Unstable,Q5SGY4,Beta-lactamase regulatory protein (MazG)
+87.8775624,Medium,Q5SGY7,Uncharacterized protein
+83.61418137,Medium,Q5SGZ2,Acyl-CoA dehydrogenase
+71.24877981,Unstable,Q5SGZ3,Probable dual-specificity RNA methyltransferase RlmN (EC 2.1.1.192) (23S rRNA (adenine(2503)-C(2))-methyltransferase) (23S rRNA m2A2503 methyltransferase) (Ribosomal RNA large subunit methyltransferase N) (tRNA (adenine(37)-C(2))-methyltransferase) (tRNA m2A37 methyltransferase)
+60.03982747,Unstable,Q5SGZ6,Uncharacterized protein
+63.42778788,Unstable,Q5SH03,Glutamate 5-kinase (EC 2.7.2.11) (Gamma-glutamyl kinase) (GK)
+83.66188152,Medium,Q5SH09,Uncharacterized protein
+85.32167076,Medium,Q5SH10,Thioredoxin reductase (EC 1.8.1.9)
+68.37379712,Unstable,Q5SH13,Flavin prenyltransferase UbiX (EC 2.5.1.129)
+76.72207664,Medium,Q5SH14,Acyl-CoA dehydrogenase
+79.39860521,Medium,Q5SH16,Homocitrate synthase
+87.93516829,Medium,Q5SH18,Uncharacterized protein
+78.68500474,Medium,Q5SH19,3-isopropylmalate dehydratase large subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (Isopropylmalate isomerase)
+80.74151404,Medium,Q5SH20,Probable homoaconitase small subunit (Homoaconitate hydratase)
+80.13807673,Medium,Q5SH23,Alpha-aminoadipate--LysW ligase LysX (AAA--LysW ligase LysX) (EC 6.3.2.43)
+69.62481437,Unstable,Q5SH24,Uncharacterized protein
+81.83406734,Medium,Q5SH25,Uncharacterized protein
+69.64081191,Unstable,Q5SH26,N-acetyl-gamma-glutamyl-phosphate/N-acetyl-gamma-aminoadipyl-phosphate reductase (AGPR) (EC 1.2.1.38) (N-acetyl-glutamate semialdehyde/N-acetyl-aminoadipate semialdehyde dehydrogenase)
+72.20652428,Medium,Q5SH27,Acetylglutamate kinase (EC 2.7.2.-) (EC 2.7.2.8)
+77.68941945,Medium,Q5SH28,"1,4-alpha-glucan branching enzyme TTHA1902 (EC 2.4.1.18) (1,4-alpha-D-glucan:1,4-alpha-D-glucan 6-glucosyl-transferase) (Alpha-(1->4)-glucan branching enzyme) (Branching enzyme) (BE)"
+86.89526882,Medium,Q5SH33,GidA-related protein
+76.33467717,Medium,Q5SH39,Uncharacterized protein
+63.23690754,Unstable,Q5SH40,Aminopeptidase
+85.39832844,Medium,Q5SH42,"ABC transporter, ATP-binding protein"
+86.68170931,Medium,Q5SH43,CAIB/BAIF family protein
+75.60849084,Medium,Q5SH49,Uncharacterized protein
+83.56116112,Medium,Q5SH50,MutT/nudix family protein
+65.20682392,Unstable,Q5SH51,Ferripyochelin-binding protein
+77.4458117,Medium,Q5SH52,GTP cyclohydrolase 1 (EC 3.5.4.16) (GTP cyclohydrolase I)
+88.72010606,Medium,Q5SH53,"Sugar ABC transporter, periplasmic sugar-binding protein"
+72.88651616,Medium,Q5SH54,"Probable repressor, phenylacetic acid catabolic pathway"
+68.32528794,Unstable,Q5SH56,Uncharacterized protein
+79.08310607,Medium,Q5SH66,S-layer protein-related protein
+79.98041,Medium,Q5SH68,Uncharacterized protein
+71.93756476,Medium,Q5SH69,Probable phosphatase
+76.21794613,Medium,Q5SH71,PSP1-related protein
+71.20235029,Unstable,Q5SH76,Demethylmenaquinone methyltransferase (EC 2.1.1.163)
+78.17391291,Medium,Q5SH77,Arsenate reductase
+65.18147932,Unstable,Q5SH78,Oligoendopeptidase F
+73.91964017,Medium,Q5SH83,Uncharacterized protein
+82.62582791,Medium,Q5SH88,Anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+83.27687797,Medium,Q5SH90,SufD protein (Membrane protein)
+77.38017387,Medium,Q5SH91,SufB protein (Membrane protein)
+85.09042304,Medium,Q5SH92,SufC protein (ATP-binding protein)
+77.45133324,Medium,Q5SH98,Uncharacterized protein
+66.07274447,Unstable,Q5SHA1,Putative pre-16S rRNA nuclease (EC 3.1.-.-)
+63.95784282,Unstable,Q5SHA5,Uncharacterized protein
+79.30148185,Medium,Q5SHA6,Chloromuconate cycloisomerase
+88.38245427,Medium,Q5SHA7,Putative hydrolase (Phosphatase)
+83.12909055,Medium,Q5SHA9,Uncharacterized protein
+81.07963678,Medium,Q5SHB1,"RNA 2',3'-cyclic phosphodiesterase (RNA 2',3'-CPDase) (EC 3.1.4.-)"
+67.71506992,Unstable,Q5SHB2,Protein RecA (Recombinase A)
+79.20082414,Medium,Q5SHB3,Ribonuclease Y (RNase Y) (EC 3.1.-.-)
+63.60353893,Unstable,Q5SHB4,Rod shape-determining protein MreB
+78.74419274,Medium,Q5SHB6,Uncharacterized protein
+73.46755974,Medium,Q5SHB9,Fuculose-1-phosphate aldolase
+83.31854462,Medium,Q5SHC1,Proline iminopeptidase-related protein
+84.93282634,Medium,Q5SHC7,4a-hydroxytetrahydrobiopterin dehydratase (EC 4.2.1.96)
+73.41615469,Medium,Q5SHD1,Uncharacterized protein
+90.34273456,Stable,Q5SHD3,Probable amidase
+65.05879723,Unstable,Q5SHD4,Probable tRNA sulfurtransferase (EC 2.8.1.4) (Sulfur carrier protein ThiS sulfurtransferase) (Thiamine biosynthesis protein ThiI) (tRNA 4-thiouridine synthase)
+87.59126959,Medium,Q5SHD6,Methylglyoxal synthase (MGS) (EC 4.2.3.3)
+79.13945239,Medium,Q5SHD9,Putative hydrolase (HD domain)
+83.17597287,Medium,Q5SHE2,Uncharacterized protein
+66.42192913,Unstable,Q5SHE5,RNA-splicing ligase RtcB (EC 6.5.1.-)
+70.02753677,Unstable,Q5SHE9,GTPase Obg (EC 3.6.5.-) (GTP-binding protein Obg) (TT1381)
+76.97500999,Medium,Q5SHF1,Metal dependent phosphohydrolase (HD domain protein)
+89.65956715,Stable,Q5SHF3,Ribosomal silencing factor RsfS
+86.15839639,Medium,Q5SHF5,Pantothenate synthetase (PS) (EC 6.3.2.1) (Pantoate--beta-alanine ligase) (Pantoate-activating enzyme)
+70.35834093,Unstable,Q5SHF6,Pili retraction protein PilT
+87.39683704,Medium,Q5SHF7,"Fructose-1,6-bisphosphate aldolase"
+74.60697143,Medium,Q5SHF9,Pyrimidine-nucleoside (Thymidine) phosphorylase
+89.40572636,Stable,Q5SHG1,Uncharacterized protein
+72.88147781,Medium,Q5SHG2,Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta (ACCase subunit beta) (Acetyl-CoA carboxylase carboxyltransferase subunit beta) (EC 6.4.1.2)
+85.42765246,Medium,Q5SHG3,Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha (ACCase subunit alpha) (Acetyl-CoA carboxylase carboxyltransferase subunit alpha) (EC 6.4.1.2)
+83.67928221,Medium,Q5SHG4,S-layer-like protein
+76.21035858,Medium,Q5SHH3,N-acetyl-lysine deacetylase (EC 3.5.1.-)
+60.08483083,Unstable,Q5SHH5,Acetylornithine/acetyl-lysine aminotransferase (ACOAT) (EC 2.6.1.-) (EC 2.6.1.11)
+90.26863556,Stable,Q5SHH9,Putative glycosyltransferase
+83.39279906,Medium,Q5SHI0,Putative mannose-1-phosphate guanylyl transferase (GDP)/mannose-6-phosphate isomerase
+67.88444384,Unstable,Q5SHI2,Uncharacterized protein
+63.77662924,Unstable,Q5SHI4,Phosphate acyltransferase (EC 2.3.1.n2) (Acyl-ACP phosphotransacylase) (Acyl-[acyl-carrier-protein]--phosphate acyltransferase) (Phosphate-acyl-ACP acyltransferase)
+82.13536723,Medium,Q5SHI7,Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23) (OMP decarboxylase)
+86.58918353,Medium,Q5SHI8,Orotate phosphoribosyltransferase (OPRT) (OPRTase) (EC 2.4.2.10)
+83.14016188,Medium,Q5SHJ1,Uncharacterized protein
+84.65254377,Medium,Q5SHJ3,Uncharacterized protein
+70.8470155,Unstable,Q5SHJ4,Iron-sulfur cluster biosynthesis protein IscU
+81.63875806,Medium,Q5SHJ5,Cysteine desulfurase (EC 2.8.1.7)
+73.16820092,Medium,Q5SHJ6,Uncharacterized protein
+83.66356196,Medium,Q5SHJ8,Uncharacterized protein
+78.56199982,Medium,Q5SHJ9,Uncharacterized protein
+85.29048502,Medium,Q5SHK1,Putative methyltransferase
+82.62993495,Medium,Q5SHK8,Putative response regulator
+79.07721019,Medium,Q5SHL1,Copper homeostasis operon regulatory protein
+64.70495228,Unstable,Q5SHL2,Heavy metal binding protein
+68.59110149,Unstable,Q5SHL3,"Guanosine-3',5'-bis(Diphosphate) 3'-pyrophosphohydrolase (PpGpp synthase)"
+83.10094945,Medium,Q5SHL4,Uncharacterized protein
+86.6214891,Medium,Q5SHL6,Putative heme-dependent peroxidase TTHA1714 (EC 1.11.1.-) (UPF0447 protein TTHA1714)
+81.76252785,Medium,Q5SHL9,MEMO1 family protein TTHA1711
+79.81678193,Medium,Q5SHM1,Uncharacterized protein
+85.35741875,Medium,Q5SHM6,Uncharacterized protein
+68.10523821,Unstable,Q5SHM8,Uncharacterized protein
+75.51629223,Medium,Q5SHN0,Uncharacterized protein
+81.67712858,Medium,Q5SHN1,Uncharacterized protein
+88.7067596,Medium,Q5SHN2,Carboxypeptidase G2
+86.07975318,Medium,Q5SHN3,30S ribosomal protein S12
+88.52004992,Medium,Q5SHN5,Elongation factor G (EF-G)
+80.74996914,Medium,Q5SHN6,Elongation factor Tu-A (EF-Tu-A)
+88.48118709,Medium,Q5SHN7,30S ribosomal protein S10
+87.82542449,Medium,Q5SHN8,50S ribosomal protein L3
+87.33628704,Medium,Q5SHN9,50S ribosomal protein L4 (L1e)
+89.08391969,Stable,Q5SHP2,30S ribosomal protein S19
+88.97845733,Medium,Q5SHP3,50S ribosomal protein L22
+88.75338802,Medium,Q5SHP7,30S ribosomal protein S17
+90.29847561,Stable,Q5SHP8,50S ribosomal protein L14
+64.17148866,Unstable,Q5SHP9,50S ribosomal protein L24
+90.87565035,Stable,Q5SHQ0,50S ribosomal protein L5
+89.23193522,Stable,Q5SHQ1,30S ribosomal protein S14 type Z
+89.02579451,Stable,Q5SHQ2,30S ribosomal protein S8
+88.40802489,Medium,Q5SHQ5,30S ribosomal protein S5
+90.99087704,Stable,Q5SHQ7,50S ribosomal protein L15
+68.1751821,Unstable,Q5SHQ8,Protein translocase subunit SecY
+83.01554147,Medium,Q5SHQ9,Adenylate kinase (AK) (EC 2.7.4.3) (ATP-AMP transphosphorylase) (ATP:AMP phosphotransferase) (Adenylate monophosphate kinase)
+84.16103695,Medium,Q5SHR0,Methionine aminopeptidase (MAP) (MetAP) (EC 3.4.11.18) (Peptidase M)
+85.78491863,Medium,Q5SHR1,Translation initiation factor IF-1
+68.95568386,Unstable,Q5SHR6,DNA-directed RNA polymerase subunit alpha (RNAP subunit alpha) (EC 2.7.7.6) (RNA polymerase subunit alpha) (Transcriptase subunit alpha)
+68.20293009,Unstable,Q5SHS0,Uncharacterized protein
+78.52455958,Medium,Q5SHS1,Tetratricopeptide repeat family protein
+88.33739646,Medium,Q5SHS3,Redox-sensing transcriptional repressor Rex
+79.41452208,Medium,Q5SHS5,Octaprenyl-diphosphate synthase
+82.14533144,Medium,Q5SHS6,Non-canonical purine NTP pyrophosphatase (EC 3.6.1.19) (Non-standard purine NTP pyrophosphatase) (Nucleoside-triphosphate diphosphatase) (Nucleoside-triphosphate pyrophosphatase) (NTPase)
+88.12508854,Medium,Q5SHT3,Putative maltodextrin glucosidase
+88.13206002,Medium,Q5SHT4,Uncharacterized protein
+72.84514088,Medium,Q5SHT7,Glutamate racemase (EC 5.1.1.3)
+82.87141478,Medium,Q5SHT8,S-adenosylmethionine synthase (AdoMet synthase) (EC 2.5.1.6) (MAT) (Methionine adenosyltransferase)
+80.63037598,Medium,Q5SHU0,Biosynthetic arginine decarboxylase (ADC) (EC 4.1.1.19)
+89.6226849,Stable,Q5SHU1,Uncharacterized protein
+79.63901129,Medium,Q5SHU3,Ribose-phosphate pyrophosphokinase (RPPK) (EC 2.7.6.1) (5-phospho-D-ribosyl alpha-1-diphosphate) (Phosphoribosyl diphosphate synthase) (Phosphoribosyl pyrophosphate synthase)
+80.93400949,Medium,Q5SHU6,"Peptide ABC transporter, peptide-binding protein"
+62.61022453,Unstable,Q5SHU9,tRNA pseudouridine synthase A (EC 5.4.99.12) (tRNA pseudouridine(38-40) synthase) (tRNA pseudouridylate synthase I) (tRNA-uridine isomerase I)
+69.40410186,Unstable,Q5SHV0,"Iron ABC transporter, ATP-binding protein"
+71.4764114,Unstable,Q5SHV5,Osmotically inducible protein OsmC
+66.24302958,Unstable,Q5SHV6,Uncharacterized protein
+72.46434013,Medium,Q5SHV8,Sulfurtransferase
+83.60508965,Medium,Q5SHV9,"Heat shock protein, class I"
+78.93452434,Medium,Q5SHW0,"Aminotransferase, class I"
+74.13412549,Medium,Q5SHW1,tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33) (tRNA (guanine(46)-N(7))-methyltransferase) (tRNA(m7G46)-methyltransferase)
+61.51627539,Unstable,Q5SHW2,Uncharacterized protein
+63.66377727,Unstable,Q5SHW3,Probable HIT family protein
+76.88268914,Medium,Q5SHW6,Adenine phosphoribosyltransferase
+75.80738674,Medium,Q5SHW7,Putative adenine phosphoribosyltransferase
+84.34724074,Medium,Q5SHW9,5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)
+67.50840726,Unstable,Q5SHX3,Thymidylate kinase (EC 2.7.4.9) (dTMP kinase)
+87.67149478,Medium,Q5SHX5,Probable acylamino-acid-releasing enzyme
+82.81916761,Medium,Q5SHX6,Uncharacterized protein
+85.88764824,Medium,Q5SHX8,Uncharacterized protein
+82.75650729,Medium,Q5SHY0,Recombination protein RecR
+69.22848154,Unstable,Q5SHY1,Nucleoid-associated protein TTHA1599
+88.63268148,Medium,Q5SHY2,Delta-aminolevulinic acid dehydratase (EC 4.2.1.24)
+72.5078531,Medium,Q5SHY4,Uncharacterized protein
+86.84836962,Medium,Q5SHY5,Protein serine/threonine phosphatase
+82.1361979,Medium,Q5SHY7,Uncharacterized protein
+63.48506382,Unstable,Q5SHY9,Uncharacterized protein
+88.92436209,Medium,Q5SHZ1,50S ribosomal protein L25 (TL5)
+79.72950102,Medium,Q5SHZ4,DNA gyrase subunit B (EC 5.99.1.3)
+88.79913373,Medium,Q5SHZ8,8-amino-7-oxononanoate synthase/2-amino-3-ketobutyrate coenzyme A ligase (AONS/AKB ligase) (EC 2.3.1.29) (EC 2.3.1.47) (7-keto-8-amino-pelargonic acid synthase) (7-KAP synthase) (KAPA synthase) (8-amino-7-ketopelargonate synthase) (Alpha-oxoamine synthase) (Glycine acetyltransferase)
+70.18311166,Unstable,Q5SI00,"Transcriptional regulator, GntR family"
+77.79933582,Medium,Q5SI01,Putative proline dehydrogenase (Monofunctional)
+88.90643063,Medium,Q5SI02,1-pyrroline-5-carboxylate dehydrogenase
+86.87736068,Medium,Q5SI03,Glutamate dehydrogenase
+84.20624008,Medium,Q5SI04,Glutamate dehydrogenase
+72.68686771,Medium,Q5SI05,Kanamycin resistance protein-related protein
+89.27948878,Stable,Q5SI10,Deoxyhypusine synthase-like protein (EC 2.5.-.-)
+76.07139642,Medium,Q5SI11,Uncharacterized protein
+86.98735869,Medium,Q5SI12,"1,4-dihydroxy-6-naphtoate synthase (EC 4.1.-.-) (Menaquinone biosynthetic enzyme MqnD)"
+84.64729176,Medium,Q5SI13,Transcriptional regulatory protein
+83.24580247,Medium,Q5SI14,Putative cysteine ligase BshC (EC 6.-.-.-)
+65.1862168,Unstable,Q5SI17,(Neo)pullulanase
+90.5387215,Stable,Q5SI20,DNA/pantothenate metabolism flavoprotein
+61.90991487,Unstable,Q5SI21,Arginine repressor
+87.92817045,Medium,Q5SI23,"Propionyl-CoA carboxylase, beta subunit"
+73.78381591,Medium,Q5SI26,Uncharacterized protein
+84.63590135,Medium,Q5SI27,Uncharacterized protein
+84.40570668,Medium,Q5SI28,GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) (GMP synthetase) (Glutamine amidotransferase)
+78.17835924,Medium,Q5SI29,S-ribosylhomocysteine lyase (EC 4.4.1.21) (AI-2 synthesis protein) (Autoinducer-2 production protein LuxS)
+88.6944394,Medium,Q5SI30,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 2 (EC 3.2.2.9) (5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase) (5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase 1)
+83.05223706,Medium,Q5SI31,Ribose-phosphate pyrophosphokinase
+87.25900492,Medium,Q5SI34,Thioesterase family protein
+80.86502922,Medium,Q5SI36,Uncharacterized protein
+89.85360493,Stable,Q5SI38,tRNA(Ile)-lysidine synthase (EC 6.3.4.19) (tRNA(Ile)-2-lysyl-cytidine synthase) (tRNA(Ile)-lysidine synthetase)
+85.22944401,Medium,Q5SI46,Ribonuclease II family protein
+87.04396258,Medium,Q5SI47,Uncharacterized protein
+88.4020078,Medium,Q5SI48,Oligoendopeptidase F
+70.21618513,Unstable,Q5SI49,tRNA pseudouridine synthase D (EC 5.4.99.27) (tRNA pseudouridine(13) synthase) (tRNA pseudouridylate synthase D) (tRNA-uridine isomerase D)
+71.68639003,Medium,Q5SI50,Uncharacterized protein
+75.89533054,Medium,Q5SI54,Hydroxymethylglutaryl-CoA lyase like protein
+83.93687669,Medium,Q5SI55,DNA repair protein RecN (Recombination protein N)
+85.08606402,Medium,Q5SI56,Serine hydroxymethyltransferase (SHMT) (Serine methylase) (EC 2.1.2.1)
+66.96370142,Unstable,Q5SI57,Phosphoribosylformylglycinamidine synthase subunit PurQ (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit I) (FGAR amidotransferase I) (FGAR-AT I) (Glutaminase PurQ) (EC 3.5.1.2) (Phosphoribosylformylglycinamidine synthase subunit I)
+80.90928561,Medium,Q5SI58,Phosphoribosylformylglycinamidine synthase subunit PurS (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit III) (Phosphoribosylformylglycinamidine synthase subunit III)
+82.15178011,Medium,Q5SI59,Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6) (SAICAR synthetase)
+85.36329001,Medium,Q5SI60,Uncharacterized protein
+89.03071996,Stable,Q5SI61,Adenylosuccinate lyase (ASL) (EC 4.3.2.2) (Adenylosuccinase)
+84.14902301,Medium,Q5SI65,Putative hydrolase
+78.79984552,Medium,Q5SI67,Probable uroporphyrinogen III synthase
+76.87998292,Medium,Q5SI68,Glutamyl-tRNA reductase (GluTR) (EC 1.2.1.70)
+81.85572706,Medium,Q5SI72,Response regulator
+72.92566361,Medium,Q5SI74,"Phosphoenolpyruvate synthase (PEP synthase) (EC 2.7.9.2) (Pyruvate, water dikinase)"
+71.04356655,Unstable,Q5SI75,MoxR-related protein
+75.14757588,Medium,Q5SI76,Elongation factor G (EF-G-2)
+82.02743292,Medium,Q5SI77,Uncharacterized protein
+77.4901734,Medium,Q5SI78,Arginase (EC 3.5.3.1)
+72.84240034,Medium,Q5SI81,Uncharacterized protein
+67.69638207,Unstable,Q5SI82,ATP-dependent zinc metalloprotease FtsH (EC 3.4.24.-)
+86.49524403,Medium,Q5SI88,Uncharacterized protein
+70.89029516,Unstable,Q5SI89,Uncharacterized protein
+72.50653372,Medium,Q5SI90,"Small heat shock protein, HSP20 family"
+82.63539274,Medium,Q5SI94,"Small heat shock protein, HSP20 family"
+63.37170961,Unstable,Q5SIA4,Replicative DNA helicase (EC 3.6.4.12)
+88.79127686,Medium,Q5SIA6,"Glutamate synthase, large subunit"
+62.0436967,Unstable,Q5SIA7,Uncharacterized protein
+78.69601011,Medium,Q5SIA8,CTP synthase (EC 6.3.4.2) (CTP synthetase) (UTP--ammonia ligase)
+83.56981087,Medium,Q5SIB1,Long-chain-fatty-acid--CoA ligase
+87.65684536,Medium,Q5SIB2,Putative phosphoribosyltransferase
+74.56878253,Medium,Q5SIB5,"ABC transporter, ATP-binding protein"
+81.31682133,Medium,Q5SIB7,Adenosylmethionine decarboxylase (EC 4.1.1.50)
+78.30344341,Medium,Q5SIC0,Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)
+89.02193109,Stable,Q5SIC1,Succinate dehydrogenase iron-sulfur subunit (EC 1.3.5.1)
+87.09521002,Medium,Q5SIC2,Aspartate--tRNA(Asp/Asn) ligase (EC 6.1.1.23) (Aspartyl-tRNA synthetase 2) (AspRS2) (Non-discriminating aspartyl-tRNA synthetase) (ND-AspRS)
+64.81646877,Unstable,Q5SIC4,Uncharacterized protein
+69.77158117,Unstable,Q5SIC5,"Putative hydrolase, TatD family"
+84.49171066,Medium,Q5SIC6,4-hydroxybutyrate CoA-transferase
+63.11324823,Unstable,Q5SIC7,Alanine dehydrogenase
+88.22305422,Medium,Q5SIC8,"Fructose-1,6-bisphosphatase"
+67.37039426,Unstable,Q5SIC9,Histidine biosynthesis bifunctional protein HisIE
+78.75968308,Medium,Q5SID2,Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO (EC 2.1.1.74) (Folate-dependent tRNA (uracil-5-)-methyltransferase) (Folate-dependent tRNA(M-5-U54)-methyltransferase)
+83.42087484,Medium,Q5SID7,Cyclic AMP receptor protein (Cyclic AMP receptor protein/Fumarate and nitrate reduction regulator superfamily protein TTHA1437) (CRP/FNR superfamily protein TTHA1437) (cAMP receptor protein) (CRP)
+68.19958984,Unstable,Q5SIE1,Uncharacterized protein
+75.17813,Medium,Q5SIE6,Putative phosphoglucomutase/phosphomannomutase
+75.51923499,Medium,Q5SIE7,DNA helicase (EC 3.6.4.12)
+78.77069857,Medium,Q5SIE9,Putative thiamine pyrophosphokinase
+64.47121662,Unstable,Q5SIF6,Uncharacterized protein
+60.87371745,Unstable,Q5SIF7,Sulfide dehydrogenase flavocytochrome C
+65.9973769,Unstable,Q5SIF8,Sulfite dehydrogenase SoxC
+88.8980265,Medium,Q5SIG5,Cytochrome c-type biogenesis protein CcmF
+79.89521795,Medium,Q5SIH0,Tyrosine--tRNA ligase (EC 6.1.1.1) (Tyrosyl-tRNA synthetase) (TyrRS)
+88.62884801,Medium,Q5SIH4,Uncharacterized protein
+88.44132027,Medium,Q5SIH5,Homoserine kinase (HK) (HSK) (EC 2.7.1.39)
+84.31813747,Medium,Q5SIH7,NAD-dependent protein deacylase (EC 3.5.1.-) (Regulatory protein SIR2 homolog)
+70.2615823,Unstable,Q5SIH8,GTPase Der (GTP-binding protein EngA)
+74.88895411,Medium,Q5SIH9,Acyltransferase family protein
+70.35389131,Unstable,Q5SII3,3-dehydroquinate synthase (EC 4.2.3.4)
+75.50421314,Medium,Q5SII4,Shikimate kinase (SK) (EC 2.7.1.71)
+77.78956255,Medium,Q5SII5,Chorismate synthase (CS) (EC 4.2.3.5) (5-enolpyruvylshikimate-3-phosphate phospholyase)
+72.38041202,Medium,Q5SII6,General secretion pathway protein (PilQ)
+78.78786262,Medium,Q5SII8,Competence protein PilO
+89.59547163,Stable,Q5SIJ1,Homoisocitrate dehydrogenase (HICDH) (EC 1.1.1.87)
+62.67080194,Unstable,Q5SIJ6,Uncharacterized protein
+61.39247381,Unstable,Q5SIJ7,N-acetylmuramoyl-L-alanine amidase
+77.16713475,Medium,Q5SIK2,Uncharacterized protein
+66.23018588,Unstable,Q5SIK3,Putative iron-sulfur protein
+75.67068013,Medium,Q5SIK6,Sensor histidine kinase
+75.28210919,Medium,Q5SIK7,Response regulator
+77.86596868,Medium,Q5SIL0,Transcriptional regulator SdrP (Cyclic AMP receptor protein/Fumarate and nitrate reduction regulator superfamily protein SdrP) (CRP/FNR superfamily protein SdrP) (Oxidative stress-responsive transcriptional activator SdrP) (Stationary phase-dependent regulatory protein) (SdrP)
+69.77265535,Unstable,Q5SIL2,Uncharacterized protein
+82.16915584,Medium,Q5SIL4,DNA gyrase subunit A (EC 5.99.1.3)
+75.42598755,Medium,Q5SIL6,Probable RNA methyltransferase
+77.71047671,Medium,Q5SIL7,Response regulator
+79.80094334,Medium,Q5SIL8,"Peptidase, M20/M25/M40 family"
+85.45715112,Medium,Q5SIM2,Endonuclease V (EC 3.1.21.7) (Deoxyinosine 3'endonuclease) (Deoxyribonuclease V) (DNase V)
+85.30801003,Medium,Q5SIM3,Uncharacterized protein
+85.00039618,Medium,Q5SIM4,Putative mannose-6-phosphate isomerase
+66.48460417,Unstable,Q5SIM5,Molybdopterin biosynthesis protein MoeB
+87.56564746,Medium,Q5SIM6,Citrate synthase
+87.46814178,Medium,Q5SIM8,"ABC transporter, ATP-binding protein"
+82.96455328,Medium,Q5SIM9,Folyl-polyglutamate synthetase
+82.08938749,Medium,Q5SIN3,Peptide ABC transporter oligopeptide-binding protein
+60.96637147,Unstable,Q5SIN4,"Branched-chain amino acid ABC transporter, ATP-binding protein"
+80.56699493,Medium,Q5SIN9,"Branched-chain amino acid ABC transporter, periplasmic amino acid-binding protein"
+88.49050164,Medium,Q5SIP0,Glutamine synthetase (EC 6.3.1.2)
+77.25581418,Medium,Q5SIP1,5'-nucleotidase
+63.11890074,Unstable,Q5SIP2,Uncharacterized protein
+86.44511595,Medium,Q5SIP4,Putaitve sulfite oxidase
+88.47204529,Medium,Q5SIP7,4-hydroxy-4-methyl-2-oxoglutarate aldolase (HMG aldolase) (EC 4.1.3.17) (Oxaloacetate decarboxylase) (OAA decarboxylase) (EC 4.1.1.3) (Regulator of ribonuclease activity homolog)
+84.19825087,Medium,Q5SIP8,Formyltetrahydrofolate deformylase (EC 3.5.1.10) (Formyl-FH(4) hydrolase)
+84.90571721,Medium,Q5SIQ5,UDP-N-acetylglucosamine 2-epimerase
+71.84077121,Medium,Q5SIQ7,Uracil phosphoribosyltransferase (EC 2.4.2.9) (UMP pyrophosphorylase) (UPRTase)
+81.8626689,Medium,Q5SIQ8,Uncharacterized protein
+70.28076131,Unstable,Q5SIR3,Uncharacterized protein
+82.1909107,Medium,Q5SIR4,"Bacterioferritin comigratory protein, thiol peroxidase, putative"
+75.21094769,Medium,Q5SIR7,Uncharacterized protein
+86.4683875,Medium,Q5SIR8,Carboxyl-terminal protease
+82.64925829,Medium,Q5SIS0,Ribosomal subunit interface protein
+87.78499139,Medium,Q5SIS2,"Metal uptake regulation protein, putative"
+72.50122927,Medium,Q5SIS5,Nuclease SbcCD subunit D
+75.82379163,Medium,Q5SIS6,Nuclease SbcCD subunit C
+81.28387074,Medium,Q5SIS7,Uncharacterized protein
+74.66109354,Medium,Q5SIS9,Acetyl-coenzyme A synthetase
+85.17553276,Medium,Q5SIT1,UPF0173 metal-dependent hydrolase TTHA1283
+77.190219,Medium,Q5SIT2,Uncharacterized protein
+87.75698155,Medium,Q5SIU7,Uncharacterized protein
+72.57379511,Medium,Q5SIU8,ATP-dependent DNA helicase RecG (EC 3.6.4.12)
+74.94636662,Medium,Q5SIV0,Putative zinc protease
+63.31626078,Unstable,Q5SIV2,3-hydroxybutyryl-CoA dehydrogenase
+87.08418302,Medium,Q5SIV7,Putative helicase
+87.0439645,Medium,Q5SIW2,tRNA N6-adenosine threonylcarbamoyltransferase (EC 2.3.1.234) (N6-L-threonylcarbamoyladenine synthase) (t(6)A synthase) (t(6)A37 threonylcarbamoyladenosine biosynthesis protein TsaD) (tRNA threonylcarbamoyladenosine biosynthesis protein TsaD)
+79.09215319,Medium,Q5SIW3,Protein translocase subunit SecA
+62.29994205,Unstable,Q5SIW4,Acetyl-coenzyme A synthetase
+77.70575784,Medium,Q5SIW5,Acetyl-coenzyme A synthetase
+62.67494785,Unstable,Q5SIW6,Acetyl-coenzyme A synthetase (AcCoA synthetase) (Acs) (EC 6.2.1.1) (Acetate--CoA ligase) (Acyl-activating enzyme)
+76.97205753,Medium,Q5SIW8,Methylmalonyl-CoA mutase
+88.41819693,Medium,Q5SIX0,Uncharacterized protein
+65.93059987,Unstable,Q5SIX2,Cell division topological specificity factor
+81.84102013,Medium,Q5SIX4,"Spermidine/putrescine ABC transporter, ATP-binding protein"
+82.0268824,Medium,Q5SIY0,Dihydroxy-acid dehydratase (DAD) (EC 4.2.1.9)
+85.70102671,Medium,Q5SIY1,Short-chain dehydrogenases/reductases family protein
+86.77650753,Medium,Q5SIY2,Uncharacterized protein
+88.20642499,Medium,Q5SIY3,Uncharacterized protein
+90.61680046,Stable,Q5SIY4,3-isopropylmalate dehydrogenase (EC 1.1.1.85) (3-IPM-DH) (Beta-IPM dehydrogenase) (IMDH)
+75.72737673,Medium,Q5SIY7,Tryptophan--tRNA ligase (EC 6.1.1.2) (Tryptophanyl-tRNA synthetase)
+62.72281724,Unstable,Q5SIZ9,Probable thioredoxin reductase
+78.68807355,Medium,Q5SJ01,Acetolactate synthase (EC 2.2.1.6)
+80.77442591,Medium,Q5SJ02,"Acetolactate synthase, small subunit (IlvN)"
+81.70805377,Medium,Q5SJ03,Ketol-acid reductoisomerase (EC 1.1.1.86) (Acetohydroxy-acid isomeroreductase) (Alpha-keto-beta-hydroxylacyl reductoisomerase)
+80.62896669,Medium,Q5SJ04,2-isopropylmalate synthase (EC 2.3.3.13) (Alpha-IPM synthase) (Alpha-isopropylmalate synthase)
+73.80671697,Medium,Q5SJ05,Probable acetyltransferase
+79.40112064,Medium,Q5SJ06,Probable citramalate synthase
+77.4050907,Medium,Q5SJ07,Uncharacterized protein
+86.95381353,Medium,Q5SJ15,Ornithine carbamoyltransferase (OTCase) (EC 2.1.3.3)
+88.0608643,Medium,Q5SJ16,Uncharacterized protein
+79.35400822,Medium,Q5SJ22,Septum site-determining protein MinC
+62.80009478,Unstable,Q5SJ26,Maf-like protein TTHA1188
+73.78183292,Medium,Q5SJ29,Ribosome-binding ATPase YchF
+86.05501185,Medium,Q5SJ30,Putative response regulator
+88.54097746,Medium,Q5SJ32,tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ (EC 2.1.1.200) (tRNA (cytidine(32)/uridine(32)-2'-O)-methyltransferase) (tRNA Cm32/Um32 methyltransferase)
+83.17586017,Medium,Q5SJ34,Low molecular weight phosphotyrosine protein phosphatase
+87.24932502,Medium,Q5SJ35,Probable fructosamine-3-kinase
+82.02351343,Medium,Q5SJ36,Uncharacterized protein
+61.88914212,Unstable,Q5SJ37,Pseudouridine-5'-phosphate glycosidase (PsiMP glycosidase) (EC 4.2.1.70)
+70.13114446,Unstable,Q5SJ39,Ribosomal protein S12 methylthiotransferase RimO (S12 MTTase) (S12 methylthiotransferase) (EC 2.8.4.4) (Ribosomal protein S12 (aspartate-C(3))-methylthiotransferase) (Ribosome maturation factor RimO)
+88.48730143,Medium,Q5SJ42,"Alpha-1,4 glucan phosphorylase (EC 2.4.1.1)"
+75.46616999,Medium,Q5SJ45,Valine--tRNA ligase (EC 6.1.1.9) (Valyl-tRNA synthetase) (ValRS)
+83.79568827,Medium,Q5SJ47,Single-stranded-DNA-specific exonuclease RecJ (EC 3.1.-.-)
+78.89814236,Medium,Q5SJ49,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16) (Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase)
+81.95849797,Medium,Q5SJ50,Indole-3-glycerol phosphate synthase
+86.06998414,Medium,Q5SJ55,"Amino acid ABC transporter, ATP-binding protein"
+70.58469334,Unstable,Q5SJ59,Mercuric resistance operon regulatory protein (MerR)
+76.42530607,Medium,Q5SJ64,DNA polymerase beta family (X family)
+74.85326733,Medium,Q5SJ65,Uracil-DNA glycosylase
+85.04540801,Medium,Q5SJ66,"Propionyl-CoA carboxylase, alpha subunit"
+78.69714287,Medium,Q5SJ68,"Electron transfer flavoprotein, alpha subunit"
+81.47445076,Medium,Q5SJ69,"Electron transfer flavoprotein, beta subunit"
+83.5205642,Medium,Q5SJ70,"Acetyl-Coenzyme A dehydrogenase, medium chain"
+84.81048686,Medium,Q5SJ72,Response regulator receiver domain protein
+78.74843998,Medium,Q5SJ74,Metallo-beta-lactamase superfamily protein
+79.01825094,Medium,Q5SJ75,Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) (Polynucleotide phosphorylase) (PNPase)
+86.81553114,Medium,Q5SJ76,30S ribosomal protein S15
+67.36774291,Unstable,Q5SJ82,Probable gliding protein mglA
+65.84904083,Unstable,Q5SJ83,Probable gliding protein (MglB)
+89.70312081,Stable,Q5SJ84,ArgE/DapE/Acy1 family peptidase
+88.35726957,Medium,Q5SJ85,N(1)-aminopropylagmatine ureohydrolase (EC 3.5.3.24) (Protein SpeB homolog)
+84.58462023,Medium,Q5SJ86,Probable peptidase
+66.66849797,Unstable,Q5SJ91,"Acetyl-CoA carboxylase, biotin carboxylase subunit"
+88.62735044,Medium,Q5SJ93,N utilization substance protein B homolog (Protein NusB)
+60.74311394,Unstable,Q5SJ94,Bifunctional protein FolD [Includes: Methylenetetrahydrofolate dehydrogenase (EC 1.5.1.5); Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)]
+66.96286547,Unstable,Q5SJ97,Iron-sulfur protein
+67.70991362,Unstable,Q5SJ98,Uncharacterized protein
+84.35767151,Medium,Q5SJA3,Lon protease (EC 3.4.21.53) (ATP-dependent protease La)
+74.14941147,Medium,Q5SJA5,Putative glycosyltransferase
+78.59372782,Medium,Q5SJA9,Uncharacterized protein
+85.99490511,Medium,Q5SJB0,Prephenate dehydratase (PDT) (EC 4.2.1.51)
+81.8989652,Medium,Q5SJB1,FemA-related protein
+66.81263983,Unstable,Q5SJB8,Thymidylate synthase ThyX (TS) (TSase) (EC 2.1.1.148)
+71.42548395,Unstable,Q5SJB9,Tryptophan synthase beta chain (EC 4.2.1.20)
+78.98113103,Medium,Q5SJC0,Tryptophan synthase alpha chain (EC 4.2.1.20)
+73.20155027,Medium,Q5SJC2,Cyclic dehypoxanthine futalosine synthase (Cyclic DHFL synthase) (EC 1.21.98.1) (Dehypoxanthine futalosine cyclase) (Menaquinone biosynthetic enzyme MqnC)
+87.394191,Medium,Q5SJC3,Uncharacterized protein
+76.01625505,Medium,Q5SJC4,Crossover junction endodeoxyribonuclease RuvC (EC 3.1.22.4) (Holliday junction nuclease RuvC) (Holliday junction resolvase RuvC)
+62.8342671,Unstable,Q5SJC5,Cell division protein FtsZ
+81.87012722,Medium,Q5SJC6,Cell division protein FtsA
+79.70387991,Medium,Q5SJC8,UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98) (UDP-N-acetylmuramate dehydrogenase)
+83.60055195,Medium,Q5SJC9,UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+80.7522902,Medium,Q5SJD0,UDP-N-acetylglucosamine--N-acetylmuramyl-(Pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+74.30230358,Medium,Q5SJD2,UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9) (D-glutamic acid-adding enzyme) (UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase)
+69.95348954,Unstable,Q5SJD5,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+67.71771728,Unstable,Q5SJD8,Ribosomal RNA small subunit methyltransferase H (EC 2.1.1.199) (16S rRNA m(4)C1402 methyltransferase) (rRNA (cytosine-N(4)-)-methyltransferase RsmH)
+63.2434232,Unstable,Q5SJE1,50S ribosomal protein L31
+84.11222925,Medium,Q5SJE6,Proline dipeptidase
+84.81137371,Medium,Q5SJE8,Probable transaldolase (EC 2.2.1.2)
+77.20538238,Medium,Q5SJE9,Transcription termination factor Rho (EC 3.6.4.-) (ATP-dependent helicase Rho)
+70.61361551,Unstable,Q5SJF0,Riboflavin biosynthesis protein RibD
+83.30892025,Medium,Q5SJF1,Riboflavin synthase alpha chain
+83.93425819,Medium,Q5SJF2,Riboflavin biosynthesis protein RibBA
+73.07526902,Medium,Q5SJF5,Uncharacterized protein
+73.67182737,Medium,Q5SJF8,Shikimate dehydrogenase (NADP(+)) (SDH) (EC 1.1.1.25)
+90.05462687,Stable,Q5SJG0,UPF0365 protein TTHA1048
+80.8812399,Medium,Q5SJG2,PhoH-related protein
+73.7615344,Medium,Q5SJG3,Endoribonuclease YbeY (EC 3.1.-.-)
+86.13800661,Medium,Q5SJG5,Uncharacterized protein
+75.59213107,Medium,Q5SJG6,Transcription inhibitor protein Gfh1 (Anti-cleavage anti-GreA transcription factor) (Gre factor homolog 1)
+88.18361638,Medium,Q5SJG7,Lysine--tRNA ligase (EC 6.1.1.6) (Lysyl-tRNA synthetase) (LysRS)
+71.23076929,Unstable,Q5SJG8,Cation efflux system membrane protein
+62.92822397,Unstable,Q5SJG9,"Methylmalonyl-CoA mutase, alpha subunit, chain A"
+83.74220476,Medium,Q5SJH0,"Methylmalonyl-CoA mutase, alpha subunit, chain B"
+86.53916826,Medium,Q5SJH1,Uncharacterized protein
+79.9175606,Medium,Q5SJH2,Signal recognition particle protein (Fifty-four homolog)
+88.90010493,Medium,Q5SJH3,30S ribosomal protein S16
+73.59089619,Medium,Q5SJH4,UPF0109 protein TTHA1034
+87.48729456,Medium,Q5SJH9,"L-serine dehydratase, alpha subunit"
+73.8330856,Medium,Q5SJI0,Sulfurtransferase
+77.12086267,Medium,Q5SJJ2,Uncharacterized protein
+78.15247798,Medium,Q5SJJ4,Uncharacterized protein
+79.70300898,Medium,Q5SJK2,Uncharacterized protein
+81.13859165,Medium,Q5SJK3,Uncharacterized protein
+85.49495534,Medium,Q5SJK6,Response regulator
+83.5054147,Medium,Q5SJK9,Uncharacterized protein
+83.23770276,Medium,Q5SJL0,ATP-dependent DNA helicase
+71.06479889,Unstable,Q5SJL2,Succinate-semialdehyde dehydrogenase
+65.54787791,Unstable,Q5SJL6,Putative fructokinase
+89.21013505,Stable,Q5SJM0,Uncharacterized protein
+83.21843041,Medium,Q5SJM1,Beta-ketoadipyl CoA thiolase
+83.653327,Medium,Q5SJM2,Uncharacterized protein
+62.65144556,Unstable,Q5SJM3,Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+69.70873627,Unstable,Q5SJM4,Quinolinate synthase A (EC 2.5.1.72)
+85.12746147,Medium,Q5SJM5,L-aspartate oxidase
+82.47876093,Medium,Q5SJM7,Uncharacterized protein
+75.86310276,Medium,Q5SJM9,Uncharacterized protein
+90.63003551,Stable,Q5SJN0,Uncharacterized protein
+74.79419697,Medium,Q5SJN4,Integrase/recombinase
+74.39858422,Medium,Q5SJN5,"Transcriptional regulator, TetR family"
+85.89102273,Medium,Q5SJN6,Phenylacetic acid degradation protein PaaA
+78.19703851,Medium,Q5SJN7,Phenylacetic acid degradation protein PaaB
+84.22353573,Medium,Q5SJN8,Phenylacetic acid degradation protein PaaC
+65.71592946,Unstable,Q5SJN9,Phenylacetic acid degradation protein PaaD
+74.29468163,Medium,Q5SJP0,Phenylacetic acid degradation protein PaaZ
+78.83329297,Medium,Q5SJP2,Phenylacetate-coenzyme A ligase (EC 6.2.1.30) (Phenylacetyl-CoA ligase)
+68.19469824,Unstable,Q5SJP6,"Homoprotocatechuate 2,3-dioxygenase"
+78.95788567,Medium,Q5SJP7,4-hydroxyphenylacetate 3-monooxygenase reductase component (EC 1.5.1.36) (4-HPA 3-monooxygenase small component) (Flavin:NADH reductase)
+85.64975422,Medium,Q5SJP8,4-hydroxyphenylacetate 3-monooxygenase oxygenase component (EC 1.14.14.9) (4-HPA 3-hydroxylase) (4-HPA 3-monooxygenase large component)
+87.17248187,Medium,Q5SJP9,5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenaseiheyensis HTE831]
+77.60263611,Medium,Q5SJQ0,"2-hydroxyhepta-2,4-diene-1,7-dioate isomerase/5-carboxymethyl-2-oxo-hex-3-ene-1,7-dioate decarboxylase"
+84.42369134,Medium,Q5SJQ3,Mannosyl-3-phosphoglycerate phosphatase
+84.61247352,Medium,Q5SJQ4,Mannosyl-3-phosphoglycerate synthase
+83.38523602,Medium,Q5SJQ5,Uncharacterized protein
+73.3358485,Medium,Q5SJQ6,D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+90.02229384,Stable,Q5SJQ7,DegV family protein
+89.69579324,Stable,Q5SJQ8,DegV family protein
+77.97643288,Medium,Q5SJR1,Triosephosphate isomerase (TIM) (TPI) (EC 5.3.1.1) (Triose-phosphate isomerase)
+66.84850845,Unstable,Q5SJR8,Aminotransferase
+82.97577923,Medium,Q5SJS1,Uncharacterized protein
+61.5449328,Unstable,Q5SJS4,"Glutamate-1-semialdehyde 2,1-aminomutase (GSA) (EC 5.4.3.8) (Glutamate-1-semialdehyde aminotransferase) (GSA-AT)"
+68.49914119,Unstable,Q5SJS7,tRNA modification GTPase MnmE (EC 3.6.-.-)
+72.19212989,Medium,Q5SJS8,Bifunctional purine biosynthesis protein PurH
+76.91729575,Medium,Q5SJT0,Methyltransferase
+80.1028182,Medium,Q5SJT3,Poly(A) polymerase family protein
+78.4562974,Medium,Q5SJU8,Ribonuclease R (RNase R) (EC 3.1.13.1)
+78.31276955,Medium,Q5SJU9,Acetylornithine/acetyl-lysine aminotransferase (ACOAT) (EC 2.6.1.11)
+86.54587248,Medium,Q5SJV0,Probable thioesterase
+70.21774641,Unstable,Q5SJV1,Ribosome-binding factor A
+76.68886764,Medium,Q5SJV3,Chromosome segregation SMC protein
+76.54798759,Medium,Q5SJV5,Uncharacterized protein
+74.22206309,Medium,Q5SJV7,Universal stress protein family
+66.26081003,Unstable,Q5SJV8,33 kDa chaperonin (Heat shock protein 33 homolog) (HSP33)
+85.23883606,Medium,Q5SJW0,Acyl-CoA dehydrogenase
+62.75282821,Unstable,Q5SJW1,Acetyl-CoA acetyltransferase
+66.4048408,Unstable,Q5SJW2,Putative 3-hydroxyacyl-CoA dehydrogenase
+74.33753716,Medium,Q5SJW3,Transcription-repair-coupling factor (TRCF) (EC 3.6.4.-)
+89.52894538,Stable,Q5SJW4,Pyrrolidone carboxyl peptidase
+86.36889822,Medium,Q5SJW6,UDP-galactopyranose mutase
+72.53724972,Medium,Q5SJX0,Glycosyltransferase
+88.72726433,Medium,Q5SJX1,Glycosyltransferase
+87.98972772,Medium,Q5SJX7,Serine--tRNA ligase (EC 6.1.1.11) (Seryl-tRNA synthetase) (SerRS) (Seryl-tRNA(Ser/Sec) synthetase)
+84.70078368,Medium,Q5SJX8,o-succinylbenzoate synthase (OSB synthase) (OSBS) (EC 4.2.1.113) (4-(2'-carboxyphenyl)-4-oxybutyric acid synthase) (o-succinylbenzoic acid synthase)
+70.29290001,Unstable,Q5SJX9,Uncharacterized protein
+85.40957501,Medium,Q5SJY6,Uncharacterized protein
+90.02646418,Stable,Q5SJY7,NAD-dependent aldehyde dehydrogenase
+75.55516036,Medium,Q5SJY8,Uncharacterized protein
+81.44352252,Medium,Q5SJY9,MutT/nudix family protein
+88.11096235,Medium,Q5SJZ0,4-aminobutyrate aminotransferase
+83.81665393,Medium,Q5SJZ6,1-deoxy-D-xylulose 5-phosphate reductoisomerase (DXP reductoisomerase) (EC 1.1.1.267) (1-deoxyxylulose-5-phosphate reductoisomerase) (2-C-methyl-D-erythritol 4-phosphate synthase)
+74.88136065,Medium,Q5SJZ8,Glycosyltransferase
+65.78633258,Unstable,Q5SK00,Pyrroline-5-carboxylate reductase (P5C reductase) (P5CR) (EC 1.5.1.2) (PCA reductase)
+75.62508812,Medium,Q5SK01,Ribosomal RNA small subunit methyltransferase B (EC 2.1.1.176) (16S rRNA m5C967 methyltransferase) (rRNA (cytosine-C(5)-)-methyltransferase RsmB)
+70.04808205,Unstable,Q5SK02,Stage V sporulation protein S (SpoVS) related protein
+87.66468465,Medium,Q5SK03,Uncharacterized protein
+73.79761889,Medium,Q5SK05,Putative phosphohydrolase
+89.19379588,Stable,Q5SK14,Glutaredoxin-like protein
+78.30225481,Medium,Q5SK15,Sulfurtransferase
+90.34440968,Stable,Q5SK16,Sulfurtransferase
+62.56496867,Unstable,Q5SK18,Endonuclease IV
+78.5855158,Medium,Q5SK21,PolyA polymerase family protein
+63.11638741,Unstable,Q5SK23,"Putative acetoin utilization protein, acetoin dehydrogenase"
+78.54982534,Medium,Q5SK25,"Outer membrane protein, OmpH-like"
+74.1849495,Medium,Q5SK26,Cell division protein FtsK
+77.8241407,Medium,Q5SK27,Adenosylmethionine decarboxylase (EC 4.1.1.50)
+88.09887125,Medium,Q5SK28,Polyamine aminopropyltransferase (Agmatine aminopropyltransferase) (EC 2.5.1.104) (N1-aminopropylagmatine synthase) (Norspermidine aminopropyltransferase) (EC 2.5.1.126) (Spermidine aminopropyltransferase) (EC 2.5.1.79) (Spermine synthase) (Thermine synthase) (Thermospermine synthase) (Triamine/agmatine aminopropyltransferase) (TAAPT)
+68.52302155,Unstable,Q5SK30,Probable potassium efflux transporter
+81.06806594,Medium,Q5SK31,Probable transcriptional regulatory protein TTHA0821
+89.55623562,Stable,Q5SK41,Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2) (5'-phosphoribosylglycinamide transformylase) (GAR transformylase)
+72.59729579,Medium,Q5SK42,Metallo-beta-lactamase related protein
+77.96691654,Medium,Q5SK45,Transcriptional regulator
+75.3919484,Medium,Q5SK47,Uncharacterized protein
+71.02703038,Unstable,Q5SK48,Aminodeoxyfutalosine synthase (AFL synthase) (Aminofutalosine synthase) (EC 2.5.1.120) (Menaquinone biosynthetic enzyme MqnE)
+87.75092992,Medium,Q5SK50,Uncharacterized protein
+71.61017499,Medium,Q5SK52,Phospho-2-dehydro-3-deoxyheptonate aldolase
+82.18434394,Medium,Q5SK53,Prephenate dehydrogenase
+70.52921405,Unstable,Q5SK57,Uncharacterized protein
+87.47596868,Medium,Q5SK59,Uncharacterized protein
+75.44206404,Medium,Q5SK60,Segregation and condensation protein B
+86.85059326,Medium,Q5SK63,Putative glutaryl-CoA dehydrogenase
+82.11711541,Medium,Q5SK65,Bifunctional protein PyrR [Includes: Pyrimidine operon regulatory protein; Uracil phosphoribosyltransferase (UPRTase) (EC 2.4.2.9)]
+84.11353795,Medium,Q5SK69,Dihydroorotate dehydrogenase (quinone) (EC 1.3.5.2) (DHOdehase) (DHOD) (DHODase) (Dihydroorotate oxidase)
+64.33068598,Unstable,Q5SK78,Lon protease (EC 3.4.21.53) (ATP-dependent protease La)
+87.7996369,Medium,Q5SK82,"Lactate-binding periplasmic protein TTHA0766 (ABC transporter, solute-binding protein) (Extracytoplasmic solute receptor protein TTHA0766) (TRAP transporter lactate-binding subunit P)"
+77.10340262,Medium,Q5SK83,Probable hydrolase
+82.19500815,Medium,Q5SK84,Uncharacterized protein
+90.11943285,Stable,Q5SK86,"Oxidoreductase, short-chain dehydrogenase/reductase family"
+75.51514345,Medium,Q5SK87,Iron-sulfur cluster biosynthesis protein SufE
+87.68728828,Medium,Q5SK88,O-acetyl-L-homoserine sulfhydrylase
+84.55953537,Medium,Q5SK89,Homoserine O-acetyltransferase (EC 2.3.1.31) (Homoserine O-trans-acetylase) (HTA) (Homoserine transacetylase)
+85.40966635,Medium,Q5SK91,Uncharacterized protein
+89.61712412,Stable,Q5SK93,Gamma-glutamyltranspeptidase (Acylase)
+76.38767923,Medium,Q5SK96,Beta-lactamase family protein
+87.50101538,Medium,Q5SK98,3-oxoacyl-[acyl carrier protein] reductase
+77.2381724,Medium,Q5SKA5,Glycosyltransferase related protein
+75.63093938,Medium,Q5SKA7,Elongation factor 4 (EF-4) (EC 3.6.5.n1) (Ribosomal back-translocase LepA)
+87.96007256,Medium,Q5SKA9,"L-serine dehydratase, beta subunit"
+79.04896803,Medium,Q5SKB3,Cytidine deaminase
+87.19452679,Medium,Q5SKB5,Transcriptional regulator MarR family
+89.1260075,Stable,Q5SKB7,Uncharacterized protein
+81.24984839,Medium,Q5SKB8,Uncharacterized protein
+86.76435398,Medium,Q5SKC0,"Iron(III) ABC transporter, solute-binding protein"
+88.44891463,Medium,Q5SKC1,Histidinol dehydrogenase (HDH) (EC 1.1.1.23)
+83.03002899,Medium,Q5SKC2,Uncharacterized protein
+74.33259868,Medium,Q5SKC4,Uncharacterized protein
+79.94857163,Medium,Q5SKC5,Uracil-DNA glycosylase
+89.26079856,Stable,Q5SKC6,Molybdenum ABC transporter molybdate-binding protein
+71.26587231,Unstable,Q5SKD2,Aspartate--tRNA(Asp) ligase (EC 6.1.1.12) (Aspartyl-tRNA synthetase 1) (AspRS1) (Discriminating aspartyl-tRNA synthetase) (D-AspRS)
+83.4039959,Medium,Q5SKD3,Phenazine biosynthesis protein related protein
+84.43591833,Medium,Q5SKD4,Putative hydrolase
+70.28753564,Unstable,Q5SKD6,Pyridoxal 5'-phosphate synthase subunit PdxT (EC 4.3.3.6) (Pdx2) (Pyridoxal 5'-phosphate synthase glutaminase subunit) (EC 3.5.1.2)
+87.99282251,Medium,Q5SKD7,Cation-transporting ATPase
+68.45877099,Unstable,Q5SKD8,Transcriptional repressor SmtB
+63.08344163,Unstable,Q5SKD9,Pyridoxal 5'-phosphate synthase subunit PdxS (PLP synthase subunit PdxS) (EC 4.3.3.6) (Pdx1)
+65.35098965,Unstable,Q5SKE0,"Cell wall endopeptidase, family M23/M37"
+71.32196407,Unstable,Q5SKE3,Uncharacterized protein
+90.73350804,Stable,Q5SKE8,Amino acid ABC transporter ATP-binding protein [C-terminal]
+82.69221425,Medium,Q5SKF3,Acetyl-CoA acetyltransferase
+76.61118556,Medium,Q5SKG3,Phosphomethylpyrimidine kinase (ThiD)
+79.39685291,Medium,Q5SKG9,Thiamine-phosphate synthase (TP synthase) (TPS) (EC 2.5.1.3) (Thiamine-phosphate pyrophosphorylase) (TMP pyrophosphorylase) (TMP-PPase)
+87.91281312,Medium,Q5SKH1,Probable sulfite reductase
+83.23757026,Medium,Q5SKH2,Probable uroporphyrinogen-III synthase
+84.725837,Medium,Q5SKH3,Shiroheme synthase (Precorrin-2 oxidase/ferrochelatase)
+67.47919037,Unstable,Q5SKH4,Phosphoadenylyl-sulfate reductase (thioredoxin) (EC 1.8.4.8)
+72.35007396,Medium,Q5SKH6,Uncharacterized protein
+84.86536855,Medium,Q5SKH7,ATP sulfurylase (Sulfate adenylyltransferase)
+72.95973337,Medium,Q5SKH8,"N5,N10-methylenetetrahydromethanopterin reductase"
+77.5367628,Medium,Q5SKH9,NADPH quinone oxidoreductase
+82.96245456,Medium,Q5SKI3,"Oxidoreductase, short-chain dehydrogenase/reductase family"
+68.29993237,Unstable,Q5SKI6,Ribosomal RNA small subunit methyltransferase E (EC 2.1.1.193)
+79.65212471,Medium,Q5SKI8,Uncharacterized protein
+70.46708298,Unstable,Q5SKI9,Iron-sulfur cluster carrier protein
+85.03357851,Medium,Q5SKJ0,Uncharacterized protein
+88.41680332,Medium,Q5SKJ3,Putative phosphoglucomutase/phosphomannomutase
+77.49092052,Medium,Q5SKJ5,Probable glycosyltransferase
+83.0808398,Medium,Q5SKJ6,Putative glycosyltransferase
+82.28171621,Medium,Q5SKJ8,Putative glycosyltransferase
+81.83431682,Medium,Q5SKK0,Putative glycosyltransferase
+85.15970327,Medium,Q5SKK1,Putative glycosyltransferase
+71.40338806,Unstable,Q5SKK6,Uncharacterized protein
+85.41235272,Medium,Q5SKK7,Uncharacterized protein
+85.79976679,Medium,Q5SKK8,Probable nucleotidyltransferase
+73.35188863,Medium,Q5SKK9,Magnesium chelatase related protein
+87.74780685,Medium,Q5SKL2,ATP-dependent protease subunit HslV (EC 3.4.25.2)
+82.1201153,Medium,Q5SKL3,Heat shock protein HslU
+82.48608173,Medium,Q5SKL4,Putative O-linked GlcNAc transferase (TPR repeat)
+69.581805,Unstable,Q5SKL7,Phosphoenolpyruvate carboxylase (PEPC) (PEPCase) (EC 4.1.1.31)
+84.79580333,Medium,Q5SKL8,Uncharacterized protein
+72.4158133,Medium,Q5SKM1,Transcription elongation factor GreA (Transcript cleavage factor GreA)
+75.46715776,Medium,Q5SKM3,Alternative anthranilate synthase component I+II (TrpEG)
+78.32146845,Medium,Q5SKM5,5-methyltetrahydrofolate homocysteine S-methyltransferase
+69.69642322,Unstable,Q5SKM7,ATP-dependent Clp protease ATP-binding subunit ClpX
+82.25152931,Medium,Q5SKM8,ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92) (Endopeptidase Clp)
+78.14172239,Medium,Q5SKM9,Trigger factor (TF) (EC 5.2.1.8) (PPIase)
+67.09671359,Unstable,Q5SKN0,Uncharacterized protein
+73.1456878,Medium,Q5SKN1,Carbamoyl-phosphate synthase large chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase ammonia chain)
+83.62044844,Medium,Q5SKN3,Uncharacterized protein
+83.5574497,Medium,Q5SKN4,tRNA (adenine(58)-N(1))-methyltransferase TrmI (EC 2.1.1.220) (tRNA(m1A58)-methyltransferase) (tRNA(m1A58)MTase)
+73.3213029,Medium,Q5SKN5,Probable RNA-biniding protein
+76.30192103,Medium,Q5SKN9,Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) (Long-chain fatty acyl-CoA synthetase) (LC-FACS)
+77.76987017,Medium,Q5SKP2,Uroporphyrinogen decarboxylase (UPD) (URO-D) (EC 4.1.1.37)
+85.48288841,Medium,Q5SKP3,Ferrochelatase (EC 4.99.1.1) (Heme synthase) (Protoheme ferro-lyase)
+74.84218832,Medium,Q5SKP4,Protoporphyrinogen oxidase (HemG)
+73.80303925,Medium,Q5SKP6,Uncharacterized protein
+89.3761073,Stable,Q5SKP8,Galactokinase
+90.00589199,Stable,Q5SKQ0,Probable thiol-disulfide isomerase/thioredoxin
+83.93736344,Medium,Q5SKQ2,UDP-glucose 4-epimerase
+88.67834738,Medium,Q5SKQ3,Branched-chain amino acid ABC transporter amino acid-binding protein
+69.14820571,Unstable,Q5SKR4,"Sugar ABC transportor, ATP-binding protein"
+77.4459601,Medium,Q5SKR5,Uridine kinase (EC 2.7.1.48) (Cytidine monophosphokinase) (Uridine monophosphokinase)
+84.49943414,Medium,Q5SKR7,Putative pyruvyl-transferase
+80.83524773,Medium,Q5SKR8,Uncharacterized protein
+66.07546633,Unstable,Q5SKR9,Probable DNA polymerase III epsilon subunit
+79.19140571,Medium,Q5SKS1,tRNA dimethylallyltransferase (EC 2.5.1.75) (Dimethylallyl diphosphate:tRNA dimethylallyltransferase) (DMAPP:tRNA dimethylallyltransferase) (DMATase) (Isopentenyl-diphosphate:tRNA isopentenyltransferase) (IPP transferase) (IPPT) (IPTase)
+88.10490387,Medium,Q5SKS3,Putative oxidoreductase (Glucose dehydrogenase)
+72.99905765,Medium,Q5SKS4,L-threonine 3-dehydrogenase (TDH) (EC 1.1.1.103)
+83.88562521,Medium,Q5SKS5,Uncharacterized protein
+69.71523942,Unstable,Q5SKS7,GTPase HflX (GTP-binding protein HflX)
+81.59518312,Medium,Q5SKS9,Cell division initiation protein DivIVA
+84.50583833,Medium,Q5SKT0,Uncharacterized protein
+86.003892,Medium,Q5SKT1,Purine nucleoside phosphorylase (EC 2.4.2.1) (Inosine-guanosine phosphorylase)
+72.94817477,Medium,Q5SKT3,Uncharacterized protein
+88.65870242,Medium,Q5SKT4,Acetyl coenzyme A acetyltransferase (Thiolase)
+88.63149685,Medium,Q5SKT5,Fumarate hydratase class II (Fumarase C) (EC 4.2.1.2)
+82.78894578,Medium,Q5SKT7,Futalosine hydrolase (FL hydrolase) (EC 3.2.2.26) (Futalosine nucleosidase) (Menaquinone biosynthetic enzyme MqnB)
+71.08349883,Unstable,Q5SKT8,Uncharacterized protein
+69.57662322,Unstable,Q5SKU2,Translation initiation factor IF-3
+89.64872222,Stable,Q5SKU4,Glutamine--tRNA ligase (EC 6.1.1.18)
+80.3355529,Medium,Q5SKU6,Uncharacterized protein
+81.92236794,Medium,Q5SKU8,Aspartate-semialdehyde dehydrogenase (ASA dehydrogenase) (ASADH) (EC 1.2.1.11) (Aspartate-beta-semialdehyde dehydrogenase)
+80.28514748,Medium,Q5SKU9,Uncharacterized protein
+71.35604883,Unstable,Q5SKV1,"ATP-dependent Clp protease, ATP-binding subunit (ClpA)"
+63.25617047,Unstable,Q5SKV2,DNA repair protein radA
+84.45138458,Medium,Q5SKV3,Uncharacterized PIN and TRAM-domain containing protein TTHA0540 (Putative RNase TTHA0540) (EC 3.1.-.-)
+84.03407156,Medium,Q5SKV4,N(4)-bis(aminopropyl)spermidine synthase (EC 2.5.1.128) (Branched-chain polyamine synthase A)
+86.85874197,Medium,Q5SKV5,Succinyl-CoA ligase [ADP-forming] subunit beta (EC 6.2.1.5) (Succinyl-CoA synthetase subunit beta)
+83.61501453,Medium,Q5SKV6,Succinyl-CoA ligase [ADP-forming] subunit alpha (EC 6.2.1.5)
+67.08616707,Unstable,Q5SKV7,Malate dehydrogenase (EC 1.1.1.37)
+84.78745883,Medium,Q5SKV9,Aspartokinase (EC 2.7.2.4)
+80.67250896,Medium,Q5SKW0,Probable ribosomal RNA small subunit methyltransferase
+79.05762502,Medium,Q5SKW1,RNA polymerase sigma factor SigA
+83.23639503,Medium,Q5SKW3,Uncharacterized protein
+78.91156495,Medium,Q5SKW5,ADP-ribose pyrophosphatase
+67.81949542,Unstable,Q5SKW6,Riboflavin biosynthesis protein (EC 2.7.1.26) (EC 2.7.7.2)
+87.74818622,Medium,Q5SKW8,Probable glycine dehydrogenase (decarboxylating) subunit 1 (EC 1.4.4.2) (Glycine cleavage system P-protein subunit 1) (Glycine decarboxylase subunit 1) (Glycine dehydrogenase (aminomethyl-transferring) subunit 1)
+71.21880476,Unstable,Q5SKX0,Aminomethyltransferase (EC 2.1.2.10) (Glycine cleavage system T protein)
+88.99031599,Medium,Q5SKX1,Uncharacterized protein
+87.72541073,Medium,Q5SKX2,Uncharacterized protein
+89.57809756,Stable,Q5SKX3,NAD-dependent malic enzyme (Malate dehydrogenase)
+68.0062598,Unstable,Q5SKY0,N5-carboxyaminoimidazole ribonucleotide synthase (N5-CAIR synthase) (EC 6.3.4.18) (5-(carboxyamino)imidazole ribonucleotide synthetase)
+67.55717089,Unstable,Q5SKY1,Uncharacterized protein
+90.51887312,Stable,Q5SKY3,CsaA protein
+81.52312394,Medium,Q5SKY4,N-acyl-L-amino acid amidohydrolase
+62.54264896,Unstable,Q5SKY5,"Transcriptional regulator, MerR family"
+75.40443661,Medium,Q5SKY6,Transcriptional regulator
+88.142779,Medium,Q5SKY7,Malate synthase (EC 2.3.3.9)
+66.8040167,Unstable,Q5SKY8,Glycolate oxidase subunit
+72.7783058,Medium,Q5SKY9,Glycolate oxidase subunit GlcE
+64.52237704,Unstable,Q5SKZ0,Glycolate oxidase iron-sulfur subunit
+87.12420652,Medium,Q5SKZ2,Ribonuclease VapC (RNase VapC) (EC 3.1.-.-) (Toxin VapC)
+81.91766533,Medium,Q5SKZ3,Glycerate dehydrogenase/hydroxypyruvate reductase
+65.6725237,Unstable,Q5SKZ6,Oxygen-independent coproporphyrinogen III oxidase
+81.70904467,Medium,Q5SKZ7,NADH-quinone oxidoreductase subunit 15 (EC 1.6.5.11) (NADH dehydrogenase I chain 15) (NDH-1 subunit 15)
+74.74332762,Medium,Q5SKZ8,2-phosphoglycerate kinase
+77.88075862,Medium,Q5SL02,Threonine synthase (EC 4.2.3.1)
+81.50568989,Medium,Q5SL07,Probable iron-sulfur protein
+85.72557318,Medium,Q5SL08,Phosphoesterase-related protein
+71.17669672,Unstable,Q5SL10,"Probable transcriptional regulator, ArsR family"
+89.33048657,Stable,Q5SL12,"Oligo-1,6-glucosidase"
+87.72433275,Medium,Q5SL15,Trehalose synthase
+81.98240694,Medium,Q5SL16,"Probable ATP pyrophosphatase, PP-loop superfamily"
+89.90738267,Stable,Q5SL18,Acetoin utilization protein AcuC (Putative T-histone deacetylase)
+84.96039337,Medium,Q5SL19,Acetoin utilization protein AcuB (Acetoin dehydrogenase)
+77.20406941,Medium,Q5SL20,"Peptide ABC transporter, ATP-binding protein"
+77.14257677,Medium,Q5SL21,"Peptide ABC transporter, ATP-binding protein"
+77.97583004,Medium,Q5SL24,"Peptide ABC transporter, periplasmic peptide-binding protein"
+77.11791569,Medium,Q5SL25,Uncharacterized protein
+89.28641979,Stable,Q5SL28,Ferredoxin--NADP reductase (FNR) (Fd-NADP(+) reductase) (EC 1.18.1.2)
+65.72346962,Unstable,Q5SL35,Cytidylate kinase (CK) (EC 2.7.4.25) (Cytidine monophosphate kinase) (CMP kinase)
+63.47332516,Unstable,Q5SL36,3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19) (5-enolpyruvylshikimate-3-phosphate synthase) (EPSP synthase) (EPSPS)
+87.07408109,Medium,Q5SL37,Cysteine desulfurase/cysteine sulfinate desulfinase
+63.9193651,Unstable,Q5SL38,"Rrf2 family protein, transcriptional regulator"
+81.94057106,Medium,Q5SL45,Long-chain-fatty-acid--CoA ligase
+81.17237891,Medium,Q5SL46,Branched-chain amino acid transporter ATP-binding protein
+65.66937422,Unstable,Q5SL51,Probable DNA/RNA-binding protein (Jag-related protein)
+78.61824147,Medium,Q5SL52,Release factor glutamine methyltransferase (RF MTase) (EC 2.1.1.297) (N5-glutamine methyltransferase PrmC) (Protein-(glutamine-N5) MTase PrmC) (Protein-glutamine N-methyltransferase PrmC)
+79.31270569,Medium,Q5SL57,Signal recognition particle receptor FtsY (SRP receptor)
+73.41886481,Medium,Q5SL59,Uncharacterized protein
+77.03414443,Medium,Q5SL60,Uncharacterized protein
+81.37957469,Medium,Q5SL61,Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
+90.24216386,Stable,Q5SL62,Sugar kinase
+82.56094822,Medium,Q5SL64,Imidazoleglycerol-phosphate dehydratase (IGPD) (EC 4.2.1.19)
+77.41879505,Medium,Q5SL65,Histidinol-phosphate aminotransferase (EC 2.6.1.9) (Imidazole acetol-phosphate transaminase)
+71.3716197,Unstable,Q5SL70,2-phosphosulfolactate phosphatase (EC 3.1.3.71)
+89.52656552,Stable,Q5SL71,UDP-N-acetyl-D-mannosaminuronic acid transferase
+86.31494445,Medium,Q5SL73,Putative flavoprotein
+89.17350796,Stable,Q5SL74,Uncharacterized protein
+87.94169652,Medium,Q5SL76,3-oxoacyl-[acyl-carrier-protein] synthase 3 (EC 2.3.1.180) (3-oxoacyl-[acyl-carrier-protein] synthase III) (Beta-ketoacyl-ACP synthase III)
+84.12665923,Medium,Q5SL77,Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)
+90.65487978,Stable,Q5SL78,3-oxoacyl-[acyl carrier protein] reductase
+87.9938477,Medium,Q5SL81,Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+81.819626,Medium,Q5SL82,Alpha-aminoadipate aminotransferase
+80.042486,Medium,Q5SL84,Methyltransferase (EC 2.1.1.-)
+82.54594945,Medium,Q5SL86,3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11) (Ketopantoate hydroxymethyltransferase) (KPHMT)
+66.33655072,Unstable,Q5SL87,Holliday junction ATP-dependent DNA helicase RuvB (EC 3.6.4.12)
+81.27956373,Medium,Q5SL90,ATP-dependent zinc metalloprotease FtsH (EC 3.4.24.-)
+73.71086874,Medium,Q5SL94,Uncharacterized protein
+84.72347268,Medium,Q5SLA4,Polyferredoxin
+79.23794537,Medium,Q5SLA5,Phospho-2-dehydro-3-deoxyheptonate aldolase/chorismate mutase
+84.01348219,Medium,Q5SLA8,Bifunctional protein GlmU [Includes: UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23) (N-acetylglucosamine-1-phosphate uridyltransferase); Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)]
+89.21498351,Stable,Q5SLB0,Putative thioredoxin
+89.03693345,Stable,Q5SLB4,"Sugar ABC transporter, periplasmic sugar-binding protein"
+82.37669982,Medium,Q5SLC0,3-octaprenyl-4-hydroxybenzoate carboxy-lyase UbiD
+83.39550483,Medium,Q5SLC3,Thioredoxin reductase related protein
+61.48494455,Unstable,Q5SLC4,"Oxidoreductase, short-chain dehydrogenase/reductase family"
+60.28123493,Unstable,Q5SLC5,Phosphoglycerate mutase
+74.72171365,Medium,Q5SLC6,Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1) (AIR synthase) (AIRS) (Phosphoribosyl-aminoimidazole synthetase)
+80.31818269,Medium,Q5SLC8,"Type IV pilus assembly protein, pilus retraction protein PilT"
+66.07689225,Unstable,Q5SLC9,Type IV pilus assembly protein PilF
+65.90274078,Unstable,Q5SLD0,"Putative hydrolase, HAD superfamily"
+70.35355977,Unstable,Q5SLD1,Laccase domain protein
+62.25577877,Unstable,Q5SLD7,"ABC transporter, periplasmic substrate-binding protein"
+78.2585191,Medium,Q5SLE0,Putative phosphoglucomutase
+84.04918807,Medium,Q5SLE1,Peptidylprolyl isomerase (EC 5.2.1.8)
+74.83685252,Medium,Q5SLE3,Uncharacterized protein
+65.33719491,Unstable,Q5SLE7,Peptidyl-prolyl cis-trans isomerase (EC 5.2.1.8)
+88.82732294,Medium,Q5SLE8,Porphobilinogen deaminase (PBG) (EC 2.5.1.61) (Hydroxymethylbilane synthase) (HMBS) (Pre-uroporphyrinogen synthase)
+74.33934262,Medium,Q5SLF0,Folyl-polyglutamate synthetase
+86.28689637,Medium,Q5SLF2,"Molybdopterin biosynthesis enzyme, MoaB"
+89.13997594,Stable,Q5SLF3,Uncharacterized protein
+90.60994548,Stable,Q5SLF5,Uncharacterized protein
+84.76770608,Medium,Q5SLF7,"6,7-dimethyl-8-ribityllumazine synthase (DMRL synthase) (LS) (Lumazine synthase) (EC 2.5.1.78)"
+88.6068986,Medium,Q5SLG2,Histidinol phosphatase
+82.68388815,Medium,Q5SLG3,Uncharacterized protein
+63.1795833,Unstable,Q5SLG4,DNA-3-methyladenine glycosidase
+88.23872716,Medium,Q5SLG5,Probable isochorismatase
+83.83282481,Medium,Q5SLG6,Methylenetetrahydrofolate reductase (EC 1.5.1.20)
+64.82188658,Unstable,Q5SLG7,Putative ATP/GTP-binding integral membrane protein
+83.93840151,Medium,Q5SLG9,Phosphopentomutase (EC 5.4.2.7) (Phosphodeoxyribomutase)
+77.52547846,Medium,Q5SLH3,Methionyl-tRNA formyltransferase (EC 2.1.2.9)
+71.47984714,Unstable,Q5SLH4,Nucleotide-binding protein TTHA0319
+89.54270089,Stable,Q5SLI2,Cytochrome c oxidase subunit 2 (EC 1.9.3.1)
+85.91859882,Medium,Q5SLI7,Queuine tRNA-ribosyltransferase (EC 2.4.2.29) (Guanine insertion enzyme) (tRNA-guanine transglycosylase)
+85.02001742,Medium,Q5SLI8,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin) (EC 1.17.7.3) (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase)
+81.48338982,Medium,Q5SLJ0,Uncharacterized protein
+81.92325345,Medium,Q5SLJ1,Uncharacterized protein
+65.7141368,Unstable,Q5SLJ5,Uncharacterized protein
+88.00195242,Medium,Q5SLJ6,Acetylornithine deacetylase (ArgE)
+80.63304933,Medium,Q5SLJ7,"RNA methyltransferase, TrmH family"
+75.87029746,Medium,Q5SLJ8,Universal stress protein UspA-like protein
+86.07680561,Medium,Q5SLK1,Probable hydrolase
+77.74119557,Medium,Q5SLK3,Probable enoyl-CoA hydratase
+82.85540604,Medium,Q5SLK4,2-oxoglutarate dehydrogenase E1 component (2-oxoglutarate dehydrogenase)
+71.02087534,Unstable,Q5SLK5,Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex component E2)
+89.20002677,Stable,Q5SLK7,"Serine protease, subtilase family"
+83.80052528,Medium,Q5SLL0,Argininosuccinate lyase (ASAL) (EC 4.3.2.1) (Arginosuccinase)
+68.38514502,Unstable,Q5SLL1,Probable acetyltransferase
+84.2929725,Medium,Q5SLL2,Uncharacterized protein
+70.38190986,Unstable,Q5SLL3,Carbamoyl-phosphate synthase small chain (EC 6.3.5.5) (Carbamoyl-phosphate synthetase glutamine chain)
+81.79768801,Medium,Q5SLL4,Putative threonine dehydratase
+87.54673325,Medium,Q5SLL5,Phosphoenolpyruvate carboxykinase [ATP] (PCK) (PEP carboxykinase) (PEPCK) (EC 4.1.1.49)
+87.91084267,Medium,Q5SLL6,Glucose-6-phosphate isomerase (GPI) (EC 5.3.1.9) (Phosphoglucose isomerase) (PGI) (Phosphohexose isomerase) (PHI)
+76.50446446,Medium,Q5SLL7,Probable acyl-CoA synthetase
+86.40740845,Medium,Q5SLL8,RNA 2'-O ribose methyltransferase
+89.27879672,Stable,Q5SLM2,60 kDa chaperonin (GroEL protein) (Heat shock protein 60) (Protein Cpn60)
+82.30915673,Medium,Q5SLM3,Thermostable carboxypeptidase 1 (EC 3.4.17.19) (TthCP1)
+88.23685823,Medium,Q5SLM7,Cell wall-binding endopeptidase-related protein
+78.26097018,Medium,Q5SLM9,DNA replication and repair protein RecF
+60.60821051,Unstable,Q5SLN1,Phosphate import ATP-binding protein PstB (EC 3.6.3.27) (ABC phosphate transporter) (Phosphate-transporting ATPase)
+79.88190632,Medium,Q5SLN2,"Probable phosphate ABC transporter, permease protein"
+83.98220382,Medium,Q5SLN4,"Phosphate ABC transporter, periplasmid phosphate-biniding protein"
+89.02362751,Stable,Q5SLN8,Ferric uptake regulation protein
+62.86756567,Unstable,Q5SLP1,Ribonuclease TTHA0252 (EC 3.1.-.-)
+89.84271188,Stable,Q5SLP6,50S ribosomal protein L11
+88.35475204,Medium,Q5SLP7,50S ribosomal protein L1
+85.93524134,Medium,Q5SLP8,30S ribosomal protein S6 (TS9)
+87.00612499,Medium,Q5SLP9,Single-stranded DNA-binding protein (SSB)
+85.54951059,Medium,Q5SLQ0,30S ribosomal protein S18
+84.26629751,Medium,Q5SLQ1,50S ribosomal protein L9
+78.98779342,Medium,Q5SLQ3,Octanoyltransferase (EC 2.3.1.181) (Lipoate-protein ligase B) (Lipoyl/octanoyl transferase) (Octanoyl-[acyl-carrier-protein]-protein N-octanoyltransferase)
+66.44388684,Unstable,Q5SLQ4,Lipoyl synthase (EC 2.8.1.8) (Lip-syn) (LS) (Lipoate synthase) (Lipoic acid synthase) (Sulfur insertion protein LipA)
+85.40151306,Medium,Q5SLR0,Dihydrolipoyl dehydrogenase (EC 1.8.1.4)
+82.53574833,Medium,Q5SLR1,"Pyruvate dehydrogenase complex, dihydrolipoamide acetyltranferase E2 component"
+90.33284108,Stable,Q5SLR3,2-oxoisovalerate dehydrogenase subunit beta (EC 1.2.4.4) (Branched-chain alpha-keto acid dehydrogenase E1 component beta chain) (BCKDH E1-beta)
+90.3340947,Stable,Q5SLR4,2-oxoisovalerate dehydrogenase subunit alpha (EC 1.2.4.4) (Branched-chain alpha-keto acid dehydrogenase E1 component alpha chain) (BCKDH E1-alpha)
+76.84234296,Medium,Q5SLR5,Ribosomal RNA large subunit methyltransferase H (EC 2.1.1.177) (23S rRNA (pseudouridine1915-N3)-methyltransferase) (23S rRNA m3Psi1915 methyltransferase) (rRNA (pseudouridine-N3-)-methyltransferase RlmH)
+82.74416966,Medium,Q5SLR8,Bifunctional ligase/repressor BirA (Biotin--[acetyl-CoA-carboxylase] ligase) (Biotin--protein ligase) (Biotin-[acetyl-CoA carboxylase] synthetase)
+88.7377576,Medium,Q5SLR9,Glucose-1-phosphate thymidylyltransferase
+77.26258789,Medium,Q5SLS0,Uncharacterized protein
+80.67616967,Medium,Q5SLS4,Pseudouridine synthase (EC 5.4.99.-)
+83.73053018,Medium,Q5SLS6,tRNA pseudouridine synthase B (EC 5.4.99.25) (tRNA pseudouridine(55) synthase) (Psi55 synthase) (tRNA pseudouridylate synthase) (tRNA-uridine isomerase)
+87.448009,Medium,Q5SLS7,Alanine dehydrogenase (EC 1.4.1.1)
+83.9753025,Medium,Q5SLS9,Probable kinase
+84.85445657,Medium,Q5SLT5,NAD(P) transhydrogenase subunit beta (EC 1.6.1.2) (Nicotinamide nucleotide transhydrogenase subunit beta)
+78.55223459,Medium,Q5SLT7,"Nicotinamide nucleotide transhydrogenase, alpha subunit 1"
+61.70406524,Unstable,Q5SLU1,Uncharacterized protein
+84.57219403,Medium,Q5SLU2,Mg(2+) chelatase family protein
+84.90118628,Medium,Q5SLU4,Carboxylic ester hydrolase (EC 3.1.1.-)
+73.69715998,Medium,Q5SLU5,Ribonuclease HII (RNase HII) (EC 3.1.26.4)
+83.0991198,Medium,Q5SLV1,Uncharacterized protein
+84.90997739,Medium,Q5SLV2,Dihydropteroate synthase (DHPS) (EC 2.5.1.15) (Dihydropteroate pyrophosphorylase)
+77.02178301,Medium,Q5SLV4,Uncharacterized protein
+87.76471794,Medium,Q5SLV6,Uncharacterized protein
+88.53510004,Medium,Q5SLV8,Pyruvate dehydrogenase E1 component (EC 1.2.4.1)
+69.7702746,Unstable,Q5SLV9,"Pyruvate dehydrogenase complex, dihydrolipoamide acetyltransferase E2 component"
+75.61914886,Medium,Q5SLW0,5-formyltetrahydrofolate cyclo-ligase
+64.32051421,Unstable,Q5SLW2,Antitoxin
+86.8515148,Medium,Q5SLW3,DNA-directed DNA polymerase (EC 2.7.7.7)
+85.48795014,Medium,Q5SLW4,Uncharacterized protein
+71.16935533,Unstable,Q5SLW7,Probable acetyltransferase
+63.54739376,Unstable,Q5SLW8,Cold shock protein
+86.32016616,Medium,Q5SLW9,Chaperone protein DnaJ 1
+74.03973745,Medium,Q5SLX0,"Aminotransferase, class V"
+84.86256431,Medium,Q5SLX2,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60) (4-diphosphocytidyl-2C-methyl-D-erythritol synthase) (MEP cytidylyltransferase) (MCT)
+62.46990547,Unstable,Q5SLX5,Uncharacterized protein
+84.09296807,Medium,Q5SLX6,Transcriptional regulator (TetR/AcrR family)
+63.97073544,Unstable,Q5SLY0,Uncharacterized protein
+74.04137589,Medium,Q5SLY1,30S ribosomal protein S1
+80.06817244,Medium,Q5SLY2,Leucine--tRNA ligase (EC 6.1.1.4) (Leucyl-tRNA synthetase)
+82.7980694,Medium,Q5SLY5,"Alpha-dextran endo-1,6-alpha-glucosidase ((Amylo)pullulanase)"
+68.40336857,Unstable,Q5SLY6,Probable NADH-dependent flavin oxidoreductase
+76.75593421,Medium,Q5SLY7,Uncharacterized protein
+78.82434577,Medium,Q5SLZ0,NADPH:quinone reductase
+66.41344713,Unstable,Q5SLZ5,Pseudouridine synthase (EC 5.4.99.-)
+83.00044692,Medium,Q5SLZ7,Alanyl-tRNA synthetase-related protein
+73.26708487,Medium,Q5SLZ9,Sensor histidine kinase
+82.41853492,Medium,Q5SM00,Phosphate-specific transport system accessory protein PhoU
+78.1722012,Medium,Q5SM01,Peptide chain release factor 2
+70.60799294,Unstable,Q5SM02,Uncharacterized protein
+78.43685763,Medium,Q5SM03,UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7) (Enoylpyruvate transferase) (UDP-N-acetylglucosamine enolpyruvyl transferase) (EPT)
+82.92251362,Medium,Q5SM04,Uncharacterized protein
+69.18796427,Unstable,Q5SM05,Serine/threonine protein kinase
+71.22763502,Unstable,Q5SM07,LAO/AO transport system kinase
+84.69943973,Medium,Q5SM08,MutT/nudix family protein
+69.2957185,Unstable,Q5SM09,Transcriptional repressor NrdR
+84.61303104,Medium,Q5SM11,Uncharacterized protein
+69.4443142,Unstable,Q5SM13,Deoxycytidine triphosphate deaminase (dCTP deaminase) (EC 3.5.4.13)
+70.64944242,Unstable,Q5SM16,tRNA (guanosine(18)-2'-O)-methyltransferase (EC 2.1.1.34) (tRNA [Gm18] methyltransferase)
+84.13174976,Medium,Q5SM17,Uncharacterized protein
+86.44748489,Medium,Q5SM19,Branched-chain amino acid aminotransferase (IlvE)
+65.75491178,Unstable,Q5SM20,"Transcriptional regulator, LysR family"
+71.23491081,Unstable,Q5SM22,Competence protein DprA (SMF protein (DNA processing chain A))
+75.70954223,Medium,Q5SM23,GTPase Era
+80.5143731,Medium,Q5SM24,Putative acetyltransferase
+60.78109954,Unstable,Q5SM27,"Probable 2,3-bisphosphoglycerate-independent phosphoglycerate mutase (BPG-independent PGAM) (Phosphoglyceromutase) (aPGAM) (EC 5.4.2.12)"
+89.76015536,Stable,Q5SM28,Proline--tRNA ligase (EC 6.1.1.15) (Prolyl-tRNA synthetase) (ProRS)
+68.05084182,Unstable,Q5SM31,Endonuclease III (EC 4.2.99.18) (DNA-(apurinic or apyrimidinic site) lyase)
+78.90002416,Medium,Q5SM33,Molybdopterin biosynthesis MoeA
+66.61345144,Unstable,Q5SM34,ATP-dependent RNA helicase
+67.43395269,Unstable,Q5SM35,Transketolase
+88.25512026,Medium,Q5SM37,Ribulose-phosphate 3-epimerase (EC 5.1.3.1)
+86.93229786,Medium,Q5SM40,Putative oxidoreductase
+73.66388324,Medium,Q5SM42,"Transcriptional repressor, TetR family"
+74.56897849,Medium,Q5SM43,UDP-N-acetylmuramyl-tripeptide synthetase (EC 6.3.2.-)
+87.42951656,Medium,Q5SM45,Arginine--tRNA ligase (EC 6.1.1.19) (Arginyl-tRNA synthetase) (ArgRS)
+73.70154388,Medium,Q5SM60,"Ribosomal RNA small subunit methyltransferase A (EC 2.1.1.182) (16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase) (16S rRNA dimethyladenosine transferase) (16S rRNA dimethylase) (S-adenosylmethionine-6-N', N'-adenosyl(rRNA) dimethyltransferase)"
+73.22968021,Medium,Q5SM61,Probable phosphoesterase
+76.03075825,Medium,Q5SM62,Uncharacterized protein
+85.82450176,Medium,Q5SM65,Uncharacterized protein
+82.74611696,Medium,Q5SM66,Inositol monophophatase family protein
+84.11310599,Medium,Q5SM68,Ribonucleoside-diphosphate reductase (EC 1.17.4.1)
+76.98770974,Medium,Q5SM69,DNA topoisomerase 1 (EC 5.99.1.2) (DNA topoisomerase I)
+86.80394886,Medium,Q5SM70,Uncharacterized protein
+82.87827481,Medium,Q5SM75,Uncharacterized protein
+88.34438375,Medium,Q5SM76,L-asparaginase II
+78.76904498,Medium,Q5SM78,Glycolate oxidase subunit GlcE
+70.1602871,Unstable,Q5SM80,Probable primosomal protein N' (EC 3.6.4.-) (ATP-dependent helicase PriA)
+86.45953811,Medium,Q5SM81,Alanine racemase (EC 5.1.1.1)
+80.16504538,Medium,Q5SM84,Molybdenum cofactor biosynthesis protein D/E
+67.00157038,Unstable,Q5SM85,Heat-inducible transcription repressor HrcA
+70.92537303,Unstable,Q5SM88,ATP-dependent DNA helicase RecG-related protein
+87.1180318,Medium,Q5SM89,Putative tRNA (cytidine(34)-2'-O)-methyltransferase (EC 2.1.1.207) (tRNA (cytidine/uridine-2'-O-)-methyltransferase)
+82.80392536,Medium,Q5SM92,Uncharacterized protein
+88.64208765,Medium,Q5SM94,Diacylglycerol kinase-related protein
+86.39307484,Medium,Q5SM95,Uncharacterized protein
+79.29755726,Medium,Q5SMA3,FAD/FMN-containing dehydrogenase
+80.35378201,Medium,Q5SMC0,Putative ATP-dependent protease La
+74.05905092,Medium,Q5SMC1,Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27) (ADP-glucose pyrophosphorylase) (ADPGlc PPase) (ADP-glucose synthase)
+78.35792698,Medium,Q5SMC3,Response regulator
+85.34117868,Medium,Q5SMC5,Glycogen synthase (EC 2.4.1.21) (Starch [bacterial glycogen] synthase)
+74.48495541,Medium,Q5SMC7,tRNA-dihydrouridine(20/20a) synthase (EC 1.3.1.-) (EC 1.3.1.91) (DusA-like U20-specific dihydrouridine synthase) (U20-specific Dus)
+78.38271211,Medium,Q5SMC8,4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.7.4)
+71.20187869,Unstable,Q5SMC9,Uncharacterized protein
+63.7026269,Unstable,Q5SMD0,Geranylgeranyl diphosphate synthetase
+65.2943758,Unstable,Q5SMD2,Cyclic pyranopterin phosphate synthase (EC 4.1.99.18)
+68.27933049,Unstable,Q5SMD5,Phage shock protein A
+77.87509642,Medium,Q5SMD7,1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7) (1-deoxyxylulose-5-phosphate synthase) (DXP synthase) (DXPS)
+83.98903333,Medium,Q5SMD8,Metallo-beta-lactamase family protein
+85.14560816,Medium,Q5SME2,DNA polymerase III subunit beta (EC 2.7.7.7)
+88.26258776,Medium,Q5SME5,Sulfur oxidation protein SoxY
+76.96956078,Medium,Q5SME6,Sulfur oxidation protein SoxZ
+63.81254547,Unstable,Q5SME7,SoxAX cytochrome complex subunit A (EC 1.8.2.-) (Protein SoxA) (Sulfur oxidizing protein A) (Thiosulfate-oxidizing multienzyme system protein SoxA)
+71.11381638,Unstable,Q5SME9,tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase (EC 2.8.4.3) ((Dimethylallyl)adenosine tRNA methylthiotransferase MiaB) (tRNA-i(6)A37 methylthiotransferase)
+66.77375683,Unstable,Q5SMF2,Molybdopterin-guanine dinucleotide biosynthesis protein A
+77.38418637,Medium,Q5SMF5,Uncharacterized protein
+86.27160755,Medium,Q5SMF6,"Aconitate hydratase A (ACN) (Aconitase) (EC 4.2.1.3) ((2R,3S)-2-methylisocitrate dehydratase) ((2S,3R)-3-hydroxybutane-1,2,3-tricarboxylate dehydratase) (Iron-responsive protein-like) (IRP-like) (Probable 2-methyl-cis-aconitate hydratase) (EC 4.2.1.99) (RNA-binding protein)"
+84.87336309,Medium,Q5SMF7,Membrane-bound protein LytR
+87.43575948,Medium,Q5SMF8,Glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.-)
+66.63400423,Unstable,Q5SMG4,"DNA polymerase III, delta subunit"
+89.57154737,Stable,Q5SMG6,Glycerate dehydrogenase/glyoxylate reductase
+78.23348844,Medium,Q5SMG9,ADP-ribosylglycohydrolase
+63.04571275,Unstable,Q5SMH0,S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 2.4.99.17) (Queuosine biosynthesis protein QueA)
+85.53221142,Medium,Q5SMH1,Uncharacterized protein
+79.24260729,Medium,Q5SMH2,Phosphoglucosamine mutase (EC 5.4.2.10)
+80.20921122,Medium,Q5SMH5,Probable GTP-binding protein
+85.2002572,Medium,Q5SMH6,Uncharacterized protein
+84.51476524,Medium,Q5SMH7,Amidophosphoribosyltransferase (ATase) (EC 2.4.2.14) (Glutamine phosphoribosylpyrophosphate amidotransferase)
+86.66830399,Medium,Q5SMH8,Phosphoribosylformylglycinamidine synthase subunit PurL (FGAM synthase) (EC 6.3.5.3) (Formylglycinamide ribonucleotide amidotransferase subunit II) (FGAR amidotransferase II) (FGAR-AT II) (Glutamine amidotransferase PurL) (Phosphoribosylformylglycinamidine synthase subunit II)
+83.64991539,Medium,Q5SMH9,2-haloalkanoic acid dehalogenase-related protein
+73.59852251,Medium,Q60019,NADH-quinone oxidoreductase subunit 8 (EC 1.6.5.11) (NADH dehydrogenase I subunit 8) (NDH-1 subunit 8)
+82.64188214,Medium,Q60049,NADH dehydrogenase (EC 1.6.99.3) (H(2)O(2)-forming NADH oxidase) (NADH:oxygen oxidoreductase)
+79.50466606,Medium,Q76G20,Elongation factor P (EF-P)
+77.16767403,Medium,Q7SIB9,Imidazole glycerol phosphate synthase subunit HisF (EC 4.1.3.-) (IGP synthase cyclase subunit) (IGP synthase subunit HisF) (ImGP synthase subunit HisF) (IGPS subunit HisF)
+86.81479924,Medium,Q7SIC0,Imidazole glycerol phosphate synthase subunit HisH (EC 2.4.2.-) (IGP synthase glutamine amidotransferase subunit) (IGP synthase subunit HisH) (ImGP synthase subunit HisH) (IGPS subunit HisH)
+86.12500992,Medium,Q7SIC7,Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (NN:DBI PRT) (EC 2.4.2.21) (N(1)-alpha-phosphoribosyltransferase)
+83.48820085,Medium,Q84BQ9,Ribosomal protein L11 methyltransferase (L11 Mtase) (EC 2.1.1.-)
+67.10484857,Unstable,Q8RQE7,DNA-directed RNA polymerase subunit omega (RNAP omega subunit) (EC 2.7.7.6) (RNA polymerase omega subunit) (Transcriptase subunit omega)
+88.18196282,Medium,Q8RQE8,DNA-directed RNA polymerase subunit beta' (RNAP subunit beta') (EC 2.7.7.6) (RNA polymerase subunit beta') (Transcriptase subunit beta')
+88.24225375,Medium,Q8RQE9,DNA-directed RNA polymerase subunit beta (RNAP subunit beta) (EC 2.7.7.6) (RNA polymerase subunit beta) (Transcriptase subunit beta)
+82.29737237,Medium,Q8RR57,SsrA-binding protein (Small protein B)
+78.62635696,Medium,Q8VVE2,50S ribosomal protein L7/L12
+90.83737969,Stable,Q8VVE3,50S ribosomal protein L10
+74.51875352,Medium,Q9F1Q3,Holliday junction ATP-dependent DNA helicase RuvA (EC 3.6.4.12)
+66.7354018,Unstable,Q9LCX2,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (Asp/Glu-ADT subunit B) (EC 6.3.5.-)
+76.43278752,Medium,Q9LCY2,Ribosomal RNA small subunit methyltransferase G (EC 2.1.1.170) (16S rRNA 7-methylguanosine methyltransferase) (16S rRNA m7G methyltransferase) (Glucose-inhibited division protein B)
+89.86697885,Stable,Q9RA63,Chaperone protein ClpB
+85.92396571,Medium,Q9WX76,Ribosome-recycling factor (RRF) (Ribosome-releasing factor)
+68.05147042,Unstable,Q9X9D5,Chromosomal replication initiator protein DnaA
+89.24666196,Stable,Q9Z9H5,50S ribosomal protein L17
+82.16075851,Medium,Q9ZND4,3-isopropylmalate dehydratase small subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (IPMI) (Isopropylmalate isomerase)
+83.72406742,Medium,Q9ZND5,3-isopropylmalate dehydratase large subunit (EC 4.2.1.33) (Alpha-IPM isomerase) (IPMI) (Isopropylmalate isomerase)
